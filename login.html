@@ -13,7 +13,7 @@
 
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4e9f0 100%);
             height: 100vh;
             display: flex;
             justify-content: center;
@@ -73,6 +73,25 @@
 
         .form-group input::placeholder {
             color: #bbb;
+        }
+
+        .form-group input.error {
+            border-color: #e74c3c;
+        }
+
+        .form-group input.error:focus {
+            box-shadow: 0 0 0 3px rgba(231, 76, 60, 0.15);
+        }
+
+        .form-group input.valid {
+            border-color: #27ae60;
+        }
+
+        .field-error {
+            color: #e74c3c;
+            font-size: 12px;
+            margin-top: 4px;
+            display: none;
         }
 
         .form-options {
@@ -138,12 +157,6 @@
             text-decoration: underline;
         }
 
-        .error-msg {
-            color: #e74c3c;
-            font-size: 13px;
-            margin-top: 4px;
-            display: none;
-        }
     </style>
 </head>
 <body>
@@ -154,13 +167,14 @@
         <form id="loginForm" onsubmit="return handleLogin(event)">
             <div class="form-group">
                 <label for="username">账号</label>
-                <input type="text" id="username" placeholder="请输入用户名或邮箱" autocomplete="username" required>
+                <input type="text" id="username" placeholder="请输入邮箱或用户名" autocomplete="username">
+                <div class="field-error" id="usernameError">请输入邮箱或用户名</div>
             </div>
 
             <div class="form-group">
                 <label for="password">密码</label>
-                <input type="password" id="password" placeholder="请输入密码" autocomplete="current-password" required>
-                <div class="error-msg" id="errorMsg">账号或密码错误</div>
+                <input type="password" id="password" placeholder="请输入密码（至少 6 位）" autocomplete="current-password">
+                <div class="field-error" id="passwordError">密码不能少于 6 位</div>
             </div>
 
             <div class="form-options">
@@ -179,24 +193,82 @@
     </div>
 
     <script>
-        function handleLogin(e) {
-            e.preventDefault();
-            const username = document.getElementById('username').value.trim();
-            const password = document.getElementById('password').value.trim();
-            const errorMsg = document.getElementById('errorMsg');
+        const username = document.getElementById('username');
+        const password = document.getElementById('password');
+        const usernameError = document.getElementById('usernameError');
+        const passwordError = document.getElementById('passwordError');
 
-            if (!username || !password) {
-                errorMsg.textContent = '请填写账号和密码';
-                errorMsg.style.display = 'block';
+        function showError(el, msg) {
+            el.textContent = msg;
+            el.style.display = 'block';
+        }
+
+        function hideError(el) {
+            el.style.display = 'none';
+        }
+
+        function setState(input, state) {
+            input.classList.remove('error', 'valid');
+            if (state) input.classList.add(state);
+        }
+
+        function validateUsername() {
+            const val = username.value.trim();
+            if (!val) {
+                showError(usernameError, '账号不能为空');
+                setState(username, 'error');
                 return false;
             }
-
-            // 模拟登录（演示用）
-            console.log('登录请求:', { username, password });
-            alert('登录成功（演示）');
-            errorMsg.style.display = 'none';
-            return false;
+            hideError(usernameError);
+            setState(username, 'valid');
+            return true;
         }
+
+        function validatePassword() {
+            const val = password.value;
+            if (!val) {
+                showError(passwordError, '密码不能为空');
+                setState(password, 'error');
+                return false;
+            }
+            if (val.length < 6) {
+                showError(passwordError, '密码不能少于 6 位');
+                setState(password, 'error');
+                return false;
+            }
+            hideError(passwordError);
+            setState(password, 'valid');
+            return true;
+        }
+
+        // 实时校验：失焦时触发
+        username.addEventListener('blur', validateUsername);
+        password.addEventListener('blur', validatePassword);
+
+        // 输入时清除错误状态
+        username.addEventListener('input', () => {
+            hideError(usernameError);
+            setState(username, username.value.trim() ? 'valid' : '');
+        });
+        password.addEventListener('input', () => {
+            hideError(passwordError);
+            setState(password, password.value ? 'valid' : '');
+        });
+
+        document.getElementById('loginForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+
+            const isUsernameValid = validateUsername();
+            const isPasswordValid = validatePassword();
+
+            if (!isUsernameValid || !isPasswordValid) return;
+
+            console.log('登录请求:', {
+                username: username.value.trim(),
+                password: password.value,
+            });
+            alert('登录成功（演示）');
+        });
     </script>
 </body>
 </html>
