@@ -35,15 +35,3 @@ def delete(mid):
     memos = [m for m in memos if m["id"] != mid]
     save(memos)
     print(f"已删除 #{mid}")
-
-if __name__ == "__main__":
-    while True:
-        cmd = input("\n1.查看  2.添加  3.删除  4.退出\n请选择: ").strip()
-        if cmd == "1":
-            list_all()
-        elif cmd == "2":
-            add(input("内容: "))
-        elif cmd == "3":
-            delete(int(input("编号: ")))
-        elif cmd == "4":
-            break
