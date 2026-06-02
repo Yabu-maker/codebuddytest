@@ -1,0 +1,1499 @@
+2026-06-02 15:55:15.842 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:55:15.914 [info] [HTTP STATUS] end POST /v2/billing/meter/get-dosage-notify | Status: 200 | Trace: 028356ac-e489-463c-bb54-7c946346e000 | Request: 6574729337b14f7995cd418b55dfc61c
+2026-06-02 15:55:16.220 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:55:16.345 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:55:17.711 [info] IDE headers set: Type=CodeBuddyIDE, Name=CodeBuddyIDE, Version=4.9.12
+2026-06-02 15:55:17.711 [info] [HTTP STATUS] start POST https://staging.codebuddy.cn/v2/report | Trace: 634dfebb-3298-4a96-9837-70e6e72b9dce
+2026-06-02 15:55:17.939 [info] [HTTP STATUS] end POST https://staging.codebuddy.cn/v2/report | Status: 200 | Trace: 634dfebb-3298-4a96-9837-70e6e72b9dce | Request: 8af8ac66e13f479c87c723ab111cf4a3
+2026-06-02 15:55:18.016 [info] Status updated: info | Source: editor_change | Tooltip: 自动补全已开启
+2026-06-02 15:55:35.700 [info] Status updated: info | Source: editor_change | Tooltip: 自动补全已开启
+2026-06-02 15:55:47.513 [info] [RENDERER-MEMORY] Renderer进程:6个 插件进程:RSS=220MB,Heap=184MB CPU负载:[3.92,3.79,3.93] 平台:darwin
+2026-06-02 15:55:47.513 [info] [RENDERER-MEMORY] 进程详情 PID:88637 名称:renderer-webview 内存:344MB CPU:0.0%
+2026-06-02 15:55:47.513 [info] [RENDERER-MEMORY] 进程详情 PID:88823 名称:renderer-webview 内存:49MB CPU:0.0%
+2026-06-02 15:55:47.513 [info] [RENDERER-MEMORY] 进程详情 PID:88988 名称:renderer-webview 内存:344MB CPU:19.6%
+2026-06-02 15:55:47.513 [info] [RENDERER-MEMORY] 进程详情 PID:99256 名称:renderer-webview 内存:98MB CPU:0.0%
+2026-06-02 15:55:47.513 [info] [RENDERER-MEMORY] 进程详情 PID:99621 名称:renderer-webview 内存:246MB CPU:0.8%
+2026-06-02 15:55:47.513 [info] [RENDERER-MEMORY] 进程详情 PID:99628 名称:renderer-webview 内存:49MB CPU:0.0%
+2026-06-02 15:55:48.027 [warning] [BuiltInSkillMarketplaceProvider] [BuiltInSkillMarketplace] Cannot parse version from URL: https://download.codebuddy.cn/skill-marketplace/skill-marketplace.zip
+2026-06-02 15:55:48.027 [info] [BuiltInSkillMarketplaceProvider] [BuiltInSkillMarketplace] Parsed version from URL:  (URL: https://download.codebuddy.cn/skill-marketplace/skill-marketplace.zip)
+2026-06-02 15:55:48.029 [info] [BuiltInSkillMarketplaceProvider] [BuiltInSkillMarketplace] Cannot fetch remote version but local version exists, skipping update
+2026-06-02 15:55:48.029 [info] [BuiltInSkillMarketplaceProvider] [BuiltInSkillMarketplace] Local version matches remote, skipping
+2026-06-02 15:55:51.789 [info] [webview] 2026-06-02 15:55:51.783,ChatModel start
+2026-06-02 15:55:51.789 [info] [webview] 2026-06-02 15:55:51.783,ChatModel end
+2026-06-02 15:55:51.789 [info] [webview] 2026-06-02 15:55:51.784,sendRequest[startGetConfig]
+2026-06-02 15:55:51.789 [info] [webview] 2026-06-02 15:55:51.784,isPlan start
+2026-06-02 15:55:51.789 [info] [webview] 2026-06-02 15:55:51.784,ChatMode start
+2026-06-02 15:55:51.789 [info] [webview] 2026-06-02 15:55:51.784,GeneralSetting start
+2026-06-02 15:55:51.789 [info] [webview] 2026-06-02 15:55:51.784,MaxModeMap start
+2026-06-02 15:55:51.789 [info] [webview] 2026-06-02 15:55:51.785,ChatMode end
+2026-06-02 15:55:51.789 [info] [webview] 2026-06-02 15:55:51.785,MaxModeMap end
+2026-06-02 15:55:51.789 [info] [webview] 2026-06-02 15:55:51.785,isPlan end
+2026-06-02 15:55:51.790 [info] [GeneralService] [GetConfig] key=autoModifyFile, isIDE=true, localStorage=has, configService=has
+2026-06-02 15:55:51.790 [info] [GeneralService] [GetConfig] key=autoModifyFile, value=true
+2026-06-02 15:55:51.790 [info] [GeneralService] [GetConfig] key=autoRun, isIDE=true, localStorage=has, configService=has
+2026-06-02 15:55:51.790 [info] [GeneralService] [GetConfig] key=autoRun, value=true
+2026-06-02 15:55:51.790 [info] [GeneralService] [GetConfig] key=autoAcceptWebSearch, isIDE=true, localStorage=has, configService=has
+2026-06-02 15:55:51.790 [info] [GeneralService] [GetConfig] key=autoAcceptWebSearch, value=true
+2026-06-02 15:55:51.795 [info] [webview] 2026-06-02 15:55:51.791,GeneralSetting end
+2026-06-02 15:55:51.795 [info] [webview] 2026-06-02 15:55:51.791,sendRequest[endGetConfig]
+2026-06-02 15:55:51.795 [info] [ChatService] getChatCompletions START: receivedConversationId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.795 [info] [ChatConversationController] checkAndUpdateConversationName START: conversationId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.795 [info] [ChatConversationController] checkAndUpdateConversationName SUCCESS
+2026-06-02 15:55:51.795 [info] [ChatConversationController] CurrentConversationId: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.795 [info] [HistoryService] getMessagesPaginatedByMessageBudget START: conversationId=6d83ca0bbc464ada9f6bcf077360301d, target=30, lastRequestId=undefined, min=1, max=5
+2026-06-02 15:55:51.795 [info] [startup-perf] scope=exthost phase=history:paginated-budget event=begin durationMs=- conv=6d83ca0b target=30 hasLastReq=false
+2026-06-02 15:55:51.795 [info] [HistoryService] Using cached MessageService for conversation 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.795 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.795 [info] [startup-perf] scope=exthost phase=history:get-range-requests-by-budget event=begin durationMs=- target=30 hasLastReq=false
+2026-06-02 15:55:51.796 [info] [startup-perf] scope=exthost phase=history:get-range-requests-by-budget event=end durationMs=0 reqs=5
+2026-06-02 15:55:51.796 [info] [startup-perf] scope=exthost phase=history:get-messages event=begin durationMs=- reqs=5
+2026-06-02 15:55:51.796 [info] [startup-perf] scope=exthost phase=history:get-messages-inner event=begin durationMs=- reqs=5
+2026-06-02 15:55:51.797 [info] [startup-perf] scope=exthost phase=history:get-messages-inner event=end durationMs=0 msgs=32
+2026-06-02 15:55:51.797 [info] [startup-perf] scope=exthost phase=history:get-messages event=end durationMs=1 msgs=32
+2026-06-02 15:55:51.797 [info] [startup-perf] scope=exthost phase=history:parse event=begin durationMs=- msgs=32
+2026-06-02 15:55:51.797 [info] [startup-perf] scope=exthost phase=history:parse event=end durationMs=0 msgs=32 chunks=1 totalChars=46997 maxLen=12538 maxLenMsgId=3e874d814ce04d569774cc776dd6be40 bigMessageCount=0
+2026-06-02 15:55:51.797 [info] [HistoryService] getMessagesPaginatedByMessageBudget SUCCESS: messageCount=32, hasMore=true, lastReq=9d724cd1014049b78ee011bfcc181854
+2026-06-02 15:55:51.797 [info] [startup-perf] scope=exthost phase=history:paginated-budget event=end durationMs=2 conv=6d83ca0b msgs=32 hasMore=true
+2026-06-02 15:55:51.797 [info] [HistoryService] getConversation: conversationId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.797 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.799 [info] [AgentSessionManager] createSession: cleaning up old session 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.799 [info] [AgentSessionManager] cleanupSession START: conversationId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.799 [info] [AgentSessionManager] cleanupSession: releasing agent from CheckpointCoordinator for conversationId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.799 [info] [CheckpointCoordinator] releaseAgent START: agentId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.799 [info] [AgentSessionManager] cleanupSession: clearing agent changes from FileDiffCoordinator for conversationId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.799 [info] [FileDiffCoordinator] clearAgentChanges START: agentId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.799 [info] [FileDiffCoordinator] clearAgentChanges SKIP: agentId=6d83ca0bbc464ada9f6bcf077360301d not found
+2026-06-02 15:55:51.799 [info] [CoordinatorRegistry] Released: 6d83ca0b, refCount: 0
+2026-06-02 15:55:51.799 [info] [CoordinatorRegistry] Scheduled cleanup for 6d83ca0b in 60000ms
+2026-06-02 15:55:51.799 [info] [DispatchContextManager] Removed context for conversationId: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.799 [info] [AgentSessionManager] cleanupSession SUCCESS: conversationId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.799 [info] [CoordinatorRegistry] Acquired: 6d83ca0b, refCount: 1
+2026-06-02 15:55:51.799 [info] [AgentSessionManager] createSession: created new session 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.799 [info] [AgentSessionManager] createSession: marking agent active in CheckpointCoordinator
+2026-06-02 15:55:51.799 [info] [MediaWatcherService] Agent state changed: idle -> preparing, active sessions: 1
+2026-06-02 15:55:51.799 [info] [MediaWatcherService] Starting watchers for 1 workspace folder(s)
+2026-06-02 15:55:51.799 [info] [MediaWatcherService] Watcher created for /Users/vinyaliu/Documents/programs/codebuddytest
+2026-06-02 15:55:51.799 [info] [MediaWatcherService] Watching started
+2026-06-02 15:55:51.799 [info] [AcpMessageRouter:6d83ca0bbc464ada9f6bcf077360301d] Agent session RUNNING, ensuring AcpSessionEventHandler for state sync
+2026-06-02 15:55:51.799 [info] [MediaWatcherService] Agent state changed: preparing -> running, active sessions: 1
+2026-06-02 15:55:51.799 [info] [AgentSessionManager] executeAsync: state transitioned to RUNNING
+2026-06-02 15:55:51.799 [info] [DispatchContextManager] Created context for conversationId: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.799 [info] [AgentSessionManager] startAgent SUCCESS: conversationId=6d83ca0bbc464ada9f6bcf077360301d, requestId=871d804e-b825-4891-ab30-89f6063127cb
+2026-06-02 15:55:51.800 [info] [ChatStateSyncListener] Using conversation.name: "帮我优化该文件代码..."
+2026-06-02 15:55:51.800 [info] [ChatStateSyncListener] Using conversation.name: "帮我优化该文件代码..."
+2026-06-02 15:55:51.800 [info] [CheckpointCoordinator] releaseAgent SKIP: agentId=6d83ca0bbc464ada9f6bcf077360301d not found
+2026-06-02 15:55:51.800 [info] [AgentSessionManager] executeAsync: building agent context
+2026-06-02 15:55:51.800 [info] IDE headers set: Type=CodeBuddyIDE, Name=CodeBuddyIDE, Version=4.9.12
+2026-06-02 15:55:51.800 [info] [HTTP STATUS] start GET /v2/enterprises/fnidfo78gb28/knowledge-bases | Trace: 19a1c340-c342-4a4f-87e7-018acb0ae7e6
+2026-06-02 15:55:51.803 [info] [ChatStateSyncListener] Session 6d83ca0bbc464ada9f6bcf077360301d synced to main process with title: "帮我优化该文件代码..."
+2026-06-02 15:55:51.807 [info] [ChatStateSyncListener] Session 6d83ca0bbc464ada9f6bcf077360301d synced to main process with title: "帮我优化该文件代码..."
+2026-06-02 15:55:51.809 [info] [plugin-manager] [PluginManager] allPluginRules: Returning 0 plugin rule(s)
+2026-06-02 15:55:51.810 [info] [MessageQueueCommandService] resume: conversationId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.810 [info] [MessageQueueCommandService] activate: conversationId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.810 [info] [webview] 2026-06-02 15:55:51.804,send prompt result,
+2026-06-02 15:55:51.810 [info] [ConversationService] getConversationsWithState: returning 4 conversations, activeSessions=1
+2026-06-02 15:55:51.810 [info] [ConversationService] getConversationsWithState: returning 4 conversations, activeSessions=1
+2026-06-02 15:55:51.811 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:55:51.848 [info] [plugin-manager] [PluginManager] allPluginRules: Returning 0 plugin rule(s)
+2026-06-02 15:55:51.848 [info] [rule-context] allRules: 0; commonItems: 0
+2026-06-02 15:55:51.848 [info] [HistoryService] getMessagesPaginated START: conversationId=6d83ca0bbc464ada9f6bcf077360301d, pageSize=5, lastRequestId=undefined
+2026-06-02 15:55:51.848 [info] [startup-perf] scope=exthost phase=history:paginated event=begin durationMs=- conv=6d83ca0b pageSize=5 hasLastReq=false
+2026-06-02 15:55:51.848 [info] [HistoryService] Using cached MessageService for conversation 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.849 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.849 [info] [startup-perf] scope=exthost phase=history:get-range-requests event=begin durationMs=-
+2026-06-02 15:55:51.850 [info] [[acp-conn]] [AcpConnection:6d83ca0bbc464ada9f6bcf077360301d] Sending message queue snapshot changed notification
+2026-06-02 15:55:51.850 [info] [MessageQueueOrchestrator] evaluate: conversationId=6d83ca0bbc464ada9f6bcf077360301d, activated=true, paused=false, inflight=none, immediate=none, items=0
+2026-06-02 15:55:51.850 [info] [[acp-conn]] [AcpConnection:6d83ca0bbc464ada9f6bcf077360301d] Sending message queue snapshot changed notification
+2026-06-02 15:55:51.850 [info] [MessageQueueOrchestrator] evaluate: conversationId=6d83ca0bbc464ada9f6bcf077360301d, activated=true, paused=false, inflight=none, immediate=none, items=0
+2026-06-02 15:55:51.851 [info] [memory-context] Memory enabled, loaded 0 enabled memories
+2026-06-02 15:55:51.851 [info] [startup-perf] scope=exthost phase=history:get-range-requests event=end durationMs=2 reqs=5
+2026-06-02 15:55:51.851 [info] [startup-perf] scope=exthost phase=history:get-messages event=begin durationMs=- reqs=5
+2026-06-02 15:55:51.851 [info] [startup-perf] scope=exthost phase=history:get-messages-inner event=begin durationMs=- reqs=5
+2026-06-02 15:55:51.851 [info] [AgentContextBuilderImpl.getRenderContext] [LocalMemory] localMemoryEnabled=true, isWorkBuddyPromptContextEnabled=false, injectClawMemory=true
+2026-06-02 15:55:51.851 [info] [UserMemoryEvent] memory_injection_attempt traceId=5dca776159eb6b5145023282226c3c7d requestId=871d804e-b825-4891-ab30-89f6063127cb conversationId=6d83ca0bbc464ada9f6bcf077360301d userId=949d...d768
+2026-06-02 15:55:51.851 [info] [UserMemoryEvent] memory_injection_skip traceId=5dca776159eb6b5145023282226c3c7d requestId=871d804e-b825-4891-ab30-89f6063127cb conversationId=6d83ca0bbc464ada9f6bcf077360301d userId=949d...d768 resultCode=SKIP skip_reason=workbuddy_context_disabled
+2026-06-02 15:55:51.852 [info] [Connector-Debug] getServersSync called, initial serverMap.size=0
+2026-06-02 15:55:51.852 [info] [Connector-Debug] getServersSync: loading from file...
+2026-06-02 15:55:51.852 [info] [ConnectorMcpService] loadServersFromFileSync: reading from /Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/connectors/connector-servers.json
+2026-06-02 15:55:51.852 [warning] [ConnectorMcpService] loadServersFromFileSync: failed to load - ENOENT: no such file or directory, open '/Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/connectors/connector-servers.json'
+2026-06-02 15:55:51.852 [info] [Connector-Debug] getServersSync: after loadServersFromFileSync, serverMap.size=0
+2026-06-02 15:55:51.852 [info] [Connector-Debug] getServersSync result: total=0, connected=0, servers=none
+2026-06-02 15:55:51.852 [info] [Connector-Debug] getServersSync called, initial serverMap.size=0
+2026-06-02 15:55:51.852 [info] [Connector-Debug] getServersSync: loading from file...
+2026-06-02 15:55:51.852 [info] [ConnectorMcpService] loadServersFromFileSync: reading from /Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/connectors/connector-servers.json
+2026-06-02 15:55:51.852 [warning] [ConnectorMcpService] loadServersFromFileSync: failed to load - ENOENT: no such file or directory, open '/Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/connectors/connector-servers.json'
+2026-06-02 15:55:51.852 [info] [Connector-Debug] getServersSync: after loadServersFromFileSync, serverMap.size=0
+2026-06-02 15:55:51.852 [info] [Connector-Debug] getServersSync result: total=0, connected=0, servers=none
+2026-06-02 15:55:51.852 [info] [MCP-Debug] getMcpDescriptionPrompt: chatType=craft
+2026-06-02 15:55:51.852 [info] [MCP-Debug] userServers (connected): CNB MCP Server:connected, tcsas-devtools-mcp-server:connected
+2026-06-02 15:55:51.852 [info] [MCP-Debug] connectorServers (all): none
+2026-06-02 15:55:51.852 [info] [MCP-Debug] connectorServers (enabled & has tools): none
+2026-06-02 15:55:51.852 [info] [startup-perf] scope=exthost phase=history:get-messages-inner event=end durationMs=1 msgs=32
+2026-06-02 15:55:51.852 [info] [startup-perf] scope=exthost phase=history:parse event=begin durationMs=- msgs=32
+2026-06-02 15:55:51.852 [info] [startup-perf] scope=exthost phase=history:parse event=end durationMs=0 msgs=32 chunks=1 totalChars=46997 maxLen=12538 maxLenMsgId=3e874d814ce04d569774cc776dd6be40 bigMessageCount=0
+2026-06-02 15:55:51.852 [info] [startup-perf] scope=exthost phase=history:get-messages event=end durationMs=1 msgs=32
+2026-06-02 15:55:51.852 [info] [HistoryService] getMessagesPaginated SUCCESS: messageCount=32, hasMore=true
+2026-06-02 15:55:51.852 [info] [startup-perf] scope=exthost phase=history:paginated event=end durationMs=4 conv=6d83ca0b msgs=32 hasMore=true
+2026-06-02 15:55:51.852 [info] [HistoryService] getConversation: conversationId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.859 [info] [AgentSessionManager] executeAsync: context built, agentName=craft
+2026-06-02 15:55:51.859 [info] [6d83ca0bbc464ada9f6bcf077360301d] [AgentSessionManager] Forward vision model to agentContext: modelId=deepseek-v4-flash, supportsImages=true
+2026-06-02 15:55:51.859 [info] [AgentSessionManager] executeAsync: dispatching agent craft
+2026-06-02 15:55:51.859 [info] Language model: deepseek-v4-flash
+2026-06-02 15:55:51.860 [info] [CraftInvokableAgent] [5dca776159eb6b5145023282226c3c7d] Starting agent call with mode: craft
+2026-06-02 15:55:51.860 [info] [CraftInvokableAgent] [5dca776159eb6b5145023282226c3c7d] Preparing model: Deepseek-V4-Flash (deepseek-v4-flash)
+2026-06-02 15:55:51.860 [info] [CraftInvokableAgent] [5dca776159eb6b5145023282226c3c7d] Model deepseek-v4-flash supports and enabled reasoning, using reasoning params {
+    "effort": "high",
+    "summary": "auto"
+}
+2026-06-02 15:55:51.860 [info] [CraftInvokableAgent] [5dca776159eb6b5145023282226c3c7d] endpoint: https://staging.codebuddy.cn/v2 model: {"descriptionEn":"DeepSeek flagship model, supporting 1M context window","descriptionZh":"DeepSeek 旗舰模型，支持 1M 上下文窗口","id":"deepseek-v4-flash","maxAllowedSize":1000000,"maxInputTokens":1000000,"maxOutputTokens":50000,"name":"Deepseek-V4-Flash","onlyReasoning":true,"reasoning":{"effort":"high","summary":"auto"},"supportsImages":true,"supportsReasoning":true,"supportsToolCall":true,"tags":["badge:限时折扣:#E53935"],"temperature":1,"vendor":"f"}
+2026-06-02 15:55:51.860 [info] [CraftInvokableAgent] [5dca776159eb6b5145023282226c3c7d] Model prepared: Deepseek-V4-Flash (deepseek-v4-flash)
+2026-06-02 15:55:51.860 [info] [CraftInvokableAgentExecutor] [5dca776159eb6b5145023282226c3c7d] Executing in mode: craft, enableTodos: false, isMaxMode: false
+2026-06-02 15:55:51.860 [info] [HistoryService] getConversation: conversationId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.861 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.861 [info] [CraftInvokableAgentExecutor] [skills-debug] Before reload: workspace=/Users/vinyaliu/Documents/programs/codebuddytest, skillsManager.workspacePath=/Users/vinyaliu/Documents/programs/codebuddytest
+2026-06-02 15:55:51.861 [info] Reloading skills... (workspace: /Users/vinyaliu/Documents/programs/codebuddytest, skillScanDirs: [.codebuddy, .workbuddy, .claude, .agents, .openclaw])
+2026-06-02 15:55:51.861 [info] loadCustomSkillsWithWorkspace targetWorkspacePath: /Users/vinyaliu/Documents/programs/codebuddytest
+2026-06-02 15:55:51.867 [info] [plugin-manager] [PluginManager.getMarketplace] Looking for marketplace: codebuddy-plugins-official, available marketplaces: codebuddy-plugins-official(storage:codebuddy-plugins-official), cb_teams_marketplace(storage:cb_teams_marketplace), claude-plugins-official(storage:claude-plugins-official)
+2026-06-02 15:55:51.867 [info] [plugin-manager] [PluginManager.getMarketplace] Found: codebuddy-plugins-official, manifest plugins: 207
+2026-06-02 15:55:51.867 [info] [plugin-manager] [PluginManager.getMarketplace] Looking for marketplace: codebuddy-plugins-official, available marketplaces: codebuddy-plugins-official(storage:codebuddy-plugins-official), cb_teams_marketplace(storage:cb_teams_marketplace), claude-plugins-official(storage:claude-plugins-official)
+2026-06-02 15:55:51.867 [info] [plugin-manager] [PluginManager.getMarketplace] Found: codebuddy-plugins-official, manifest plugins: 207
+2026-06-02 15:55:51.867 [info] [plugin-manager] [PluginManager.getMarketplace] Looking for marketplace: codebuddy-plugins-official, available marketplaces: codebuddy-plugins-official(storage:codebuddy-plugins-official), cb_teams_marketplace(storage:cb_teams_marketplace), claude-plugins-official(storage:claude-plugins-official)
+2026-06-02 15:55:51.867 [info] [plugin-manager] [PluginManager.getMarketplace] Found: codebuddy-plugins-official, manifest plugins: 207
+2026-06-02 15:55:51.868 [info] [plugin-manager] [PluginManager.getMarketplace] Looking for marketplace: codebuddy-plugins-official, available marketplaces: codebuddy-plugins-official(storage:codebuddy-plugins-official), cb_teams_marketplace(storage:cb_teams_marketplace), claude-plugins-official(storage:claude-plugins-official)
+2026-06-02 15:55:51.868 [info] [plugin-manager] [PluginManager.getMarketplace] Found: codebuddy-plugins-official, manifest plugins: 207
+2026-06-02 15:55:51.868 [info] [plugin-manager] [PluginManager.getMarketplace] Looking for marketplace: codebuddy-plugins-official, available marketplaces: codebuddy-plugins-official(storage:codebuddy-plugins-official), cb_teams_marketplace(storage:cb_teams_marketplace), claude-plugins-official(storage:claude-plugins-official)
+2026-06-02 15:55:51.868 [info] [plugin-manager] [PluginManager.getMarketplace] Found: codebuddy-plugins-official, manifest plugins: 207
+2026-06-02 15:55:51.868 [info] [plugin-manager] [PluginManager.getMarketplace] Looking for marketplace: codebuddy-plugins-official, available marketplaces: codebuddy-plugins-official(storage:codebuddy-plugins-official), cb_teams_marketplace(storage:cb_teams_marketplace), claude-plugins-official(storage:claude-plugins-official)
+2026-06-02 15:55:51.868 [info] [plugin-manager] [PluginManager.getMarketplace] Found: codebuddy-plugins-official, manifest plugins: 207
+2026-06-02 15:55:51.868 [info] [plugin-manager] [PluginManager.getMarketplace] Looking for marketplace: codebuddy-plugins-official, available marketplaces: codebuddy-plugins-official(storage:codebuddy-plugins-official), cb_teams_marketplace(storage:cb_teams_marketplace), claude-plugins-official(storage:claude-plugins-official)
+2026-06-02 15:55:51.868 [info] [plugin-manager] [PluginManager.getMarketplace] Found: codebuddy-plugins-official, manifest plugins: 207
+2026-06-02 15:55:51.868 [info] [plugin-manager] [PluginManager.getMarketplace] Looking for marketplace: codebuddy-plugins-official, available marketplaces: codebuddy-plugins-official(storage:codebuddy-plugins-official), cb_teams_marketplace(storage:cb_teams_marketplace), claude-plugins-official(storage:claude-plugins-official)
+2026-06-02 15:55:51.868 [info] [plugin-manager] [PluginManager.getMarketplace] Found: codebuddy-plugins-official, manifest plugins: 207
+2026-06-02 15:55:51.868 [info] [plugin-manager] [PluginManager.getMarketplace] Looking for marketplace: codebuddy-plugins-official, available marketplaces: codebuddy-plugins-official(storage:codebuddy-plugins-official), cb_teams_marketplace(storage:cb_teams_marketplace), claude-plugins-official(storage:claude-plugins-official)
+2026-06-02 15:55:51.868 [info] [plugin-manager] [PluginManager.getMarketplace] Found: codebuddy-plugins-official, manifest plugins: 207
+2026-06-02 15:55:51.868 [info] [plugin-manager] [PluginManager.getMarketplace] Looking for marketplace: codebuddy-plugins-official, available marketplaces: codebuddy-plugins-official(storage:codebuddy-plugins-official), cb_teams_marketplace(storage:cb_teams_marketplace), claude-plugins-official(storage:claude-plugins-official)
+2026-06-02 15:55:51.868 [info] [plugin-manager] [PluginManager.getMarketplace] Found: codebuddy-plugins-official, manifest plugins: 207
+2026-06-02 15:55:51.868 [info] [plugin-manager] Loaded 8 installed plugins
+2026-06-02 15:55:51.869 [info] [plugin-manager] [allPluginSkills] Found 8 installed plugin(s), forceRefresh=true, projectPath=/Users/vinyaliu/Documents/programs/codebuddytest/.codebuddy/settings.json
+2026-06-02 15:55:51.869 [info] [plugin-manager] [allPluginSkills] Plugin pptx: 1 skill(s), installedPath=/Users/vinyaliu/.codebuddy/plugins/marketplaces/codebuddy-plugins-official/plugins/pptx
+2026-06-02 15:55:51.869 [info] [plugin-manager] [allPluginSkills] Plugin pdf: 3 skill(s), installedPath=/Users/vinyaliu/.codebuddy/plugins/marketplaces/codebuddy-plugins-official/plugins/pdf
+2026-06-02 15:55:51.869 [info] [plugin-manager] [allPluginSkills] Plugin docx: 1 skill(s), installedPath=/Users/vinyaliu/.codebuddy/plugins/marketplaces/codebuddy-plugins-official/plugins/docx
+2026-06-02 15:55:51.869 [info] [plugin-manager] [allPluginSkills] Plugin xlsx: 1 skill(s), installedPath=/Users/vinyaliu/.codebuddy/plugins/marketplaces/codebuddy-plugins-official/plugins/xlsx
+2026-06-02 15:55:51.869 [info] [plugin-manager] [allPluginSkills] Plugin agent-browser: 1 skill(s), installedPath=/Users/vinyaliu/.codebuddy/plugins/marketplaces/codebuddy-plugins-official/plugins/agent-browser
+2026-06-02 15:55:51.869 [info] [plugin-manager] [allPluginSkills] Plugin playwright-cli: 1 skill(s), installedPath=/Users/vinyaliu/.codebuddy/plugins/marketplaces/codebuddy-plugins-official/plugins/playwright-cli
+2026-06-02 15:55:51.869 [info] [plugin-manager] [allPluginSkills] Plugin find-skills: 1 skill(s), installedPath=/Users/vinyaliu/.codebuddy/plugins/marketplaces/codebuddy-plugins-official/plugins/find-skills
+2026-06-02 15:55:51.869 [info] [plugin-manager] [allPluginSkills] Plugin all-commands: no skills (skills=false, installedPathType=string, installedPath="/Users/vinyaliu/.codebuddy/plugins/marketplaces/codebuddy-plugins-official/external_plugins/all-commands")
+2026-06-02 15:55:51.871 [info] loadPluginSkills count: 9
+2026-06-02 15:55:51.871 [info] [loadPluginSkills] Loaded plugin skill: pptx, source=plugin, pluginInfo={"pluginName":"pptx","marketplaceName":"codebuddy-plugins-official"}
+2026-06-02 15:55:51.871 [info] [loadPluginSkills] Loaded plugin skill: pdf, source=plugin, pluginInfo={"pluginName":"pdf","marketplaceName":"codebuddy-plugins-official"}
+2026-06-02 15:55:51.871 [info] [loadPluginSkills] Loaded plugin skill: pdf, source=plugin, pluginInfo={"pluginName":"pdf","marketplaceName":"codebuddy-plugins-official"}
+2026-06-02 15:55:51.871 [info] [loadPluginSkills] Loaded plugin skill: pdf, source=plugin, pluginInfo={"pluginName":"pdf","marketplaceName":"codebuddy-plugins-official"}
+2026-06-02 15:55:51.871 [info] [loadPluginSkills] Loaded plugin skill: docx, source=plugin, pluginInfo={"pluginName":"docx","marketplaceName":"codebuddy-plugins-official"}
+2026-06-02 15:55:51.871 [info] [loadPluginSkills] Loaded plugin skill: xlsx, source=plugin, pluginInfo={"pluginName":"xlsx","marketplaceName":"codebuddy-plugins-official"}
+2026-06-02 15:55:51.871 [info] [loadPluginSkills] Loaded plugin skill: agent-browser, source=plugin, pluginInfo={"pluginName":"agent-browser","marketplaceName":"codebuddy-plugins-official"}
+2026-06-02 15:55:51.871 [info] [loadPluginSkills] Loaded plugin skill: playwright-cli, source=plugin, pluginInfo={"pluginName":"playwright-cli","marketplaceName":"codebuddy-plugins-official"}
+2026-06-02 15:55:51.871 [info] [loadPluginSkills] Loaded plugin skill: find-skills, source=plugin, pluginInfo={"pluginName":"find-skills","marketplaceName":"codebuddy-plugins-official"}
+2026-06-02 15:55:51.872 [info] [ConnectorSkill-Debug] loadConnectorSkills: scanning skillsBaseDir=/Users/vinyaliu/.codebuddy/connectors/skills
+2026-06-02 15:55:51.872 [info] [ConnectorSkill-Debug] loadConnectorSkills: found 1 connector dirs: [fbs-connector]
+2026-06-02 15:55:51.872 [info] [ConnectorSkill-Debug] loadConnectorSkills: connector fbs-connector has files: [SKILL]
+2026-06-02 15:55:51.872 [info] [SkillsManager] parseConnectorSkillFile: filePath=/Users/vinyaliu/.codebuddy/connectors/skills/fbs-connector/SKILL/SKILL.md, frontmatter={"name":"fbs-connector","description":"福帮手项目生态连接器。连接访问码激活、权益预检、乐包积分、身份与场景包查询。","description_zh":"福帮手项目生态连接器。连接访问码激活、权益预检、乐包积分、身份与场景包查询。","description_en":"Fubangshou connector for activation, entitlement checks, points, identity and scene-pack queries.","version":"1.0.0","allowed-tools":"Read,Write,Bash","connector":"fbs-connector","source":"connector","disable":false}
+2026-06-02 15:55:51.872 [info] [SkillsManager] parseConnectorSkillFile: name=fbs-connector, disable=false, connectorId=fbs-connector
+2026-06-02 15:55:51.872 [info] [ConnectorSkill-Debug] loadConnectorSkills: loaded 1 skills from connector: fbs-connector, names: [fbs-connector(disable=false)]
+2026-06-02 15:55:51.872 [info] [ConnectorSkill-Debug] loadConnectorSkills: total 1 connector skills loaded
+2026-06-02 15:55:51.872 [info] [ConnectorSkill-Debug] loadCustomSkillsWithWorkspace: skill counts by source - workspace=0, user=9, builtin=2, plugin=9, wecom=0, connector=1
+2026-06-02 15:55:51.872 [info] [ConnectorSkill-Debug] loadCustomSkillsWithWorkspace: connector skills detail: [{"name":"fbs-connector","disable":false,"source":"connector","connectorId":"fbs-connector"}]
+2026-06-02 15:55:51.872 [info] [ConnectorSkill-Debug] loadCustomSkillsWithWorkspace: after dedup, connector skills count=1, names=[fbs-connector]
+2026-06-02 15:55:51.872 [info] loadCustomSkillsWithWorkspace loaded 19 skills after deduplication
+2026-06-02 15:55:51.872 [info] Loaded 19 skills
+2026-06-02 15:55:51.873 [info] [CraftInvokableAgentExecutor] [skills-debug] After reload: 19 skills loaded: [Cloudflare, TAPD, comic-stability, social-media-marketing, webapp-testing, 企业微信套件, 内容总结, 腾讯会议, 腾讯文档, 多模态内容生成, skill-creator, pptx, pdf, docx, xlsx, agent-browser, playwright-cli, find-skills, fbs-connector]
+2026-06-02 15:55:51.873 [info] [web-search-cache] no ban record for user 949dfa74-7aad-4838-96a4-64f8e2b1d768.
+2026-06-02 15:55:51.873 [info] [subagent-manager] [SubagentManager] 使用缓存数据
+2026-06-02 15:55:51.873 [info] [CraftInvokableAgentExecutor] [prepareConversation] Using conversationId from variables: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.873 [info] [CraftInvokableAgentExecutor] [craft-executor] Building toolInitialParam, getting MCP descriptions...
+2026-06-02 15:55:51.873 [info] [CraftInvokableAgentExecutor] [getMcpDescriptions] User MCP servers: 2, names: CNB MCP Server, tcsas-devtools-mcp-server
+2026-06-02 15:55:51.873 [info] [Connector-Debug] getServersSync called, initial serverMap.size=0
+2026-06-02 15:55:51.873 [info] [Connector-Debug] getServersSync: loading from file...
+2026-06-02 15:55:51.873 [info] [ConnectorMcpService] loadServersFromFileSync: reading from /Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/connectors/connector-servers.json
+2026-06-02 15:55:51.873 [warning] [ConnectorMcpService] loadServersFromFileSync: failed to load - ENOENT: no such file or directory, open '/Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/connectors/connector-servers.json'
+2026-06-02 15:55:51.873 [info] [Connector-Debug] getServersSync: after loadServersFromFileSync, serverMap.size=0
+2026-06-02 15:55:51.873 [info] [Connector-Debug] getServersSync result: total=0, connected=0, servers=none
+2026-06-02 15:55:51.873 [info] [CraftInvokableAgentExecutor] [getMcpDescriptions] All connector servers: 0, details: []
+2026-06-02 15:55:51.873 [info] [CraftInvokableAgentExecutor] [getMcpDescriptions] Filtered connector servers (connected & enabled): 0, names: 
+2026-06-02 15:55:51.873 [info] [CraftInvokableAgentExecutor] [getMcpDescriptions] Total MCP servers after merge: 2, names: CNB MCP Server, tcsas-devtools-mcp-server
+2026-06-02 15:55:51.873 [info] [CraftInvokableAgentExecutor] [getMcpDescriptions] Final mcpTools count: 2, servers: CNB MCP Server, tcsas-devtools-mcp-server
+2026-06-02 15:55:51.873 [info] [CraftInvokableAgentExecutor] [craft-executor] MCP tools obtained: count=2, servers=CNB MCP Server(40 tools), tcsas-devtools-mcp-server(7 tools)
+2026-06-02 15:55:51.873 [info] [Connector-Debug] getServersSync called, initial serverMap.size=0
+2026-06-02 15:55:51.873 [info] [Connector-Debug] getServersSync: loading from file...
+2026-06-02 15:55:51.873 [info] [ConnectorMcpService] loadServersFromFileSync: reading from /Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/connectors/connector-servers.json
+2026-06-02 15:55:51.873 [warning] [ConnectorMcpService] loadServersFromFileSync: failed to load - ENOENT: no such file or directory, open '/Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/connectors/connector-servers.json'
+2026-06-02 15:55:51.873 [info] [Connector-Debug] getServersSync: after loadServersFromFileSync, serverMap.size=0
+2026-06-02 15:55:51.873 [info] [Connector-Debug] getServersSync result: total=0, connected=0, servers=none
+2026-06-02 15:55:51.873 [info] [CraftInvokableAgentExecutor] [craft-executor] toolInitialParam: isMemoryGloballyEnabled=true, platform=CodeBuddyIDE, memoryReference.exists=true, memoryReference.enabled=true
+2026-06-02 15:55:51.873 [info] [CraftInvokableAgentExecutor] [5dca776159eb6b5145023282226c3c7d] craftAgent.run.userContext: {
+  "env": {
+    "os": "darwin",
+    "workspace": "/Users/vinyaliu/Documents/programs/codebuddytest",
+    "shell": "Zsh",
+    "currentFile": {
+      "path": "/Users/vinyaliu/Documents/programs/codebuddytest/register.html",
+      "totalLines": 390
+    },
+    "recentFiles": [
+      {
+        "path": "/Users/vinyaliu/Documents/programs/codebuddytest/register.html",
+        "opened": true
+      }
+    ],
+    "defaultFolderPath": "/Users/vinyaliu/CodeBuddy"
+  },
+  "input": "帮我优化一下这个网页，将背景弄得好看一点",
+  "references": [
+    {
+      "type": "memory",
+      "enabled": true,
+      "memories": []
+    }
+  ],
+  "commandPrompt": "",
+  "gitStashInfoTimeout": 3000,
+  "gitStatusMaxLength": 1500,
+  "projectInfoTimeout": 3000,
+  "projectInfoFileMaxCount": 1000,
+  "sourceContentBlocks": [
+    {
+      "type": "text",
+      "text": "帮我优化一下这个网页，将背景弄得好看一点"
+    }
+  ],
+  "skipUserQueryTag": false,
+  "conversationId": "6d83ca0bbc464ada9f6bcf077360301d",
+  "localMemoryEnabled": true,
+  "isWecomAiBot": false
+}
+2026-06-02 15:55:51.873 [info] [CraftInvokableAgentExecutor] [prepareConversation] Using conversationId from variables: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.873 [info] [CraftInvokableAgentExecutor] prepareConversation.conversationId: 6d83ca0bbc464ada9f6bcf077360301d, isExternalConversation: true
+2026-06-02 15:55:51.874 [info] [createServices] Starting conversationId=6d83ca0bbc464ada9f6bcf077360301d, requestId=undefined, initialized=true
+2026-06-02 15:55:51.874 [info] [createServices] Completed conversationId=6d83ca0bbc464ada9f6bcf077360301d, hasVersionService=true, duration=0ms
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: list_dir
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: search_file
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: search_content
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: read_file
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: read_lints
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: replace_in_file
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: write_to_file
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: execute_command
+2026-06-02 15:55:51.875 [info] [rag-search] [getRAGSearchMeta] Found 0 knowledge bases
+2026-06-02 15:55:51.875 [warning] [rag-search] [getRAGSearchMeta] No knowledge bases available
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: mcp_get_tool_description
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: mcp_call_tool
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: update_memory
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: connect_cloud_service
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: search_content
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: write_to_file
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: replace_in_file
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: delete_file
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: execute_command
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: install_binary
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: preview_url
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: ask_followup_question
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: invoke_integration
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: web_fetch
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: use_skill
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: web_search
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: task
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: team_create
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: team_delete
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: send_message
+2026-06-02 15:55:51.875 [info] [ToolProviderImpl] 注册工具: automation_update
+2026-06-02 15:55:51.875 [info] [BaseAgent:craft] ToolManager initialized via factory
+2026-06-02 15:55:51.875 [info] [CraftInvokableAgentExecutor] [CraftInvokableAgentExecutor] Getting transcript path for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.875 [info] [HistoryService] getTranscriptPathSync called for conversationId: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.875 [info] [HistoryStorage] getTranscriptPath called, initialized=true, workspaceId=/Users/vinyaliu/Documents/programs/codebuddytest, uid=949dfa74-7aad-4838-96a4-64f8e2b1d768, conversationId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.875 [info] [HistoryStorage] Constructed transcript path: /Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/949dfa74-7aad-4838-96a4-64f8e2b1d768/history/ac49ba4182b559db21a5bb803c8b5d34/6d83ca0bbc464ada9f6bcf077360301d/index.json
+2026-06-02 15:55:51.875 [info] [HistoryService] getTranscriptPathSync result: /Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/949dfa74-7aad-4838-96a4-64f8e2b1d768/history/ac49ba4182b559db21a5bb803c8b5d34/6d83ca0bbc464ada9f6bcf077360301d/index.json
+2026-06-02 15:55:51.875 [info] [CraftInvokableAgentExecutor] [CraftInvokableAgentExecutor] Transcript path obtained: /Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/949dfa74-7aad-4838-96a4-64f8e2b1d768/history/ac49ba4182b559db21a5bb803c8b5d34/6d83ca0bbc464ada9f6bcf077360301d/index.json
+2026-06-02 15:55:51.875 [info] [[HookMiddleware]] [HookMiddleware] Initial session info set: sessionId=6d83ca0bbc464ada9f6bcf077360301d, transcriptPath=/Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/949dfa74-7aad-4838-96a4-64f8e2b1d768/history/ac49ba4182b559db21a5bb803c8b5d34/6d83ca0bbc464ada9f6bcf077360301d/index.json
+2026-06-02 15:55:51.875 [info] [CraftInvokableAgentExecutor] Middlewares configured successfully
+2026-06-02 15:55:51.875 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] [AgentReporter] conversationId: 6d83ca0bbc464ada9f6bcf077360301d, requestId: 2b71d854d6c84c4e9fb89da4665ff73f, traceId: 5dca776159eb6b5145023282226c3c7d
+2026-06-02 15:55:51.875 [info] [AgentMessageReporter] conversationId: 6d83ca0bbc464ada9f6bcf077360301d, requestId: 2b71d854d6c84c4e9fb89da4665ff73f, traceId: 5dca776159eb6b5145023282226c3c7d
+2026-06-02 15:55:51.875 [info] [[HookMiddleware]] [HookMiddleware] Configured session info: sessionId=6d83ca0bbc464ada9f6bcf077360301d, transcriptPath=/Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/949dfa74-7aad-4838-96a4-64f8e2b1d768/history/ac49ba4182b559db21a5bb803c8b5d34/6d83ca0bbc464ada9f6bcf077360301d/index.json
+2026-06-02 15:55:51.875 [info] [[HookMiddleware]] Configured session info and hook context for HookableToolManager
+2026-06-02 15:55:51.875 [info] [plugin-manager] Loaded 0 hooks for 0 events from 8 plugin(s)
+2026-06-02 15:55:51.875 [info] [SettingConfigManager] UserConfigs: 0; pluginConfigs: 0
+2026-06-02 15:55:51.875 [info] [HookExecutor] Got 0 hook config(s) for event SessionStart
+2026-06-02 15:55:51.876 [info] [BaseAgent:craft] [2b71d854d6c84c4e9fb89da4665ff73f] notifyAgentStart
+2026-06-02 15:55:51.876 [info] [AgentReporter] [AgentReporter] Memory usage (MB): {"rss":226.69,"heapTotal":196.36,"heapUsed":185.27,"external":4.75,"arrayBuffers":0}
+2026-06-02 15:55:51.876 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] [AgentReporter] Agent started
+2026-06-02 15:55:51.876 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] onAgentStart: userInput=帮我优化一下这个网页，将背景弄得好看一点 agent=craft mode=craft conversationId=6d83ca0bbc464ada9f6bcf077360301d requestId=2b71d854d6c84c4e9fb89da4665ff73f
+2026-06-02 15:55:51.876 [info] [AgentMessageReporter] Message started (messageId: f6bf84990dc3435ba1dbdbdc3df895e8), role: user
+2026-06-02 15:55:51.876 [info] [AgentMessageReporter] Message ended (messageId: f6bf84990dc3435ba1dbdbdc3df895e8), role: user
+2026-06-02 15:55:51.876 [info] [Connector-Debug] getServersSync called, initial serverMap.size=0
+2026-06-02 15:55:51.876 [info] [Connector-Debug] getServersSync: loading from file...
+2026-06-02 15:55:51.876 [info] [ConnectorMcpService] loadServersFromFileSync: reading from /Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/connectors/connector-servers.json
+2026-06-02 15:55:51.876 [warning] [ConnectorMcpService] loadServersFromFileSync: failed to load - ENOENT: no such file or directory, open '/Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/connectors/connector-servers.json'
+2026-06-02 15:55:51.876 [info] [Connector-Debug] getServersSync: after loadServersFromFileSync, serverMap.size=0
+2026-06-02 15:55:51.876 [info] [Connector-Debug] getServersSync result: total=0, connected=0, servers=none
+2026-06-02 15:55:51.876 [info] [Connector-Debug] getServersSync called, initial serverMap.size=0
+2026-06-02 15:55:51.876 [info] [Connector-Debug] getServersSync: loading from file...
+2026-06-02 15:55:51.876 [info] [ConnectorMcpService] loadServersFromFileSync: reading from /Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/connectors/connector-servers.json
+2026-06-02 15:55:51.876 [warning] [ConnectorMcpService] loadServersFromFileSync: failed to load - ENOENT: no such file or directory, open '/Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/connectors/connector-servers.json'
+2026-06-02 15:55:51.876 [info] [Connector-Debug] getServersSync: after loadServersFromFileSync, serverMap.size=0
+2026-06-02 15:55:51.876 [info] [Connector-Debug] getServersSync result: total=0, connected=0, servers=none
+2026-06-02 15:55:51.876 [info] [MCP-Debug] getMcpDescriptionPrompt: chatType=craft
+2026-06-02 15:55:51.876 [info] [MCP-Debug] userServers (connected): CNB MCP Server:connected, tcsas-devtools-mcp-server:connected
+2026-06-02 15:55:51.876 [info] [MCP-Debug] connectorServers (all): none
+2026-06-02 15:55:51.876 [info] [MCP-Debug] connectorServers (enabled & has tools): none
+2026-06-02 15:55:51.876 [info] [plugin-manager] Loaded 0 hooks for 0 events from 8 plugin(s)
+2026-06-02 15:55:51.876 [info] [SettingConfigManager] UserConfigs: 0; pluginConfigs: 0
+2026-06-02 15:55:51.876 [info] [HookExecutor] Got 0 hook config(s) for event UserPromptSubmit
+2026-06-02 15:55:51.876 [info] [[HistoryMiddleware]] [HistoryMiddleware] Starting to load history messages (timeout: 120000ms)...
+2026-06-02 15:55:51.876 [info] [[HistoryMiddleware]] [HistoryMiddleware] Using strategy: smart-boundary
+2026-06-02 15:55:51.876 [info] [[SmartBoundaryHistoryLoadingStrategy]] Starting smart boundary loading with batchSize=10, maxLoadCount=100
+2026-06-02 15:55:51.880 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.880 [info] [startup-perf] scope=exthost phase=history:get-range-requests event=begin durationMs=-
+2026-06-02 15:55:51.881 [info] [ConversationManager] addMessages: message f6bf84990dc3435ba1dbdbdc3df895e8 is new, will add
+2026-06-02 15:55:51.881 [info] [ConversationManager] addMessages: created request 2b71d854d6c84c4e9fb89da4665ff73f inline
+2026-06-02 15:55:51.885 [info] IDE headers set: Type=CodeBuddyIDE, Name=CodeBuddyIDE, Version=4.9.12
+2026-06-02 15:55:51.885 [info] [HTTP STATUS] start GET /v3/config/llm_data?featureName=llm-data | Trace: dbe0d5ae-5488-47ce-92b0-8212ba6876a1
+2026-06-02 15:55:51.887 [info] [startup-perf] scope=exthost phase=history:get-range-requests event=end durationMs=7 reqs=10
+2026-06-02 15:55:51.887 [info] [startup-perf] scope=exthost phase=history:get-messages event=begin durationMs=- reqs=10
+2026-06-02 15:55:51.887 [info] [startup-perf] scope=exthost phase=history:get-messages-inner event=begin durationMs=- reqs=10
+2026-06-02 15:55:51.891 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.891 [info] [startup-perf] scope=exthost phase=history:get-messages-inner event=end durationMs=5 msgs=57
+2026-06-02 15:55:51.892 [info] [startup-perf] scope=exthost phase=history:parse event=begin durationMs=- msgs=57
+2026-06-02 15:55:51.892 [info] [startup-perf] scope=exthost phase=history:parse event=end durationMs=0 msgs=57 chunks=2 totalChars=70697 maxLen=12538 maxLenMsgId=3e874d814ce04d569774cc776dd6be40 bigMessageCount=0
+2026-06-02 15:55:51.892 [info] [startup-perf] scope=exthost phase=history:get-messages event=end durationMs=5 msgs=57
+2026-06-02 15:55:51.892 [info] [[SmartBoundaryHistoryLoadingStrategy]] Batch 1: loaded 57 messages, hasMore=true
+2026-06-02 15:55:51.892 [info] [[SmartBoundaryHistoryLoadingStrategy]] [clear context] findBoundaryMarker: checking 57 messages
+2026-06-02 15:55:51.892 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.892 [info] [startup-perf] scope=exthost phase=history:get-range-requests event=begin durationMs=-
+2026-06-02 15:55:51.892 [info] [startup-perf] scope=exthost phase=history:get-range-requests event=end durationMs=0 reqs=6
+2026-06-02 15:55:51.892 [info] [startup-perf] scope=exthost phase=history:get-messages event=begin durationMs=- reqs=6
+2026-06-02 15:55:51.892 [info] [startup-perf] scope=exthost phase=history:get-messages-inner event=begin durationMs=- reqs=6
+2026-06-02 15:55:51.896 [info] [startup-perf] scope=exthost phase=history:get-messages-inner event=end durationMs=3 msgs=26
+2026-06-02 15:55:51.896 [info] [startup-perf] scope=exthost phase=history:parse event=begin durationMs=- msgs=26
+2026-06-02 15:55:51.896 [info] [startup-perf] scope=exthost phase=history:parse event=end durationMs=0 msgs=26 chunks=1 totalChars=86388 maxLen=37937 maxLenMsgId=c4baf1e213854cb58afbb7834fedf1f4 bigMessageCount=0
+2026-06-02 15:55:51.896 [info] [startup-perf] scope=exthost phase=history:get-messages event=end durationMs=4 msgs=26
+2026-06-02 15:55:51.896 [info] [[SmartBoundaryHistoryLoadingStrategy]] Batch 2: loaded 26 messages, hasMore=false
+2026-06-02 15:55:51.896 [info] [[SmartBoundaryHistoryLoadingStrategy]] [clear context] findBoundaryMarker: checking 26 messages
+2026-06-02 15:55:51.896 [info] [[SmartBoundaryHistoryLoadingStrategy]] Completed: loaded all available history (83 messages, 2 batches)
+2026-06-02 15:55:51.896 [info] [[SmartBoundaryHistoryLoadingStrategy]] After filtering system warnings: 83 messages
+2026-06-02 15:55:51.896 [info] [[HistoryMiddleware]] [HistoryMiddleware] History messages loaded in 20ms
+2026-06-02 15:55:51.896 [info] [[HistoryMiddleware]] [clear context] HistoryMiddleware: loaded 83 messages, ids: ca7bcbbc89884aad9cb7196a30b40e91,cc4a97b2ca0844b6877d6a2d711d3b47,b2e240b9dd11477692387293e3f3d835,c4baf1e213854cb58afbb7834fedf1f4,e379636bce1648e3a0b245bb91d29670...
+2026-06-02 15:55:51.896 [info] [[HistoryMiddleware]] Successfully loaded 83 history messages (filtered 1 current request messages, 82 final) for request craft:2b71d854d6c84c4e9fb89da4665ff73f
+2026-06-02 15:55:51.896 [info] [HistoryService] getConversation: conversationId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.897 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.897 [info] [CompactStrategy] findLastToolMessage: found at index 80, but not the last message
+2026-06-02 15:55:51.897 [info] [CompactStrategy] no lastToolMessage found, totalTokens=50243
+2026-06-02 15:55:51.897 [info] [CompactStrategy] shouldCompact=false, totalTokens=50243, threshold=500000 (maxInputTokens=1000000, thresholdPercentage=0.5, modelId=deepseek-v4-flash)
+2026-06-02 15:55:51.897 [info] Compact strategy default not applicable, skipping compression in preRequest
+2026-06-02 15:55:51.897 [info] [HistoryService] getConversation: conversationId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.897 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.898 [info] [SummaryStrategy] skip, request is not compacted
+2026-06-02 15:55:51.898 [warning] [MockServerMiddleware] MockServerMiddleware disabled with user input: 帮我优化一下这个网页，将背景弄得好看一点
+2026-06-02 15:55:51.898 [info] [BaseAgent:craft] [BaseAgent] run start, retry: false
+2026-06-02 15:55:51.898 [info] [BaseAgent:craft] _executeSingleStep: set currentActiveMessageId to 13fa9aa180ec4421b5d11e2b6aeb3715
+2026-06-02 15:55:51.915 [info] [BaseAgent:craft] [2b71d854d6c84c4e9fb89da4665ff73f] notifyStepStart, step: 1, requestId: 2b71d854d6c84c4e9fb89da4665ff73f, messageId: 13fa9aa180ec4421b5d11e2b6aeb3715
+2026-06-02 15:55:51.915 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] [AgentReporter] Step 1 started (messageId: 13fa9aa180ec4421b5d11e2b6aeb3715)
+2026-06-02 15:55:51.915 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] onStepStart: agent=craft, stepCount=1
+2026-06-02 15:55:51.915 [warning] [MessageManager:2b71d854d6c84c4e9fb89da4665ff73f] [MessageManager] V2 修复消息: 83 -> 原始消息, tool-calls: 26, tool-results: 26, 重复跳过: 0
+2026-06-02 15:55:51.915 [warning] [MessageManager:2b71d854d6c84c4e9fb89da4665ff73f] [MessageManager] V2 修复完成: 消息数量 83 -> 83, 跳过空消息: 0
+2026-06-02 15:55:51.915 [info] [BaseAgent:craft] start flatten messages
+2026-06-02 15:55:51.915 [info] [BaseAgent:craft] end flatten messages
+2026-06-02 15:55:51.915 [info] [BaseAgent:craft] [CustomFetch] Using proxy: http://127.0.0.1:8899
+2026-06-02 15:55:51.915 [info] [BaseAgent:craft] DeepSeek ModelProvider initialized, modelId: deepseek-v4-flash, modelName: Deepseek-V4-Flash
+2026-06-02 15:55:51.919 [info] [BaseAgent:craft] [CustomFetch] url: https://staging.codebuddy.cn/v2/chat/completions
+2026-06-02 15:55:51.919 [info] [BaseAgent:craft] [CustomFetch] proxy: http://127.0.0.1:8899
+2026-06-02 15:55:51.919 [info] [BaseAgent:craft] [CustomFetch] enableRequestBodyGzip: true
+2026-06-02 15:55:51.919 [info] [BaseAgent:craft] [CustomFetch] Request body gzipped: original 211001 bytes, compressed 49842 bytes, saved 76.38%
+2026-06-02 15:55:51.920 [info] [AgentReporter] [AgentReporter][DNS] step=1, messageId=13fa9aa180ec4421b5d11e2b6aeb3715, hostname=staging.codebuddy.cn, resolved=62.234.206.89(IPv4)
+2026-06-02 15:55:51.921 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.922 [info] [ConversationManager] addMessages: message f6bf84990dc3435ba1dbdbdc3df895e8 exists, will update
+2026-06-02 15:55:51.923 [info] [ConversationManager] addMessages update: messageId=f6bf84990dc3435ba1dbdbdc3df895e8, hasExtra=true, extra={"requestId":"2b71d854d6c84c4e9fb89da4665ff73f","modelId":"deepseek-v4-flash","modelName":"Deepseek-V4-Flash","isHelperMessage":false,"sourceContentBlocks":[{"type":"text","text":"帮我优化一下这个网页，将背景弄得好看一点
+2026-06-02 15:55:51.924 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:51.932 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:55:52.051 [error] [HTTP STATUS] error GET /v2/enterprises/fnidfo78gb28/knowledge-bases | Status: 404 | Error: Request failed with status code 404 | Trace: 19a1c340-c342-4a4f-87e7-018acb0ae7e6 | Request: b301d94912b04cd481c5a7b2d8dd11cf
+2026-06-02 15:55:52.051 [error] [TencentKnowledgeBaseProvider] knowledge base list error: [https://staging.codebuddy.cn,/v2/enterprises/fnidfo78gb28/knowledge-bases] Error: Request failed with status code 404
+2026-06-02 15:55:52.087 [info] [HTTP STATUS] end GET /v3/config/llm_data?featureName=llm-data | Status: 200 | Trace: dbe0d5ae-5488-47ce-92b0-8212ba6876a1 | Request: 7416e55b74b44498b47094714dc4b8c2
+2026-06-02 15:55:52.307 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:55:52.429 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:55:53.708 [info] [AgentMessageReporter] Message started (messageId: 13fa9aa180ec4421b5d11e2b6aeb3715), role: assistant
+2026-06-02 15:55:53.735 [info] [StreamParser] tool-call-streaming-start 开始解析: call_00_QFpzz8Ecx4iLwU2C3YZQ8313 - read_file
+2026-06-02 15:55:53.735 [info] [ToolManager] [handleStreamChunk] tool-call-streaming-start
+2026-06-02 15:55:53.735 [info] [ToolManager] 创建工具实例: read_file (call_00_QFpzz8Ecx4iLwU2C3YZQ8313)
+2026-06-02 15:55:53.735 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] toolCallId: call_00_QFpzz8Ecx4iLwU2C3YZQ8313, toolName: read_file
+2026-06-02 15:55:53.735 [info] [DispatchContextManager] toolId: call_00_QFpzz8Ecx4iLwU2C3YZQ8313, status: idle
+2026-06-02 15:55:53.735 [info] [Tool:read_file] [call_00_QFpzz8Ecx4iLwU2C3YZQ8313] 开始识别工具调用: read_file
+2026-06-02 15:55:53.735 [info] [Tool:read_file] 状态变更: idle -> parsing, event: parameter_start_parsing, instance: call_00_QFpzz8Ecx4iLwU2C3YZQ8313
+2026-06-02 15:55:53.735 [info] [Tool:read_file] [call_00_QFpzz8Ecx4iLwU2C3YZQ8313] handleStateChange: idle -> parsing
+2026-06-02 15:55:53.735 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onParameterStartParsing: call_00_QFpzz8Ecx4iLwU2C3YZQ8313, read_file
+2026-06-02 15:55:53.735 [info] [StreamParser] tool-call-streaming-start 开始解析: call_00_QFpzz8Ecx4iLwU2C3YZQ8313 - read_file
+2026-06-02 15:55:53.914 [info] [StreamParser] [processStreamChunk] tool-call-delta 缓冲区数据完整, 启动兜底定时器, toolCallId: call_00_QFpzz8Ecx4iLwU2C3YZQ8313
+2026-06-02 15:55:53.914 [info] [StreamParser] [processStreamChunk] tool-call-delta 缓冲区数据完整, 启动兜底定时器, toolCallId: call_00_QFpzz8Ecx4iLwU2C3YZQ8313
+2026-06-02 15:55:53.915 [info] [StreamParser] [clearPendingTimer] 清理兜底定时器, toolCallId: call_00_QFpzz8Ecx4iLwU2C3YZQ8313
+2026-06-02 15:55:53.915 [info] [StreamParser] [processStreamChunk] tool-call 到达, 调用 finalizeToolCall, toolCallId: call_00_QFpzz8Ecx4iLwU2C3YZQ8313
+2026-06-02 15:55:53.915 [info] [StreamParser] finalizeToolCall 使用 chunk.chunk.args 数据, toolCallId: call_00_QFpzz8Ecx4iLwU2C3YZQ8313
+2026-06-02 15:55:53.915 [info] [StreamParser] 参数解析完成: call_00_QFpzz8Ecx4iLwU2C3YZQ8313 - 参数: filePath - 值: /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:55:53.915 [info] [StreamParser] finalizeToolCall 解析完成: call_00_QFpzz8Ecx4iLwU2C3YZQ8313 - args: { filePath=/Users/vinyaliu/Documents/programs/codebuddytest/register.html }
+2026-06-02 15:55:53.915 [info] [ToolManager] [handleStreamChunk] tool-call
+2026-06-02 15:55:53.915 [info] [ToolManager] [handleToolCallComplete] Tool call completed for: read_file (call_00_QFpzz8Ecx4iLwU2C3YZQ8313)
+2026-06-02 15:55:53.915 [info] [StreamParser] [clearPendingTimer] 清理兜底定时器, toolCallId: call_00_QFpzz8Ecx4iLwU2C3YZQ8313
+2026-06-02 15:55:53.915 [info] [StreamParser] [processStreamChunk] tool-call 到达, 调用 finalizeToolCall, toolCallId: call_00_QFpzz8Ecx4iLwU2C3YZQ8313
+2026-06-02 15:55:53.915 [info] [StreamParser] finalizeToolCall 使用 chunk.chunk.args 数据, toolCallId: call_00_QFpzz8Ecx4iLwU2C3YZQ8313
+2026-06-02 15:55:53.915 [info] [DispatchContextManager] toolId: call_00_QFpzz8Ecx4iLwU2C3YZQ8313, status: parsing
+2026-06-02 15:55:53.915 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onKeyParametersParsed: call_00_QFpzz8Ecx4iLwU2C3YZQ8313, read_file
+2026-06-02 15:55:53.915 [info] [Tool:read_file] [call_00_QFpzz8Ecx4iLwU2C3YZQ8313] 关键参数解析完成，进入等待确认状态
+2026-06-02 15:55:53.915 [info] [Tool:read_file] 状态变更: parsing -> pending, event: key_parameters_parsed, instance: call_00_QFpzz8Ecx4iLwU2C3YZQ8313
+2026-06-02 15:55:53.915 [info] [Tool:read_file] [call_00_QFpzz8Ecx4iLwU2C3YZQ8313] handleStateChange: parsing -> pending
+2026-06-02 15:55:53.915 [info] [Tool:read_file] requiredApprove: false, needUserConfirm: false, fromHook: undefined
+2026-06-02 15:55:53.915 [info] [Tool:read_file] [confirmExecution], confirmed: true, reason: undefined
+2026-06-02 15:55:53.915 [info] [Tool:read_file] [call_00_QFpzz8Ecx4iLwU2C3YZQ8313] 收到用户确认，进入流式执行状态
+2026-06-02 15:55:53.915 [info] [Tool:read_file] 状态变更: pending -> stream_executing, event: user_confirmed, instance: call_00_QFpzz8Ecx4iLwU2C3YZQ8313
+2026-06-02 15:55:53.915 [info] [Tool:read_file] [call_00_QFpzz8Ecx4iLwU2C3YZQ8313] handleStateChange: pending -> stream_executing
+2026-06-02 15:55:53.915 [info] [Tool:read_file] [startExecution]: read_file name: read_file, id: call_00_QFpzz8Ecx4iLwU2C3YZQ8313
+2026-06-02 15:55:53.915 [info] [StreamParser] 参数解析完成: call_00_QFpzz8Ecx4iLwU2C3YZQ8313 - 参数: filePath - 值: /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:55:53.915 [info] [Tool:read_file] valid param start, id: call_00_QFpzz8Ecx4iLwU2C3YZQ8313
+2026-06-02 15:55:53.915 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onParamValidation: call_00_QFpzz8Ecx4iLwU2C3YZQ8313, read_file
+2026-06-02 15:55:53.915 [info] [Tool:read_file] [call_00_QFpzz8Ecx4iLwU2C3YZQ8313] 参数解析完成，转入全量执行状态
+2026-06-02 15:55:53.915 [info] [Tool:read_file] 状态变更: stream_executing -> full_executing, event: parameter_validated, instance: call_00_QFpzz8Ecx4iLwU2C3YZQ8313
+2026-06-02 15:55:53.916 [info] [Tool:read_file] [call_00_QFpzz8Ecx4iLwU2C3YZQ8313] handleStateChange: stream_executing -> full_executing
+2026-06-02 15:55:53.916 [info] [StreamParser] finalizeToolCall 解析完成: call_00_QFpzz8Ecx4iLwU2C3YZQ8313 - args: { filePath=/Users/vinyaliu/Documents/programs/codebuddytest/register.html }
+2026-06-02 15:55:53.920 [info] IDE headers set: Type=CodeBuddyIDE, Name=CodeBuddyIDE, Version=4.9.12
+2026-06-02 15:55:53.920 [info] [HTTP STATUS] start POST https://staging.codebuddy.cn/v2/report | Trace: dcf1c88b-38e0-42a8-bf94-a0b5642076f1
+2026-06-02 15:55:53.935 [info] [ToolHookExecutor] Executing PreToolUse hook for tool: read_file
+2026-06-02 15:55:53.936 [info] [plugin-manager] Loaded 0 hooks for 0 events from 8 plugin(s)
+2026-06-02 15:55:53.936 [info] [SettingConfigManager] UserConfigs: 0; pluginConfigs: 0
+2026-06-02 15:55:53.936 [info] [HookExecutor] Got 0 hook config(s) for event PreToolUse
+2026-06-02 15:55:53.936 [info] [ToolHookExecutor] PreToolUse hook result: allowed=true, permissionDecision=none
+2026-06-02 15:55:53.936 [info] [Tool:read_file] emit event: execution_started
+2026-06-02 15:55:53.936 [info] [ToolManager] 开始执行: call_00_QFpzz8Ecx4iLwU2C3YZQ8313 - read_file - full
+2026-06-02 15:55:53.936 [info] [DispatchContextManager] toolId: call_00_QFpzz8Ecx4iLwU2C3YZQ8313, status: full_executing
+2026-06-02 15:55:53.936 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onStartExecution: call_00_QFpzz8Ecx4iLwU2C3YZQ8313, read_file
+2026-06-02 15:55:53.941 [info] [ToolManager] 执行结果变更: call_00_QFpzz8Ecx4iLwU2C3YZQ8313 - read_file
+2026-06-02 15:55:53.941 [info] [DispatchContextManager] toolId: call_00_QFpzz8Ecx4iLwU2C3YZQ8313, status: full_executing
+2026-06-02 15:55:53.941 [info] [Tool:read_file] [call_00_QFpzz8Ecx4iLwU2C3YZQ8313] [read-file] [fullExecute] success, filePath: /Users/vinyaliu/Documents/programs/codebuddytest/register.html, offset: undefined, limit: undefined,
+                totalLineCount: 391, hasMore: false
+2026-06-02 15:55:53.941 [info] [Tool:read_file] [call_00_QFpzz8Ecx4iLwU2C3YZQ8313] 全量执行完成
+2026-06-02 15:55:53.941 [info] [Tool:read_file] 状态变更: full_executing -> executed, event: execution_completed, instance: call_00_QFpzz8Ecx4iLwU2C3YZQ8313
+2026-06-02 15:55:53.941 [info] [Tool:read_file] [call_00_QFpzz8Ecx4iLwU2C3YZQ8313] handleStateChange: full_executing -> executed
+2026-06-02 15:55:53.941 [info] [ToolHookExecutor] Executing PostToolUse hook for tool: read_file
+2026-06-02 15:55:53.941 [info] [plugin-manager] Loaded 0 hooks for 0 events from 8 plugin(s)
+2026-06-02 15:55:53.941 [info] [SettingConfigManager] UserConfigs: 0; pluginConfigs: 0
+2026-06-02 15:55:53.941 [info] [HookExecutor] Got 0 hook config(s) for event PostToolUse
+2026-06-02 15:55:53.942 [info] [Tool:read_file] emit event: execution_completed
+2026-06-02 15:55:53.942 [info] [ToolManager] 执行结束: call_00_QFpzz8Ecx4iLwU2C3YZQ8313 - read_file
+2026-06-02 15:55:53.942 [info] [DispatchContextManager] toolId: call_00_QFpzz8Ecx4iLwU2C3YZQ8313, status: executed
+2026-06-02 15:55:53.942 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onEndExecution: call_00_QFpzz8Ecx4iLwU2C3YZQ8313, read_file
+2026-06-02 15:55:53.942 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] Tool call successful: toolCallId=call_00_QFpzz8Ecx4iLwU2C3YZQ8313, toolName=read_file, stepCount=1
+2026-06-02 15:55:53.942 [info] [ToolCallReporter] [ToolCallReporter] Emitting tool action to monitor: toolName=read_file, toolCallId=call_00_QFpzz8Ecx4iLwU2C3YZQ8313, conversationId=6d83ca0bbc464ada9f6bcf077360301d, requestId=2b71d854d6c84c4e9fb89da4665ff73f
+2026-06-02 15:55:53.942 [info] [ToolCallReporter] [ToolCallReporter] Successfully emitted tool action to monitor
+2026-06-02 15:55:53.945 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:53.946 [info] [ConversationManager] addMessages: message 13fa9aa180ec4421b5d11e2b6aeb3715 is new, will add
+2026-06-02 15:55:53.951 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:54.102 [info] [BaseAgent:craft] on stream step finish, reason: tool-calls, tool calls: 
+read_file-call_00_QFpzz8Ecx4iLwU2C3YZQ8313
+
+2026-06-02 15:55:54.102 [info] [ToolManager] [waitForAllToolsExecuted] activeInstances.size: 1
+2026-06-02 15:55:54.102 [info] [ToolManager] [waitForAllToolsExecuted] Stats: {"registeredTools":25,"activeInstances":1,"instancesByState":{"idle":0,"parsing":0,"pending":0,"stream_executing":0,"full_executing":0,"executed":1,"failed":0,"cancelled":0,"destroyed":0,"skipped":0},"instancesByTool":{"read_file":1},"memoryUsage":{"heapUsed":193966840,"heapTotal":220233728,"external":5248544},"performance":{"averageParseTime":0,"averageExecutionTime":0,"successRate":1}}
+2026-06-02 15:55:54.102 [info] [ToolManager] [waitForAllToolsExecuted] promises.number: 1
+2026-06-02 15:55:54.103 [info] [ToolManager] [waitForAllToolsExecuted] All tools execution completed
+2026-06-02 15:55:54.103 [info] [AgentMessageReporter] Message ended (messageId: 13fa9aa180ec4421b5d11e2b6aeb3715), role: assistant
+2026-06-02 15:55:54.103 [info] [AgentMessageReporter] Message started (messageId: 05457a612a3248f29308ee2263543339), role: tool
+2026-06-02 15:55:54.103 [info] [AgentMessageReporter] Message ended (messageId: 05457a612a3248f29308ee2263543339), role: tool
+2026-06-02 15:55:54.103 [info] [ToolManager] [cleanupCompletedInstances] Cleaning 1 completed instances
+2026-06-02 15:55:54.103 [info] [Tool:read_file] [cleanup] read_file cleanup completed, id: call_00_QFpzz8Ecx4iLwU2C3YZQ8313
+2026-06-02 15:55:54.103 [info] [BaseAgent:craft] [_handleStepFinish] Cleaned 1 completed tool instances: call_00_QFpzz8Ecx4iLwU2C3YZQ8313
+2026-06-02 15:55:54.103 [info] [BaseAgent:craft] on stream step finish, tool executed complete
+2026-06-02 15:55:54.103 [info] [BaseAgent:craft] streamText onStepFinish, finishReason: tool-calls, msgId: 13fa9aa180ec4421b5d11e2b6aeb3715
+2026-06-02 15:55:54.104 [info] [BaseAgent:craft] [_executeSingleStep] token limit check: lastTokens=50839, toolResultTokens=4281, total=55120, threshold=900000
+2026-06-02 15:55:54.104 [info] [BaseAgent:craft] [2b71d854d6c84c4e9fb89da4665ff73f] notifyStepEnd, step: 1, requestId: 2b71d854d6c84c4e9fb89da4665ff73f, messageId: 13fa9aa180ec4421b5d11e2b6aeb3715, usage: {"inputTokens":50743,"outputTokens":96,"totalTokens":50839,"cacheTokens":50176,"cachedWriteTokens":0,"cachedMissTokens":567,"lastTokens":50839,"credit":1.46}, isMaxTokenLimit: false, isMaxStepLimit: false, hasReactiveTool:false, isContentFilter: false
+2026-06-02 15:55:54.104 [info] [AgentReporter] [CHUNK_PERF] [SUMMARY] requestId=2b71d854d6c84c4e9fb89da4665ff73f, conversationId=6d83ca0bbc464ada9f6bcf077360301d, toolCallId=call_00_QFpzz8Ecx4iLwU2C3YZQ8313, toolName=read_file, chunks=29, bytes=78, duration=181ms, avgRate=430.9B/s, maxGap=126ms, gapsOver1s=0
+2026-06-02 15:55:54.104 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] [AgentReporter] Step 1 ended (messageId: 13fa9aa180ec4421b5d11e2b6aeb3715, isMaxTokenLimit: false, isMaxStepLimit: false, hasReactiveTool: false)
+2026-06-02 15:55:54.104 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] Step execution metrics: step=1, duration=2206ms, usage={"inputTokens":50743,"outputTokens":96,"totalTokens":50839,"cacheTokens":50176,"cachedWriteTokens":0,"cachedMissTokens":567,"lastTokens":50839,"credit":1.46}
+2026-06-02 15:55:54.104 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] Step execution metrics: step=1, duration=2206ms
+2026-06-02 15:55:54.104 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] onStepEnd: agent=craft, stepCount=1
+2026-06-02 15:55:54.104 [info] [BaseAgent:craft] _executeSingleStep: set currentActiveMessageId to 0223c762ce9340fea4d4b15e3cdf78f4
+2026-06-02 15:55:54.127 [info] [BaseAgent:craft] [2b71d854d6c84c4e9fb89da4665ff73f] notifyStepStart, step: 2, requestId: 2b71d854d6c84c4e9fb89da4665ff73f, messageId: 0223c762ce9340fea4d4b15e3cdf78f4
+2026-06-02 15:55:54.127 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] [AgentReporter] Step 2 started (messageId: 0223c762ce9340fea4d4b15e3cdf78f4)
+2026-06-02 15:55:54.127 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] onStepStart: agent=craft, stepCount=2
+2026-06-02 15:55:54.127 [warning] [MessageManager:2b71d854d6c84c4e9fb89da4665ff73f] [MessageManager] V2 修复消息: 85 -> 原始消息, tool-calls: 27, tool-results: 27, 重复跳过: 0
+2026-06-02 15:55:54.127 [warning] [MessageManager:2b71d854d6c84c4e9fb89da4665ff73f] [MessageManager] V2 修复完成: 消息数量 85 -> 85, 跳过空消息: 0
+2026-06-02 15:55:54.127 [info] [BaseAgent:craft] start flatten messages
+2026-06-02 15:55:54.127 [info] [BaseAgent:craft] end flatten messages
+2026-06-02 15:55:54.127 [info] [BaseAgent:craft] [CustomFetch] Using proxy: http://127.0.0.1:8899
+2026-06-02 15:55:54.127 [info] [BaseAgent:craft] DeepSeek ModelProvider initialized, modelId: deepseek-v4-flash, modelName: Deepseek-V4-Flash
+2026-06-02 15:55:54.132 [info] [BaseAgent:craft] [CustomFetch] url: https://staging.codebuddy.cn/v2/chat/completions
+2026-06-02 15:55:54.132 [info] [BaseAgent:craft] [CustomFetch] proxy: http://127.0.0.1:8899
+2026-06-02 15:55:54.132 [info] [BaseAgent:craft] [CustomFetch] enableRequestBodyGzip: true
+2026-06-02 15:55:54.132 [info] [BaseAgent:craft] [CustomFetch] Request body gzipped: original 226291 bytes, compressed 52700 bytes, saved 76.71%
+2026-06-02 15:55:54.134 [info] [AgentReporter] [AgentReporter][DNS] step=2, messageId=0223c762ce9340fea4d4b15e3cdf78f4, hostname=staging.codebuddy.cn, resolved=62.234.206.89(IPv4)
+2026-06-02 15:55:54.134 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:54.135 [info] [ConversationManager] addMessages: message 13fa9aa180ec4421b5d11e2b6aeb3715 exists, will update
+2026-06-02 15:55:54.137 [info] [ConversationManager] addMessages update: messageId=13fa9aa180ec4421b5d11e2b6aeb3715, hasExtra=true, extra={"requestId":"2b71d854d6c84c4e9fb89da4665ff73f","modelId":"deepseek-v4-flash","modelName":"Deepseek-V4-Flash","isHelperMessage":false,"traceId":"5dca776159eb6b5145023282226c3c7d","responseId":"1468de2
+2026-06-02 15:55:54.137 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:55:54.138 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:54.138 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:54.139 [info] [ConversationManager] addMessages: message 05457a612a3248f29308ee2263543339 is new, will add
+2026-06-02 15:55:54.141 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:55:54.144 [info] [HTTP STATUS] end POST https://staging.codebuddy.cn/v2/report | Status: 200 | Trace: dcf1c88b-38e0-42a8-bf94-a0b5642076f1 | Request: 032df0c462ab450bad3ec13eb803c3e9
+2026-06-02 15:55:54.261 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:55:56.136 [info] IDE headers set: Type=CodeBuddyIDE, Name=CodeBuddyIDE, Version=4.9.12
+2026-06-02 15:55:56.136 [info] [HTTP STATUS] start POST https://staging.codebuddy.cn/v2/report | Trace: d2b881f3-0c73-491c-ac42-af21213edc73
+2026-06-02 15:55:56.341 [info] [AgentMessageReporter] Message started (messageId: 0223c762ce9340fea4d4b15e3cdf78f4), role: assistant
+2026-06-02 15:55:56.358 [info] Status updated: info | Source: editor_change | Tooltip: 自动补全已开启
+2026-06-02 15:55:56.362 [info] [HTTP STATUS] end POST https://staging.codebuddy.cn/v2/report | Status: 200 | Trace: d2b881f3-0c73-491c-ac42-af21213edc73 | Request: 494f991450cd41f6984ac7199f5aca39
+2026-06-02 15:55:56.881 [info] [StreamParser] tool-call-streaming-start 开始解析: call_00_YVZ2arBqRf6icIi5GUnD8657 - replace_in_file
+2026-06-02 15:55:56.881 [info] [ToolManager] [handleStreamChunk] tool-call-streaming-start
+2026-06-02 15:55:56.881 [info] [ToolManager] 创建工具实例: replace_in_file (call_00_YVZ2arBqRf6icIi5GUnD8657)
+2026-06-02 15:55:56.881 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] toolCallId: call_00_YVZ2arBqRf6icIi5GUnD8657, toolName: replace_in_file
+2026-06-02 15:55:56.881 [info] [DispatchContextManager] toolId: call_00_YVZ2arBqRf6icIi5GUnD8657, status: idle
+2026-06-02 15:55:56.881 [info] [Tool:replace_in_file] [call_00_YVZ2arBqRf6icIi5GUnD8657] 开始识别工具调用: replace_in_file
+2026-06-02 15:55:56.881 [info] [Tool:replace_in_file] 状态变更: idle -> parsing, event: parameter_start_parsing, instance: call_00_YVZ2arBqRf6icIi5GUnD8657
+2026-06-02 15:55:56.881 [info] [Tool:replace_in_file] [call_00_YVZ2arBqRf6icIi5GUnD8657] handleStateChange: idle -> parsing
+2026-06-02 15:55:56.881 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onParameterStartParsing: call_00_YVZ2arBqRf6icIi5GUnD8657, replace_in_file
+2026-06-02 15:55:56.881 [info] [StreamParser] tool-call-streaming-start 开始解析: call_00_YVZ2arBqRf6icIi5GUnD8657 - replace_in_file
+2026-06-02 15:55:57.049 [info] [StreamParser] 参数解析完成: call_00_YVZ2arBqRf6icIi5GUnD8657 - 参数: filePath - 值: /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:55:57.049 [info] [StreamParser] 参数解析完成: call_00_YVZ2arBqRf6icIi5GUnD8657 - 参数: filePath - 值: /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:55:57.049 [info] [DispatchContextManager] toolId: call_00_YVZ2arBqRf6icIi5GUnD8657, status: parsing
+2026-06-02 15:55:57.049 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onKeyParametersParsed: call_00_YVZ2arBqRf6icIi5GUnD8657, replace_in_file
+2026-06-02 15:55:57.049 [info] [Tool:replace_in_file] [call_00_YVZ2arBqRf6icIi5GUnD8657] 关键参数解析完成，进入等待确认状态
+2026-06-02 15:55:57.049 [info] [Tool:replace_in_file] 状态变更: parsing -> pending, event: key_parameters_parsed, instance: call_00_YVZ2arBqRf6icIi5GUnD8657
+2026-06-02 15:55:57.049 [info] [Tool:replace_in_file] [call_00_YVZ2arBqRf6icIi5GUnD8657] handleStateChange: parsing -> pending
+2026-06-02 15:55:57.049 [info] [Tool:replace_in_file] requiredApprove: false, needUserConfirm: false, fromHook: undefined
+2026-06-02 15:55:57.049 [info] [Tool:replace_in_file] [confirmExecution], confirmed: true, reason: undefined
+2026-06-02 15:55:57.049 [info] [Tool:replace_in_file] [call_00_YVZ2arBqRf6icIi5GUnD8657] 收到用户确认，进入流式执行状态
+2026-06-02 15:55:57.050 [info] [Tool:replace_in_file] 状态变更: pending -> stream_executing, event: user_confirmed, instance: call_00_YVZ2arBqRf6icIi5GUnD8657
+2026-06-02 15:55:57.050 [info] [Tool:replace_in_file] [call_00_YVZ2arBqRf6icIi5GUnD8657] handleStateChange: pending -> stream_executing
+2026-06-02 15:55:57.050 [info] [Tool:replace_in_file] [startExecution]: replace_in_file name: replace_in_file, id: call_00_YVZ2arBqRf6icIi5GUnD8657
+2026-06-02 15:55:57.098 [info] [TracingService] Exported 13 spans, traceIds: 5dca776159eb6b5145023282226c3c7d
+2026-06-02 15:55:57.904 [info] [StreamParser] 参数解析完成: call_00_YVZ2arBqRf6icIi5GUnD8657 - 参数: old_str - 值: <string length=607>         body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-se…;
+            max-width: 100%;
+        }
+2026-06-02 15:55:57.904 [info] [StreamParser] 参数解析完成: call_00_YVZ2arBqRf6icIi5GUnD8657 - 参数: old_str - 值: <string length=607>         body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-se…;
+            max-width: 100%;
+        }
+2026-06-02 15:56:02.065 [warning] [ToolHookExecutor] PreToolUse wait parse timeout for tool: replace_in_file, toolCallId=call_00_YVZ2arBqRf6icIi5GUnD8657, wait=5000ms
+2026-06-02 15:56:02.065 [info] [ToolHookExecutor] Executing PreToolUse hook for tool: replace_in_file
+2026-06-02 15:56:02.065 [info] [plugin-manager] Loaded 0 hooks for 0 events from 8 plugin(s)
+2026-06-02 15:56:02.065 [info] [SettingConfigManager] UserConfigs: 0; pluginConfigs: 0
+2026-06-02 15:56:02.065 [info] [HookExecutor] Got 0 hook config(s) for event PreToolUse
+2026-06-02 15:56:02.065 [info] [ToolHookExecutor] PreToolUse hook result: allowed=true, permissionDecision=none
+2026-06-02 15:56:02.067 [info] [Tool:replace_in_file] emit event: execution_started
+2026-06-02 15:56:02.067 [info] [ToolManager] 开始执行: call_00_YVZ2arBqRf6icIi5GUnD8657 - replace_in_file - stream
+2026-06-02 15:56:02.067 [info] [DispatchContextManager] toolId: call_00_YVZ2arBqRf6icIi5GUnD8657, status: stream_executing
+2026-06-02 15:56:02.067 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onStartExecution: call_00_YVZ2arBqRf6icIi5GUnD8657, replace_in_file
+2026-06-02 15:56:02.335 [info] [TracingService] Exported 1 spans, traceIds: 5dca776159eb6b5145023282226c3c7d
+2026-06-02 15:56:04.293 [info] [StreamParser] [processStreamChunk] tool-call 到达, 调用 finalizeToolCall, toolCallId: call_00_YVZ2arBqRf6icIi5GUnD8657
+2026-06-02 15:56:04.293 [info] [StreamParser] finalizeToolCall 使用 chunk.chunk.args 数据, toolCallId: call_00_YVZ2arBqRf6icIi5GUnD8657
+2026-06-02 15:56:04.293 [info] [StreamParser] 参数解析完成: call_00_YVZ2arBqRf6icIi5GUnD8657 - 参数: filePath - 值: /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:04.293 [info] [StreamParser] 参数解析完成: call_00_YVZ2arBqRf6icIi5GUnD8657 - 参数: old_str - 值: <string length=607>         body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-se…;
+            max-width: 100%;
+        }
+2026-06-02 15:56:04.293 [info] [StreamParser] 参数解析完成: call_00_YVZ2arBqRf6icIi5GUnD8657 - 参数: new_str - 值: <string length=3602>         body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-se…  transform: translateY(-2px);
+        }
+2026-06-02 15:56:04.293 [info] [StreamParser] finalizeToolCall 解析完成: call_00_YVZ2arBqRf6icIi5GUnD8657 - args: { filePath=/Users/vinyaliu/Documents/programs/codebuddytest/register.html, old_str=<string length=607>         body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-se…;
+            max-width: 100%;
+        }, new_str=<string length=3602>         body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-se…  transform: translateY(-2px);
+        } }
+2026-06-02 15:56:04.293 [info] [ToolManager] [handleStreamChunk] tool-call
+2026-06-02 15:56:04.293 [info] [ToolManager] [handleToolCallComplete] Tool call completed for: replace_in_file (call_00_YVZ2arBqRf6icIi5GUnD8657)
+2026-06-02 15:56:04.293 [info] [StreamParser] [processStreamChunk] tool-call 到达, 调用 finalizeToolCall, toolCallId: call_00_YVZ2arBqRf6icIi5GUnD8657
+2026-06-02 15:56:04.293 [info] [StreamParser] finalizeToolCall 使用 chunk.chunk.args 数据, toolCallId: call_00_YVZ2arBqRf6icIi5GUnD8657
+2026-06-02 15:56:04.293 [info] [StreamParser] 参数解析完成: call_00_YVZ2arBqRf6icIi5GUnD8657 - 参数: filePath - 值: /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:04.293 [info] [StreamParser] 参数解析完成: call_00_YVZ2arBqRf6icIi5GUnD8657 - 参数: old_str - 值: <string length=607>         body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-se…;
+            max-width: 100%;
+        }
+2026-06-02 15:56:04.293 [info] [StreamParser] 参数解析完成: call_00_YVZ2arBqRf6icIi5GUnD8657 - 参数: new_str - 值: <string length=3602>         body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-se…  transform: translateY(-2px);
+        }
+2026-06-02 15:56:04.293 [info] [Tool:replace_in_file] valid param start, id: call_00_YVZ2arBqRf6icIi5GUnD8657
+2026-06-02 15:56:04.293 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onParamValidation: call_00_YVZ2arBqRf6icIi5GUnD8657, replace_in_file
+2026-06-02 15:56:04.293 [info] [Tool:replace_in_file] [call_00_YVZ2arBqRf6icIi5GUnD8657] 参数解析完成，转入全量执行状态
+2026-06-02 15:56:04.293 [info] [Tool:replace_in_file] 状态变更: stream_executing -> full_executing, event: parameter_validated, instance: call_00_YVZ2arBqRf6icIi5GUnD8657
+2026-06-02 15:56:04.293 [info] [Tool:replace_in_file] [call_00_YVZ2arBqRf6icIi5GUnD8657] handleStateChange: stream_executing -> full_executing
+2026-06-02 15:56:04.293 [info] [StreamParser] finalizeToolCall 解析完成: call_00_YVZ2arBqRf6icIi5GUnD8657 - args: { filePath=/Users/vinyaliu/Documents/programs/codebuddytest/register.html, old_str=<string length=607>         body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-se…;
+            max-width: 100%;
+        }, new_str=<string length=3602>         body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-se…  transform: translateY(-2px);
+        } }
+2026-06-02 15:56:04.293 [info] [Tool:replace_in_file] [IDE Replace] executeWithEditCodeService replace start
+2026-06-02 15:56:04.294 [info] [Tool:replace_in_file] get artifact file: 6d83ca0bbc464ada9f6bcf077360301d, type: brain, artifactDirPath: /Users/vinyaliu/Library/Application Support/CodeBuddy CN/User/globalStorage/tencent-cloud.coding-copilot/brain/6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:04.300 [info] [FileOperator] Strategy: Exact Match, matchCount: 1
+2026-06-02 15:56:04.300 [info] [Tool:replace_in_file] [IDE Replace] genieEditor: available
+2026-06-02 15:56:04.300 [info] [Tool:replace_in_file] [IDE Replace] getEditCodeService: available
+2026-06-02 15:56:04.300 [info] [Tool:replace_in_file] [IDE Replace] editCodeService: available
+2026-06-02 15:56:04.300 [info] [Tool:replace_in_file] [IDE Replace] Found editCodeService from genieEditor.getEditCodeService()
+2026-06-02 15:56:04.301 [info] [Tool:replace_in_file] [IDE Replace] Used editCodeService for /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:04.301 [info] [ToolManager] 执行结果变更: call_00_YVZ2arBqRf6icIi5GUnD8657 - replace_in_file
+2026-06-02 15:56:04.301 [info] [DispatchContextManager] toolId: call_00_YVZ2arBqRf6icIi5GUnD8657, status: full_executing
+2026-06-02 15:56:04.301 [info] [Tool:replace_in_file] [call_00_YVZ2arBqRf6icIi5GUnD8657] [IDE Replace] executeWithEditCodeService: success, filePath: /Users/vinyaliu/Documents/programs/codebuddytest/register.html, hint: , search:         body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+            background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .register-container {
+            background: #fff;
+            padding: 40px;
+            border-radius: 16px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.12);
+            width: 420px;
+            max-width: 100%;
+        }, replace:         body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            position: relative;
+            overflow: hidden;
+            background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+        }
+
+        /* 动态渐变背景层 */
+        body::before {
+            content: '';
+            position: fixed;
+            inset: 0;
+            background:
+                radial-gradient(ellipse 80% 60% at 10% 20%, rgba(67, 233, 123, 0.3) 0%, transparent 60%),
+                radial-gradient(ellipse 60% 50% at 90% 80%, rgba(56, 249, 215, 0.25) 0%, transparent 60%),
+                radial-gradient(ellipse 50% 40% at 50% 50%, rgba(102, 126, 234, 0.15) 0%, transparent 60%);
+            animation: bgShift 12s ease-in-out infinite alternate;
+            z-index: 0;
+        }
+
+        /* 浮动装饰圆 */
+        .bg-circle {
+            position: fixed;
+            border-radius: 50%;
+            filter: blur(80px);
+            opacity: 0.25;
+            animation: float 18s ease-in-out infinite alternate;
+            z-index: 0;
+            pointer-events: none;
+        }
+
+        .bg-circle:nth-child(1) {
+            width: 500px;
+            height: 500px;
+            background: #43e97b;
+            top: -150px;
+            left: -100px;
+            animation-duration: 20s;
+        }
+
+        .bg-circle:nth-child(2) {
+            width: 400px;
+            height: 400px;
+            background: #38f9d7;
+            bottom: -120px;
+            right: -80px;
+            animation-duration: 16s;
+            animation-delay: -4s;
+        }
+
+        .bg-circle:nth-child(3) {
+            width: 300px;
+            height: 300px;
+            background: #667eea;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            animation-duration: 22s;
+            animation-delay: -8s;
+        }
+
+        /* 网格纹理叠加 */
+        body::after {
+            content: '';
+            position: fixed;
+            inset: 0;
+            background-image:
+                linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+            background-size: 60px 60px;
+            z-index: 0;
+            pointer-events: none;
+        }
+
+        @keyframes bgShift {
+            0%   { transform: scale(1) rotate(0deg); }
+            100% { transform: scale(1.08) rotate(3deg); }
+        }
+
+        @keyframes float {
+            0%   { transform: translate(0, 0) scale(1); }
+            33%  { transform: translate(30px, -40px) scale(1.1); }
+            66%  { transform: translate(-20px, 20px) scale(0.95); }
+            100% { transform: translate(10px, -30px) scale(1.05); }
+        }
+
+        .register-container {
+            position: relative;
+            z-index: 1;
+            background: rgba(255, 255, 255, 0.93);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow:
+                0 25px 80px rgba(0, 0, 0, 0.3),
+                inset 0 1px 0 rgba(255, 255, 255, 0.8);
+            width: 420px;
+            max-width: 100%;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            transition: transform 0.3s;
+        }
+
+        .register-container:hover {
+            transform: translateY(-2px);
+        }, matchCount: 1,
+                addLineCount: 97, removedLines: 4
+2026-06-02 15:56:04.301 [info] [Tool:replace_in_file] [call_00_YVZ2arBqRf6icIi5GUnD8657] 全量执行完成
+2026-06-02 15:56:04.301 [info] [Tool:replace_in_file] 状态变更: full_executing -> executed, event: execution_completed, instance: call_00_YVZ2arBqRf6icIi5GUnD8657
+2026-06-02 15:56:04.301 [info] [Tool:replace_in_file] [call_00_YVZ2arBqRf6icIi5GUnD8657] handleStateChange: full_executing -> executed
+2026-06-02 15:56:04.301 [info] [ToolHookExecutor] Executing PostToolUse hook for tool: replace_in_file
+2026-06-02 15:56:04.301 [info] [plugin-manager] Loaded 0 hooks for 0 events from 8 plugin(s)
+2026-06-02 15:56:04.301 [info] [SettingConfigManager] UserConfigs: 0; pluginConfigs: 0
+2026-06-02 15:56:04.302 [info] [HookExecutor] Got 0 hook config(s) for event PostToolUse
+2026-06-02 15:56:04.304 [info] [Tool:replace_in_file] emit event: execution_completed
+2026-06-02 15:56:04.304 [info] [ToolManager] 执行结束: call_00_YVZ2arBqRf6icIi5GUnD8657 - replace_in_file
+2026-06-02 15:56:04.304 [info] [FileChangeHandler] [CodeRatio DEBUG] FileChangeHandler.reportCodeRatio entry {"filePath":"/Users/vinyaliu/Documents/programs/codebuddytest/register.html","toolName":"replace_in_file","isNewFile":false,"isDelete":false,"hasReporter":true}
+2026-06-02 15:56:04.304 [info] [VCSRepoResolver] [CodeRatio DEBUG] VCSRepoResolver.resolve success (git) {"filePath":"/Users/vinyaliu/Documents/programs/codebuddytest/register.html","repoUrl":"github.com:Yabu-maker/codebuddytest.git","repoBranch":"master","relativeFilePath":"register.html"}
+2026-06-02 15:56:04.304 [info] [FileChangeHandler] [CodeRatio DEBUG] reportCodeRatio resolved repo {"filePath":"/Users/vinyaliu/Documents/programs/codebuddytest/register.html","relativeFilePath":"register.html","vcsType":"git","repoUrl":"github.com:Yabu-maker/codebuddytest.git","repoBranch":"master"}
+2026-06-02 15:56:04.304 [info] [CodeRatioReporter] [CodeRatio DEBUG] recordAIChange called {"filePath":"register.html","vcsType":"git","repoUrl":"github.com:Yabu-maker/codebuddytest.git","repoBranch":"master","source":"agent","changeType":"modify","hasOldContent":true,"hasNewContent":true,"newContentLen":14513,"enabled":true,"deploymentType":"SaaS","codeAdoptionRateFlag":true}
+2026-06-02 15:56:04.304 [info] [CodeRatioReporter] [CodeRatio] reporting code_change_event {"eventCode":"code_change_event","source":"agent","changeType":"modify","filePath":"register.html","vcsType":"git","repoUrl":"github.com:Yabu-maker/codebuddytest.git","repoBranch":"master","codeDiffLen":4185,"codeDiffTruncated":false,"addedLines":93,"addedCharacters":2995,"toolName":"replace_in_file","conversationId":"6d83ca0bbc464ada9f6bcf077360301d"}
+2026-06-02 15:56:04.304 [info] [DispatchContextManager] toolId: call_00_YVZ2arBqRf6icIi5GUnD8657, status: executed
+2026-06-02 15:56:04.304 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onEndExecution: call_00_YVZ2arBqRf6icIi5GUnD8657, replace_in_file
+2026-06-02 15:56:04.304 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] Tool call successful: toolCallId=call_00_YVZ2arBqRf6icIi5GUnD8657, toolName=replace_in_file, stepCount=2
+2026-06-02 15:56:04.304 [info] [ToolCallReporter] [ToolCallReporter] Emitting tool action to monitor: toolName=replace_in_file, toolCallId=call_00_YVZ2arBqRf6icIi5GUnD8657, conversationId=6d83ca0bbc464ada9f6bcf077360301d, requestId=2b71d854d6c84c4e9fb89da4665ff73f
+2026-06-02 15:56:04.304 [info] [ToolCallReporter] [ToolCallReporter] Successfully emitted tool action to monitor
+2026-06-02 15:56:04.305 [info] [CodeRatioReporter] [CodeRatio DEBUG] code_change_event sent successfully
+2026-06-02 15:56:04.306 [info] [InlineChatIDEProvider] Detected diff zone changes: /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:04.307 [info] [InlineChatIDEProvider] Detected diff zone changes: /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:04.307 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:04.311 [info] [ConversationManager] addMessages: message 0223c762ce9340fea4d4b15e3cdf78f4 is new, will add
+2026-06-02 15:56:04.314 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:04.319 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:04.441 [info] [MediaWatcherService] File created: /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:04.441 [warning] [MediaWatcherService] Unable to determine sessionId for file: /Users/vinyaliu/Documents/programs/codebuddytest/register.html, skipping
+2026-06-02 15:56:04.441 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:04.441 [info] [startup-perf] scope=exthost phase=filetree:refresh-workspace-search event=begin durationMs=-
+2026-06-02 15:56:04.441 [info] [startup-perf] scope=exthost phase=filetree:refresh-workspace-search event=end durationMs=0 nodes=0
+2026-06-02 15:56:04.441 [info] [FileTreeService] [fileTree] File tree changed, adapterConvId: current-session, workspace search refreshed: 0 files
+2026-06-02 15:56:04.441 [info] [startup-perf] scope=exthost phase=filetree:rpc-view-refresh event=begin durationMs=-
+2026-06-02 15:56:04.441 [info] [startup-perf] scope=exthost phase=filetree:rpc-view-refresh event=end durationMs=0
+2026-06-02 15:56:04.441 [info] [FileTreeService] [fileTree] No router found for conversation: current-session, skipping notification (router may not be created yet)
+2026-06-02 15:56:04.442 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:04.454 [info] [BaseAgent:craft] on stream step finish, reason: tool-calls, tool calls: 
+replace_in_file-call_00_YVZ2arBqRf6icIi5GUnD8657
+
+2026-06-02 15:56:04.454 [info] [ToolManager] [waitForAllToolsExecuted] activeInstances.size: 1
+2026-06-02 15:56:04.454 [info] [ToolManager] [waitForAllToolsExecuted] Stats: {"registeredTools":25,"activeInstances":1,"instancesByState":{"idle":0,"parsing":0,"pending":0,"stream_executing":0,"full_executing":0,"executed":1,"failed":0,"cancelled":0,"destroyed":0,"skipped":0},"instancesByTool":{"replace_in_file":1},"memoryUsage":{"heapUsed":204211176,"heapTotal":234913792,"external":5524731},"performance":{"averageParseTime":0,"averageExecutionTime":0,"successRate":1}}
+2026-06-02 15:56:04.454 [info] [ToolManager] [waitForAllToolsExecuted] promises.number: 1
+2026-06-02 15:56:04.454 [info] [ToolManager] [waitForAllToolsExecuted] All tools execution completed
+2026-06-02 15:56:04.454 [info] [AgentMessageReporter] Message ended (messageId: 0223c762ce9340fea4d4b15e3cdf78f4), role: assistant
+2026-06-02 15:56:04.454 [info] [AgentMessageReporter] Message started (messageId: c4d0c0feea9044949be7ae2eb3d82691), role: tool
+2026-06-02 15:56:04.454 [info] [AgentMessageReporter] Message ended (messageId: c4d0c0feea9044949be7ae2eb3d82691), role: tool
+2026-06-02 15:56:04.455 [info] [ToolManager] [cleanupCompletedInstances] Cleaning 1 completed instances
+2026-06-02 15:56:04.455 [info] [Tool:replace_in_file] [cleanup] replace_in_file cleanup completed, id: call_00_YVZ2arBqRf6icIi5GUnD8657
+2026-06-02 15:56:04.455 [info] [BaseAgent:craft] [_handleStepFinish] Cleaned 1 completed tool instances: call_00_YVZ2arBqRf6icIi5GUnD8657
+2026-06-02 15:56:04.455 [info] [BaseAgent:craft] on stream step finish, tool executed complete
+2026-06-02 15:56:04.455 [info] [BaseAgent:craft] streamText onStepFinish, finishReason: tool-calls, msgId: 0223c762ce9340fea4d4b15e3cdf78f4
+2026-06-02 15:56:04.455 [info] [BaseAgent:craft] [_executeSingleStep] token limit check: lastTokens=55960, toolResultTokens=111, total=56071, threshold=900000
+2026-06-02 15:56:04.455 [info] [BaseAgent:craft] [2b71d854d6c84c4e9fb89da4665ff73f] notifyStepEnd, step: 2, requestId: 2b71d854d6c84c4e9fb89da4665ff73f, messageId: 0223c762ce9340fea4d4b15e3cdf78f4, usage: {"inputTokens":54621,"outputTokens":1339,"totalTokens":55960,"cacheTokens":50816,"cachedWriteTokens":0,"cachedMissTokens":3805,"lastTokens":55960,"credit":1.6}, isMaxTokenLimit: false, isMaxStepLimit: false, hasReactiveTool:false, isContentFilter: false
+2026-06-02 15:56:04.455 [info] [AgentReporter] [CHUNK_PERF] [SUMMARY] requestId=2b71d854d6c84c4e9fb89da4665ff73f, conversationId=6d83ca0bbc464ada9f6bcf077360301d, toolCallId=call_00_YVZ2arBqRf6icIi5GUnD8657, toolName=replace_in_file, chunks=1208, bytes=4452, duration=7413ms, avgRate=600.6B/s, maxGap=1058ms, gapsOver1s=1
+2026-06-02 15:56:04.455 [info] [AgentReporter] [CHUNK_PERF] [TIMELINE] toolCallId=call_00_YVZ2arBqRf6icIi5GUnD8657, data=[[0,0],[1,1],[2,1],[2,4],[2,4],[3,1],[3,2],[4,1],[4,1],[4,5],[5,2],[5,3],[30,3],[31,1],[31,2],[32,8],[32,4],[58,5],[58,2],[59,3],[59,1],[59,3],[80,5],[80,1],[81,8],[81,5],[81,1],[132,2],[133,1],[133,3],[133,4],[134,1],[134,2],[169,1],[170,7],[305,5],[306,4],[306,11],[307,5],[307,7],[308,1],[308,2],[308,5],[309,7],[309,1],[310,3],[310,3],[311,3],[311,6],[312,4],[321,3],[457,1],[470,2],[648,8],[858,8],[868,1],[1014,4],[1022,3],[1038,4],[1401,7],[1415,1],[1424,11],[1578,1],[1587,4],[1637,7],[1824,2],[2019,4],[2031,5],[2048,2],[2150,2],[2230,12],[2441,2],[2463,11],[2566,11],[2720,3],[2783,7],[2930,2],[3196,1],[3206,2],[3217,3],[3264,1],[3372,1],[3452,3],[3683,1],[3696,4],[3709,6],[3837,6],[3950,1],[4008,4],[4087,1],[4186,2],[4291,2],[4505,3],[4571,4],[4660,1],[4679,2],[4785,2],[5052,10],[5062,8],[6124,1,1058],[6184,3],[6589,2],[6907,3],[7215,2],[7291,1],[7326,11],[7349,6],[7373,1],[7408,1]]
+2026-06-02 15:56:04.455 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] [AgentReporter] Step 2 ended (messageId: 0223c762ce9340fea4d4b15e3cdf78f4, isMaxTokenLimit: false, isMaxStepLimit: false, hasReactiveTool: false)
+2026-06-02 15:56:04.455 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] Step execution metrics: step=2, duration=10351ms, usage={"inputTokens":54621,"outputTokens":1339,"totalTokens":55960,"cacheTokens":50816,"cachedWriteTokens":0,"cachedMissTokens":3805,"lastTokens":55960,"credit":1.6}
+2026-06-02 15:56:04.455 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] Step execution metrics: step=2, duration=10351ms
+2026-06-02 15:56:04.455 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] onStepEnd: agent=craft, stepCount=2
+2026-06-02 15:56:04.455 [info] [BaseAgent:craft] _executeSingleStep: set currentActiveMessageId to 7c84636a4a6340dbae95a70a4690e74f
+2026-06-02 15:56:04.476 [info] [BaseAgent:craft] [2b71d854d6c84c4e9fb89da4665ff73f] notifyStepStart, step: 3, requestId: 2b71d854d6c84c4e9fb89da4665ff73f, messageId: 7c84636a4a6340dbae95a70a4690e74f
+2026-06-02 15:56:04.476 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] [AgentReporter] Step 3 started (messageId: 7c84636a4a6340dbae95a70a4690e74f)
+2026-06-02 15:56:04.476 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] onStepStart: agent=craft, stepCount=3
+2026-06-02 15:56:04.476 [warning] [MessageManager:2b71d854d6c84c4e9fb89da4665ff73f] [MessageManager] V2 修复消息: 87 -> 原始消息, tool-calls: 28, tool-results: 28, 重复跳过: 0
+2026-06-02 15:56:04.476 [warning] [MessageManager:2b71d854d6c84c4e9fb89da4665ff73f] [MessageManager] V2 修复完成: 消息数量 87 -> 87, 跳过空消息: 0
+2026-06-02 15:56:04.476 [info] [BaseAgent:craft] start flatten messages
+2026-06-02 15:56:04.476 [info] [BaseAgent:craft] end flatten messages
+2026-06-02 15:56:04.476 [info] [BaseAgent:craft] [CustomFetch] Using proxy: http://127.0.0.1:8899
+2026-06-02 15:56:04.476 [info] [BaseAgent:craft] DeepSeek ModelProvider initialized, modelId: deepseek-v4-flash, modelName: Deepseek-V4-Flash
+2026-06-02 15:56:04.481 [info] [BaseAgent:craft] [CustomFetch] url: https://staging.codebuddy.cn/v2/chat/completions
+2026-06-02 15:56:04.481 [info] [BaseAgent:craft] [CustomFetch] proxy: http://127.0.0.1:8899
+2026-06-02 15:56:04.481 [info] [BaseAgent:craft] [CustomFetch] enableRequestBodyGzip: true
+2026-06-02 15:56:04.481 [info] [BaseAgent:craft] [CustomFetch] Request body gzipped: original 231819 bytes, compressed 53845 bytes, saved 76.77%
+2026-06-02 15:56:04.482 [info] [AgentReporter] [AgentReporter][DNS] step=3, messageId=7c84636a4a6340dbae95a70a4690e74f, hostname=staging.codebuddy.cn, resolved=62.234.206.89(IPv4)
+2026-06-02 15:56:04.483 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:04.484 [info] [ConversationManager] addMessages: message 0223c762ce9340fea4d4b15e3cdf78f4 exists, will update
+2026-06-02 15:56:04.484 [info] [ConversationManager] addMessages update: messageId=0223c762ce9340fea4d4b15e3cdf78f4, hasExtra=true, extra={"requestId":"2b71d854d6c84c4e9fb89da4665ff73f","modelId":"deepseek-v4-flash","modelName":"Deepseek-V4-Flash","isHelperMessage":false,"traceId":"5dca776159eb6b5145023282226c3c7d","responseId":"8d1a33b
+2026-06-02 15:56:04.486 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:04.486 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:04.487 [info] [ConversationManager] addMessages: message c4d0c0feea9044949be7ae2eb3d82691 is new, will add
+2026-06-02 15:56:04.489 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:04.563 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:04.607 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:04.732 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:04.732 [info] [startup-perf] scope=exthost phase=filetree:refresh-workspace-search event=begin durationMs=-
+2026-06-02 15:56:04.732 [info] [startup-perf] scope=exthost phase=filetree:refresh-workspace-search event=end durationMs=0 nodes=0
+2026-06-02 15:56:04.732 [info] [FileTreeService] [fileTree] File tree changed, adapterConvId: current-session, workspace search refreshed: 0 files
+2026-06-02 15:56:04.732 [info] [startup-perf] scope=exthost phase=filetree:rpc-view-refresh event=begin durationMs=-
+2026-06-02 15:56:04.732 [info] [startup-perf] scope=exthost phase=filetree:rpc-view-refresh event=end durationMs=0
+2026-06-02 15:56:04.732 [info] [FileTreeService] [fileTree] No router found for conversation: current-session, skipping notification (router may not be created yet)
+2026-06-02 15:56:04.944 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:05.067 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:05.448 [info] [Workspace-Search] start getWorkspaceFiles
+2026-06-02 15:56:05.448 [info] Memory usage (MB): {"rss":248.73,"heapTotal":224.73,"heapUsed":199.09,"external":5.19,"arrayBuffers":0}
+2026-06-02 15:56:05.452 [info] [Workspace-Search] cached 17 files, 4 directories
+2026-06-02 15:56:05.452 [info] [Workspace-Search] end getWorkspaceFiles
+2026-06-02 15:56:05.452 [info] Workspace refresh completed - Files: 17, Directories: 4
+2026-06-02 15:56:05.738 [info] [Workspace-Search] start getWorkspaceFiles
+2026-06-02 15:56:05.739 [info] Memory usage (MB): {"rss":248.75,"heapTotal":224.73,"heapUsed":199.77,"external":5.2,"arrayBuffers":0}
+2026-06-02 15:56:05.744 [info] [Workspace-Search] cached 17 files, 4 directories
+2026-06-02 15:56:05.744 [info] [Workspace-Search] end getWorkspaceFiles
+2026-06-02 15:56:05.744 [info] Workspace refresh completed - Files: 17, Directories: 4
+2026-06-02 15:56:06.164 [info] [AgentMessageReporter] Message started (messageId: 7c84636a4a6340dbae95a70a4690e74f), role: assistant
+2026-06-02 15:56:06.191 [info] [StreamParser] tool-call-streaming-start 开始解析: call_00_QQJJ7NiijaSPX6VZkshI6395 - replace_in_file
+2026-06-02 15:56:06.191 [info] [ToolManager] [handleStreamChunk] tool-call-streaming-start
+2026-06-02 15:56:06.191 [info] [ToolManager] 创建工具实例: replace_in_file (call_00_QQJJ7NiijaSPX6VZkshI6395)
+2026-06-02 15:56:06.191 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] toolCallId: call_00_QQJJ7NiijaSPX6VZkshI6395, toolName: replace_in_file
+2026-06-02 15:56:06.191 [info] [DispatchContextManager] toolId: call_00_QQJJ7NiijaSPX6VZkshI6395, status: idle
+2026-06-02 15:56:06.191 [info] [Tool:replace_in_file] [call_00_QQJJ7NiijaSPX6VZkshI6395] 开始识别工具调用: replace_in_file
+2026-06-02 15:56:06.191 [info] [Tool:replace_in_file] 状态变更: idle -> parsing, event: parameter_start_parsing, instance: call_00_QQJJ7NiijaSPX6VZkshI6395
+2026-06-02 15:56:06.191 [info] [Tool:replace_in_file] [call_00_QQJJ7NiijaSPX6VZkshI6395] handleStateChange: idle -> parsing
+2026-06-02 15:56:06.191 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onParameterStartParsing: call_00_QQJJ7NiijaSPX6VZkshI6395, replace_in_file
+2026-06-02 15:56:06.191 [info] [StreamParser] tool-call-streaming-start 开始解析: call_00_QQJJ7NiijaSPX6VZkshI6395 - replace_in_file
+2026-06-02 15:56:06.296 [info] [StreamParser] 参数解析完成: call_00_QQJJ7NiijaSPX6VZkshI6395 - 参数: filePath - 值: /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:06.296 [info] [StreamParser] 参数解析完成: call_00_QQJJ7NiijaSPX6VZkshI6395 - 参数: filePath - 值: /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:06.296 [info] [DispatchContextManager] toolId: call_00_QQJJ7NiijaSPX6VZkshI6395, status: parsing
+2026-06-02 15:56:06.296 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onKeyParametersParsed: call_00_QQJJ7NiijaSPX6VZkshI6395, replace_in_file
+2026-06-02 15:56:06.296 [info] [Tool:replace_in_file] [call_00_QQJJ7NiijaSPX6VZkshI6395] 关键参数解析完成，进入等待确认状态
+2026-06-02 15:56:06.296 [info] [Tool:replace_in_file] 状态变更: parsing -> pending, event: key_parameters_parsed, instance: call_00_QQJJ7NiijaSPX6VZkshI6395
+2026-06-02 15:56:06.296 [info] [Tool:replace_in_file] [call_00_QQJJ7NiijaSPX6VZkshI6395] handleStateChange: parsing -> pending
+2026-06-02 15:56:06.296 [info] [Tool:replace_in_file] requiredApprove: false, needUserConfirm: false, fromHook: undefined
+2026-06-02 15:56:06.296 [info] [Tool:replace_in_file] [confirmExecution], confirmed: true, reason: undefined
+2026-06-02 15:56:06.296 [info] [Tool:replace_in_file] [call_00_QQJJ7NiijaSPX6VZkshI6395] 收到用户确认，进入流式执行状态
+2026-06-02 15:56:06.296 [info] [Tool:replace_in_file] 状态变更: pending -> stream_executing, event: user_confirmed, instance: call_00_QQJJ7NiijaSPX6VZkshI6395
+2026-06-02 15:56:06.296 [info] [Tool:replace_in_file] [call_00_QQJJ7NiijaSPX6VZkshI6395] handleStateChange: pending -> stream_executing
+2026-06-02 15:56:06.296 [info] [Tool:replace_in_file] [startExecution]: replace_in_file name: replace_in_file, id: call_00_QQJJ7NiijaSPX6VZkshI6395
+2026-06-02 15:56:06.444 [info] [StreamParser] 参数解析完成: call_00_QQJJ7NiijaSPX6VZkshI6395 - 参数: old_str - 值: <body>
+    <div class="register-container">
+2026-06-02 15:56:06.444 [info] [StreamParser] 参数解析完成: call_00_QQJJ7NiijaSPX6VZkshI6395 - 参数: old_str - 值: <body>
+    <div class="register-container">
+2026-06-02 15:56:06.481 [info] IDE headers set: Type=CodeBuddyIDE, Name=CodeBuddyIDE, Version=4.9.12
+2026-06-02 15:56:06.481 [info] [HTTP STATUS] start POST https://staging.codebuddy.cn/v2/report | Trace: f92a8d02-8ac5-474f-8a6e-0be430a16a03
+2026-06-02 15:56:06.637 [info] [StreamParser] [processStreamChunk] tool-call-delta 缓冲区数据完整, 启动兜底定时器, toolCallId: call_00_QQJJ7NiijaSPX6VZkshI6395
+2026-06-02 15:56:06.637 [info] [StreamParser] [processStreamChunk] tool-call-delta 缓冲区数据完整, 启动兜底定时器, toolCallId: call_00_QQJJ7NiijaSPX6VZkshI6395
+2026-06-02 15:56:06.637 [info] [StreamParser] [clearPendingTimer] 清理兜底定时器, toolCallId: call_00_QQJJ7NiijaSPX6VZkshI6395
+2026-06-02 15:56:06.637 [info] [StreamParser] [processStreamChunk] tool-call 到达, 调用 finalizeToolCall, toolCallId: call_00_QQJJ7NiijaSPX6VZkshI6395
+2026-06-02 15:56:06.637 [info] [StreamParser] finalizeToolCall 使用 chunk.chunk.args 数据, toolCallId: call_00_QQJJ7NiijaSPX6VZkshI6395
+2026-06-02 15:56:06.637 [info] [StreamParser] 参数解析完成: call_00_QQJJ7NiijaSPX6VZkshI6395 - 参数: filePath - 值: /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:06.637 [info] [StreamParser] 参数解析完成: call_00_QQJJ7NiijaSPX6VZkshI6395 - 参数: old_str - 值: <body>
+    <div class="register-container">
+2026-06-02 15:56:06.637 [info] [StreamParser] 参数解析完成: call_00_QQJJ7NiijaSPX6VZkshI6395 - 参数: new_str - 值: <body>
+    <div class="bg-circle"></div>
+    <div class="bg-circle"></div>
+    <div class="bg-circle"></div>
+    <div class="register-container">
+2026-06-02 15:56:06.637 [info] [StreamParser] finalizeToolCall 解析完成: call_00_QQJJ7NiijaSPX6VZkshI6395 - args: { filePath=/Users/vinyaliu/Documents/programs/codebuddytest/register.html, old_str=<body>
+    <div class="register-container">, new_str=<body>
+    <div class="bg-circle"></div>
+    <div class="bg-circle"></div>
+    <div class="bg-circle"></div>
+    <div class="register-container"> }
+2026-06-02 15:56:06.637 [info] [ToolManager] [handleStreamChunk] tool-call
+2026-06-02 15:56:06.637 [info] [ToolManager] [handleToolCallComplete] Tool call completed for: replace_in_file (call_00_QQJJ7NiijaSPX6VZkshI6395)
+2026-06-02 15:56:06.637 [info] [StreamParser] [clearPendingTimer] 清理兜底定时器, toolCallId: call_00_QQJJ7NiijaSPX6VZkshI6395
+2026-06-02 15:56:06.637 [info] [StreamParser] [processStreamChunk] tool-call 到达, 调用 finalizeToolCall, toolCallId: call_00_QQJJ7NiijaSPX6VZkshI6395
+2026-06-02 15:56:06.637 [info] [StreamParser] finalizeToolCall 使用 chunk.chunk.args 数据, toolCallId: call_00_QQJJ7NiijaSPX6VZkshI6395
+2026-06-02 15:56:06.637 [info] [StreamParser] 参数解析完成: call_00_QQJJ7NiijaSPX6VZkshI6395 - 参数: filePath - 值: /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:06.637 [info] [StreamParser] 参数解析完成: call_00_QQJJ7NiijaSPX6VZkshI6395 - 参数: old_str - 值: <body>
+    <div class="register-container">
+2026-06-02 15:56:06.637 [info] [StreamParser] 参数解析完成: call_00_QQJJ7NiijaSPX6VZkshI6395 - 参数: new_str - 值: <body>
+    <div class="bg-circle"></div>
+    <div class="bg-circle"></div>
+    <div class="bg-circle"></div>
+    <div class="register-container">
+2026-06-02 15:56:06.637 [info] [Tool:replace_in_file] valid param start, id: call_00_QQJJ7NiijaSPX6VZkshI6395
+2026-06-02 15:56:06.637 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onParamValidation: call_00_QQJJ7NiijaSPX6VZkshI6395, replace_in_file
+2026-06-02 15:56:06.637 [info] [Tool:replace_in_file] [call_00_QQJJ7NiijaSPX6VZkshI6395] 参数解析完成，转入全量执行状态
+2026-06-02 15:56:06.637 [info] [Tool:replace_in_file] 状态变更: stream_executing -> full_executing, event: parameter_validated, instance: call_00_QQJJ7NiijaSPX6VZkshI6395
+2026-06-02 15:56:06.637 [info] [Tool:replace_in_file] [call_00_QQJJ7NiijaSPX6VZkshI6395] handleStateChange: stream_executing -> full_executing
+2026-06-02 15:56:06.637 [info] [StreamParser] finalizeToolCall 解析完成: call_00_QQJJ7NiijaSPX6VZkshI6395 - args: { filePath=/Users/vinyaliu/Documents/programs/codebuddytest/register.html, old_str=<body>
+    <div class="register-container">, new_str=<body>
+    <div class="bg-circle"></div>
+    <div class="bg-circle"></div>
+    <div class="bg-circle"></div>
+    <div class="register-container"> }
+2026-06-02 15:56:06.638 [info] [ToolHookExecutor] Executing PreToolUse hook for tool: replace_in_file
+2026-06-02 15:56:06.638 [info] [plugin-manager] Loaded 0 hooks for 0 events from 8 plugin(s)
+2026-06-02 15:56:06.638 [info] [SettingConfigManager] UserConfigs: 0; pluginConfigs: 0
+2026-06-02 15:56:06.638 [info] [HookExecutor] Got 0 hook config(s) for event PreToolUse
+2026-06-02 15:56:06.638 [info] [ToolHookExecutor] PreToolUse hook result: allowed=true, permissionDecision=none
+2026-06-02 15:56:06.638 [info] [Tool:replace_in_file] emit event: execution_started
+2026-06-02 15:56:06.638 [info] [ToolManager] 开始执行: call_00_QQJJ7NiijaSPX6VZkshI6395 - replace_in_file - full
+2026-06-02 15:56:06.638 [info] [DispatchContextManager] toolId: call_00_QQJJ7NiijaSPX6VZkshI6395, status: full_executing
+2026-06-02 15:56:06.638 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onStartExecution: call_00_QQJJ7NiijaSPX6VZkshI6395, replace_in_file
+2026-06-02 15:56:06.638 [info] [Tool:replace_in_file] [IDE Replace] executeWithEditCodeService replace start
+2026-06-02 15:56:06.638 [info] [Tool:replace_in_file] get artifact file: 6d83ca0bbc464ada9f6bcf077360301d, type: brain, artifactDirPath: /Users/vinyaliu/Library/Application Support/CodeBuddy CN/User/globalStorage/tencent-cloud.coding-copilot/brain/6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:06.643 [info] [FileOperator] Strategy: Exact Match, matchCount: 1
+2026-06-02 15:56:06.643 [info] [Tool:replace_in_file] [IDE Replace] genieEditor: available
+2026-06-02 15:56:06.643 [info] [Tool:replace_in_file] [IDE Replace] getEditCodeService: available
+2026-06-02 15:56:06.643 [info] [Tool:replace_in_file] [IDE Replace] editCodeService: available
+2026-06-02 15:56:06.643 [info] [Tool:replace_in_file] [IDE Replace] Found editCodeService from genieEditor.getEditCodeService()
+2026-06-02 15:56:06.644 [info] [Tool:replace_in_file] [IDE Replace] Used editCodeService for /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:06.644 [info] [ToolManager] 执行结果变更: call_00_QQJJ7NiijaSPX6VZkshI6395 - replace_in_file
+2026-06-02 15:56:06.644 [info] [DispatchContextManager] toolId: call_00_QQJJ7NiijaSPX6VZkshI6395, status: full_executing
+2026-06-02 15:56:06.644 [info] [Tool:replace_in_file] [call_00_QQJJ7NiijaSPX6VZkshI6395] [IDE Replace] executeWithEditCodeService: success, filePath: /Users/vinyaliu/Documents/programs/codebuddytest/register.html, hint: , search: <body>
+    <div class="register-container">, replace: <body>
+    <div class="bg-circle"></div>
+    <div class="bg-circle"></div>
+    <div class="bg-circle"></div>
+    <div class="register-container">, matchCount: 1,
+                addLineCount: 3, removedLines: 0
+2026-06-02 15:56:06.644 [info] [Tool:replace_in_file] [call_00_QQJJ7NiijaSPX6VZkshI6395] 全量执行完成
+2026-06-02 15:56:06.644 [info] [Tool:replace_in_file] 状态变更: full_executing -> executed, event: execution_completed, instance: call_00_QQJJ7NiijaSPX6VZkshI6395
+2026-06-02 15:56:06.644 [info] [Tool:replace_in_file] [call_00_QQJJ7NiijaSPX6VZkshI6395] handleStateChange: full_executing -> executed
+2026-06-02 15:56:06.644 [info] [ToolHookExecutor] Executing PostToolUse hook for tool: replace_in_file
+2026-06-02 15:56:06.644 [info] [plugin-manager] Loaded 0 hooks for 0 events from 8 plugin(s)
+2026-06-02 15:56:06.644 [info] [SettingConfigManager] UserConfigs: 0; pluginConfigs: 0
+2026-06-02 15:56:06.644 [info] [HookExecutor] Got 0 hook config(s) for event PostToolUse
+2026-06-02 15:56:06.645 [info] [Tool:replace_in_file] emit event: execution_completed
+2026-06-02 15:56:06.645 [info] [ToolManager] 执行结束: call_00_QQJJ7NiijaSPX6VZkshI6395 - replace_in_file
+2026-06-02 15:56:06.645 [info] [FileChangeHandler] [CodeRatio DEBUG] FileChangeHandler.reportCodeRatio entry {"filePath":"/Users/vinyaliu/Documents/programs/codebuddytest/register.html","toolName":"replace_in_file","isNewFile":false,"isDelete":false,"hasReporter":true}
+2026-06-02 15:56:06.645 [info] [VCSRepoResolver] [CodeRatio DEBUG] VCSRepoResolver.resolve success (git) {"filePath":"/Users/vinyaliu/Documents/programs/codebuddytest/register.html","repoUrl":"github.com:Yabu-maker/codebuddytest.git","repoBranch":"master","relativeFilePath":"register.html"}
+2026-06-02 15:56:06.645 [info] [FileChangeHandler] [CodeRatio DEBUG] reportCodeRatio resolved repo {"filePath":"/Users/vinyaliu/Documents/programs/codebuddytest/register.html","relativeFilePath":"register.html","vcsType":"git","repoUrl":"github.com:Yabu-maker/codebuddytest.git","repoBranch":"master"}
+2026-06-02 15:56:06.645 [info] [CodeRatioReporter] [CodeRatio DEBUG] recordAIChange called {"filePath":"register.html","vcsType":"git","repoUrl":"github.com:Yabu-maker/codebuddytest.git","repoBranch":"master","source":"agent","changeType":"modify","hasOldContent":true,"hasNewContent":true,"newContentLen":14615,"enabled":true,"deploymentType":"SaaS","codeAdoptionRateFlag":true}
+2026-06-02 15:56:06.645 [info] [CodeRatioReporter] [CodeRatio] reporting code_change_event {"eventCode":"code_change_event","source":"agent","changeType":"modify","filePath":"register.html","vcsType":"git","repoUrl":"github.com:Yabu-maker/codebuddytest.git","repoBranch":"master","codeDiffLen":456,"codeDiffTruncated":false,"addedLines":3,"addedCharacters":102,"toolName":"replace_in_file","conversationId":"6d83ca0bbc464ada9f6bcf077360301d"}
+2026-06-02 15:56:06.645 [info] [DispatchContextManager] toolId: call_00_QQJJ7NiijaSPX6VZkshI6395, status: executed
+2026-06-02 15:56:06.645 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onEndExecution: call_00_QQJJ7NiijaSPX6VZkshI6395, replace_in_file
+2026-06-02 15:56:06.645 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] Tool call successful: toolCallId=call_00_QQJJ7NiijaSPX6VZkshI6395, toolName=replace_in_file, stepCount=3
+2026-06-02 15:56:06.645 [info] [ToolCallReporter] [ToolCallReporter] Emitting tool action to monitor: toolName=replace_in_file, toolCallId=call_00_QQJJ7NiijaSPX6VZkshI6395, conversationId=6d83ca0bbc464ada9f6bcf077360301d, requestId=2b71d854d6c84c4e9fb89da4665ff73f
+2026-06-02 15:56:06.645 [info] [ToolCallReporter] [ToolCallReporter] Successfully emitted tool action to monitor
+2026-06-02 15:56:06.646 [info] [CodeRatioReporter] [CodeRatio DEBUG] code_change_event sent successfully
+2026-06-02 15:56:06.650 [info] [InlineChatIDEProvider] Detected diff zone changes: /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:06.650 [info] [InlineChatIDEProvider] Detected diff zone changes: /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:06.652 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:06.653 [info] [ConversationManager] addMessages: message 7c84636a4a6340dbae95a70a4690e74f is new, will add
+2026-06-02 15:56:06.656 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:06.662 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:06.725 [info] [HTTP STATUS] end POST https://staging.codebuddy.cn/v2/report | Status: 200 | Trace: f92a8d02-8ac5-474f-8a6e-0be430a16a03 | Request: 788b876bf01a4f33a8c7d00196b4c1b1
+2026-06-02 15:56:06.759 [info] [MediaWatcherService] File created: /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:06.759 [warning] [MediaWatcherService] Unable to determine sessionId for file: /Users/vinyaliu/Documents/programs/codebuddytest/register.html, skipping
+2026-06-02 15:56:06.772 [info] [BaseAgent:craft] on stream step finish, reason: tool-calls, tool calls: 
+replace_in_file-call_00_QQJJ7NiijaSPX6VZkshI6395
+
+2026-06-02 15:56:06.772 [info] [ToolManager] [waitForAllToolsExecuted] activeInstances.size: 1
+2026-06-02 15:56:06.772 [info] [ToolManager] [waitForAllToolsExecuted] Stats: {"registeredTools":25,"activeInstances":1,"instancesByState":{"idle":0,"parsing":0,"pending":0,"stream_executing":0,"full_executing":0,"executed":1,"failed":0,"cancelled":0,"destroyed":0,"skipped":0},"instancesByTool":{"replace_in_file":1},"memoryUsage":{"heapUsed":211239532,"heapTotal":236388352,"external":5691496},"performance":{"averageParseTime":0,"averageExecutionTime":0,"successRate":1}}
+2026-06-02 15:56:06.772 [info] [ToolManager] [waitForAllToolsExecuted] promises.number: 1
+2026-06-02 15:56:06.772 [info] [ToolManager] [waitForAllToolsExecuted] All tools execution completed
+2026-06-02 15:56:06.773 [info] [AgentMessageReporter] Message ended (messageId: 7c84636a4a6340dbae95a70a4690e74f), role: assistant
+2026-06-02 15:56:06.773 [info] [AgentMessageReporter] Message started (messageId: 1291905bb3014b229a59b04c805639ff), role: tool
+2026-06-02 15:56:06.773 [info] [AgentMessageReporter] Message ended (messageId: 1291905bb3014b229a59b04c805639ff), role: tool
+2026-06-02 15:56:06.773 [info] [ToolManager] [cleanupCompletedInstances] Cleaning 1 completed instances
+2026-06-02 15:56:06.773 [info] [Tool:replace_in_file] [cleanup] replace_in_file cleanup completed, id: call_00_QQJJ7NiijaSPX6VZkshI6395
+2026-06-02 15:56:06.773 [info] [BaseAgent:craft] [_handleStepFinish] Cleaned 1 completed tool instances: call_00_QQJJ7NiijaSPX6VZkshI6395
+2026-06-02 15:56:06.773 [info] [BaseAgent:craft] on stream step finish, tool executed complete
+2026-06-02 15:56:06.773 [info] [BaseAgent:craft] streamText onStepFinish, finishReason: tool-calls, msgId: 7c84636a4a6340dbae95a70a4690e74f
+2026-06-02 15:56:06.774 [info] [BaseAgent:craft] [_executeSingleStep] token limit check: lastTokens=56208, toolResultTokens=110, total=56318, threshold=900000
+2026-06-02 15:56:06.774 [info] [BaseAgent:craft] [2b71d854d6c84c4e9fb89da4665ff73f] notifyStepEnd, step: 3, requestId: 2b71d854d6c84c4e9fb89da4665ff73f, messageId: 7c84636a4a6340dbae95a70a4690e74f, usage: {"inputTokens":56033,"outputTokens":175,"totalTokens":56208,"cacheTokens":55936,"cachedWriteTokens":0,"cachedMissTokens":97,"lastTokens":56208,"credit":1.61}, isMaxTokenLimit: false, isMaxStepLimit: false, hasReactiveTool:false, isContentFilter: false
+2026-06-02 15:56:06.774 [info] [AgentReporter] [CHUNK_PERF] [SUMMARY] requestId=2b71d854d6c84c4e9fb89da4665ff73f, conversationId=6d83ca0bbc464ada9f6bcf077360301d, toolCallId=call_00_QQJJ7NiijaSPX6VZkshI6395, toolName=replace_in_file, chunks=97, bytes=311, duration=447ms, avgRate=695.7B/s, maxGap=150ms, gapsOver1s=0
+2026-06-02 15:56:06.774 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] [AgentReporter] Step 3 ended (messageId: 7c84636a4a6340dbae95a70a4690e74f, isMaxTokenLimit: false, isMaxStepLimit: false, hasReactiveTool: false)
+2026-06-02 15:56:06.774 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] Step execution metrics: step=3, duration=2318ms, usage={"inputTokens":56033,"outputTokens":175,"totalTokens":56208,"cacheTokens":55936,"cachedWriteTokens":0,"cachedMissTokens":97,"lastTokens":56208,"credit":1.61}
+2026-06-02 15:56:06.774 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] Step execution metrics: step=3, duration=2318ms
+2026-06-02 15:56:06.774 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] onStepEnd: agent=craft, stepCount=3
+2026-06-02 15:56:06.774 [info] [BaseAgent:craft] _executeSingleStep: set currentActiveMessageId to af467bee21a947b08ae5f9526199df01
+2026-06-02 15:56:06.796 [info] [BaseAgent:craft] [2b71d854d6c84c4e9fb89da4665ff73f] notifyStepStart, step: 4, requestId: 2b71d854d6c84c4e9fb89da4665ff73f, messageId: af467bee21a947b08ae5f9526199df01
+2026-06-02 15:56:06.796 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] [AgentReporter] Step 4 started (messageId: af467bee21a947b08ae5f9526199df01)
+2026-06-02 15:56:06.796 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] onStepStart: agent=craft, stepCount=4
+2026-06-02 15:56:06.796 [warning] [MessageManager:2b71d854d6c84c4e9fb89da4665ff73f] [MessageManager] V2 修复消息: 89 -> 原始消息, tool-calls: 29, tool-results: 29, 重复跳过: 0
+2026-06-02 15:56:06.796 [warning] [MessageManager:2b71d854d6c84c4e9fb89da4665ff73f] [MessageManager] V2 修复完成: 消息数量 89 -> 89, 跳过空消息: 0
+2026-06-02 15:56:06.796 [info] [BaseAgent:craft] start flatten messages
+2026-06-02 15:56:06.796 [info] [BaseAgent:craft] end flatten messages
+2026-06-02 15:56:06.796 [info] [BaseAgent:craft] [CustomFetch] Using proxy: http://127.0.0.1:8899
+2026-06-02 15:56:06.796 [info] [BaseAgent:craft] DeepSeek ModelProvider initialized, modelId: deepseek-v4-flash, modelName: Deepseek-V4-Flash
+2026-06-02 15:56:06.800 [info] [BaseAgent:craft] [CustomFetch] url: https://staging.codebuddy.cn/v2/chat/completions
+2026-06-02 15:56:06.800 [info] [BaseAgent:craft] [CustomFetch] proxy: http://127.0.0.1:8899
+2026-06-02 15:56:06.800 [info] [BaseAgent:craft] [CustomFetch] enableRequestBodyGzip: true
+2026-06-02 15:56:06.800 [info] [BaseAgent:craft] [CustomFetch] Request body gzipped: original 232810 bytes, compressed 54002 bytes, saved 76.80%
+2026-06-02 15:56:06.801 [info] [AgentReporter] [AgentReporter][DNS] step=4, messageId=af467bee21a947b08ae5f9526199df01, hostname=staging.codebuddy.cn, resolved=62.234.206.89(IPv4)
+2026-06-02 15:56:06.802 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:06.802 [info] [startup-perf] scope=exthost phase=filetree:refresh-workspace-search event=begin durationMs=-
+2026-06-02 15:56:06.802 [info] [startup-perf] scope=exthost phase=filetree:refresh-workspace-search event=end durationMs=0 nodes=0
+2026-06-02 15:56:06.802 [info] [FileTreeService] [fileTree] File tree changed, adapterConvId: current-session, workspace search refreshed: 0 files
+2026-06-02 15:56:06.802 [info] [startup-perf] scope=exthost phase=filetree:rpc-view-refresh event=begin durationMs=-
+2026-06-02 15:56:06.802 [info] [startup-perf] scope=exthost phase=filetree:rpc-view-refresh event=end durationMs=0
+2026-06-02 15:56:06.802 [info] [FileTreeService] [fileTree] No router found for conversation: current-session, skipping notification (router may not be created yet)
+2026-06-02 15:56:06.802 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:06.803 [info] [ConversationManager] addMessages: message 7c84636a4a6340dbae95a70a4690e74f exists, will update
+2026-06-02 15:56:06.804 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:06.804 [info] [ConversationManager] addMessages update: messageId=7c84636a4a6340dbae95a70a4690e74f, hasExtra=true, extra={"requestId":"2b71d854d6c84c4e9fb89da4665ff73f","modelId":"deepseek-v4-flash","modelName":"Deepseek-V4-Flash","isHelperMessage":false,"traceId":"5dca776159eb6b5145023282226c3c7d","responseId":"1a5e4ea
+2026-06-02 15:56:06.806 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:06.806 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:06.807 [info] [ConversationManager] addMessages: message 1291905bb3014b229a59b04c805639ff is new, will add
+2026-06-02 15:56:06.808 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:06.929 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:06.950 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:07.078 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:07.078 [info] [startup-perf] scope=exthost phase=filetree:refresh-workspace-search event=begin durationMs=-
+2026-06-02 15:56:07.078 [info] [startup-perf] scope=exthost phase=filetree:refresh-workspace-search event=end durationMs=0 nodes=0
+2026-06-02 15:56:07.078 [info] [FileTreeService] [fileTree] File tree changed, adapterConvId: current-session, workspace search refreshed: 0 files
+2026-06-02 15:56:07.078 [info] [startup-perf] scope=exthost phase=filetree:rpc-view-refresh event=begin durationMs=-
+2026-06-02 15:56:07.078 [info] [startup-perf] scope=exthost phase=filetree:rpc-view-refresh event=end durationMs=0
+2026-06-02 15:56:07.078 [info] [FileTreeService] [fileTree] No router found for conversation: current-session, skipping notification (router may not be created yet)
+2026-06-02 15:56:07.305 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:07.429 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:07.807 [info] [Workspace-Search] start getWorkspaceFiles
+2026-06-02 15:56:07.807 [info] Memory usage (MB): {"rss":250.11,"heapTotal":225.89,"heapUsed":205.21,"external":5.27,"arrayBuffers":0}
+2026-06-02 15:56:07.812 [info] [Workspace-Search] cached 17 files, 4 directories
+2026-06-02 15:56:07.813 [info] [Workspace-Search] end getWorkspaceFiles
+2026-06-02 15:56:07.813 [info] Workspace refresh completed - Files: 17, Directories: 4
+2026-06-02 15:56:08.081 [info] [Workspace-Search] start getWorkspaceFiles
+2026-06-02 15:56:08.081 [info] Memory usage (MB): {"rss":250.11,"heapTotal":225.89,"heapUsed":205.4,"external":5.27,"arrayBuffers":0}
+2026-06-02 15:56:08.084 [info] [Workspace-Search] cached 17 files, 4 directories
+2026-06-02 15:56:08.084 [info] [Workspace-Search] end getWorkspaceFiles
+2026-06-02 15:56:08.084 [info] Workspace refresh completed - Files: 17, Directories: 4
+2026-06-02 15:56:08.368 [info] [AgentMessageReporter] Message started (messageId: af467bee21a947b08ae5f9526199df01), role: assistant
+2026-06-02 15:56:08.559 [info] [StreamParser] tool-call-streaming-start 开始解析: call_00_33rCX1yLy6EwiHcTlSe44506 - read_lints
+2026-06-02 15:56:08.559 [info] [ToolManager] [handleStreamChunk] tool-call-streaming-start
+2026-06-02 15:56:08.559 [info] [ToolManager] 创建工具实例: read_lints (call_00_33rCX1yLy6EwiHcTlSe44506)
+2026-06-02 15:56:08.559 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] toolCallId: call_00_33rCX1yLy6EwiHcTlSe44506, toolName: read_lints
+2026-06-02 15:56:08.559 [info] [DispatchContextManager] toolId: call_00_33rCX1yLy6EwiHcTlSe44506, status: idle
+2026-06-02 15:56:08.559 [info] [Tool:read_lints] [call_00_33rCX1yLy6EwiHcTlSe44506] 开始识别工具调用: read_lints
+2026-06-02 15:56:08.559 [info] [Tool:read_lints] 状态变更: idle -> parsing, event: parameter_start_parsing, instance: call_00_33rCX1yLy6EwiHcTlSe44506
+2026-06-02 15:56:08.559 [info] [Tool:read_lints] [call_00_33rCX1yLy6EwiHcTlSe44506] handleStateChange: idle -> parsing
+2026-06-02 15:56:08.559 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onParameterStartParsing: call_00_33rCX1yLy6EwiHcTlSe44506, read_lints
+2026-06-02 15:56:08.559 [info] [StreamParser] tool-call-streaming-start 开始解析: call_00_33rCX1yLy6EwiHcTlSe44506 - read_lints
+2026-06-02 15:56:08.680 [info] [StreamParser] [processStreamChunk] tool-call-delta 缓冲区数据完整, 启动兜底定时器, toolCallId: call_00_33rCX1yLy6EwiHcTlSe44506
+2026-06-02 15:56:08.680 [info] [StreamParser] [processStreamChunk] tool-call-delta 缓冲区数据完整, 启动兜底定时器, toolCallId: call_00_33rCX1yLy6EwiHcTlSe44506
+2026-06-02 15:56:08.680 [info] [StreamParser] [clearPendingTimer] 清理兜底定时器, toolCallId: call_00_33rCX1yLy6EwiHcTlSe44506
+2026-06-02 15:56:08.680 [info] [StreamParser] [processStreamChunk] tool-call 到达, 调用 finalizeToolCall, toolCallId: call_00_33rCX1yLy6EwiHcTlSe44506
+2026-06-02 15:56:08.680 [info] [StreamParser] finalizeToolCall 使用 chunk.chunk.args 数据, toolCallId: call_00_33rCX1yLy6EwiHcTlSe44506
+2026-06-02 15:56:08.680 [info] [StreamParser] 参数解析完成: call_00_33rCX1yLy6EwiHcTlSe44506 - 参数: paths - 值: /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:08.680 [info] [StreamParser] finalizeToolCall 解析完成: call_00_33rCX1yLy6EwiHcTlSe44506 - args: { paths=/Users/vinyaliu/Documents/programs/codebuddytest/register.html }
+2026-06-02 15:56:08.680 [info] [ToolManager] [handleStreamChunk] tool-call
+2026-06-02 15:56:08.680 [info] [ToolManager] [handleToolCallComplete] Tool call completed for: read_lints (call_00_33rCX1yLy6EwiHcTlSe44506)
+2026-06-02 15:56:08.680 [info] [StreamParser] [clearPendingTimer] 清理兜底定时器, toolCallId: call_00_33rCX1yLy6EwiHcTlSe44506
+2026-06-02 15:56:08.680 [info] [StreamParser] [processStreamChunk] tool-call 到达, 调用 finalizeToolCall, toolCallId: call_00_33rCX1yLy6EwiHcTlSe44506
+2026-06-02 15:56:08.680 [info] [StreamParser] finalizeToolCall 使用 chunk.chunk.args 数据, toolCallId: call_00_33rCX1yLy6EwiHcTlSe44506
+2026-06-02 15:56:08.680 [info] [DispatchContextManager] toolId: call_00_33rCX1yLy6EwiHcTlSe44506, status: parsing
+2026-06-02 15:56:08.680 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onKeyParametersParsed: call_00_33rCX1yLy6EwiHcTlSe44506, read_lints
+2026-06-02 15:56:08.680 [info] [Tool:read_lints] [call_00_33rCX1yLy6EwiHcTlSe44506] 关键参数解析完成，进入等待确认状态
+2026-06-02 15:56:08.680 [info] [Tool:read_lints] 状态变更: parsing -> pending, event: key_parameters_parsed, instance: call_00_33rCX1yLy6EwiHcTlSe44506
+2026-06-02 15:56:08.680 [info] [Tool:read_lints] [call_00_33rCX1yLy6EwiHcTlSe44506] handleStateChange: parsing -> pending
+2026-06-02 15:56:08.680 [info] [Tool:read_lints] requiredApprove: false, needUserConfirm: false, fromHook: undefined
+2026-06-02 15:56:08.680 [info] [Tool:read_lints] [confirmExecution], confirmed: true, reason: undefined
+2026-06-02 15:56:08.680 [info] [Tool:read_lints] [call_00_33rCX1yLy6EwiHcTlSe44506] 收到用户确认，进入流式执行状态
+2026-06-02 15:56:08.680 [info] [Tool:read_lints] 状态变更: pending -> stream_executing, event: user_confirmed, instance: call_00_33rCX1yLy6EwiHcTlSe44506
+2026-06-02 15:56:08.680 [info] [Tool:read_lints] [call_00_33rCX1yLy6EwiHcTlSe44506] handleStateChange: pending -> stream_executing
+2026-06-02 15:56:08.680 [info] [Tool:read_lints] [startExecution]: read_lints name: read_lints, id: call_00_33rCX1yLy6EwiHcTlSe44506
+2026-06-02 15:56:08.680 [info] [StreamParser] 参数解析完成: call_00_33rCX1yLy6EwiHcTlSe44506 - 参数: paths - 值: /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:08.680 [info] [Tool:read_lints] valid param start, id: call_00_33rCX1yLy6EwiHcTlSe44506
+2026-06-02 15:56:08.680 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onParamValidation: call_00_33rCX1yLy6EwiHcTlSe44506, read_lints
+2026-06-02 15:56:08.680 [info] [Tool:read_lints] [call_00_33rCX1yLy6EwiHcTlSe44506] 参数解析完成，转入全量执行状态
+2026-06-02 15:56:08.680 [info] [Tool:read_lints] 状态变更: stream_executing -> full_executing, event: parameter_validated, instance: call_00_33rCX1yLy6EwiHcTlSe44506
+2026-06-02 15:56:08.680 [info] [Tool:read_lints] [call_00_33rCX1yLy6EwiHcTlSe44506] handleStateChange: stream_executing -> full_executing
+2026-06-02 15:56:08.680 [info] [StreamParser] finalizeToolCall 解析完成: call_00_33rCX1yLy6EwiHcTlSe44506 - args: { paths=/Users/vinyaliu/Documents/programs/codebuddytest/register.html }
+2026-06-02 15:56:08.700 [info] [ToolHookExecutor] Executing PreToolUse hook for tool: read_lints
+2026-06-02 15:56:08.700 [info] [plugin-manager] Loaded 0 hooks for 0 events from 8 plugin(s)
+2026-06-02 15:56:08.700 [info] [SettingConfigManager] UserConfigs: 0; pluginConfigs: 0
+2026-06-02 15:56:08.700 [info] [HookExecutor] Got 0 hook config(s) for event PreToolUse
+2026-06-02 15:56:08.700 [info] [ToolHookExecutor] PreToolUse hook result: allowed=true, permissionDecision=none
+2026-06-02 15:56:08.701 [info] [Tool:read_lints] emit event: execution_started
+2026-06-02 15:56:08.701 [info] [ToolManager] 开始执行: call_00_33rCX1yLy6EwiHcTlSe44506 - read_lints - full
+2026-06-02 15:56:08.701 [info] [DispatchContextManager] toolId: call_00_33rCX1yLy6EwiHcTlSe44506, status: full_executing
+2026-06-02 15:56:08.701 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onStartExecution: call_00_33rCX1yLy6EwiHcTlSe44506, read_lints
+2026-06-02 15:56:08.802 [info] IDE headers set: Type=CodeBuddyIDE, Name=CodeBuddyIDE, Version=4.9.12
+2026-06-02 15:56:08.802 [info] [HTTP STATUS] start POST https://staging.codebuddy.cn/v2/report | Trace: 90693d11-0aaf-4a0e-93ea-e02ae27145c8
+2026-06-02 15:56:08.875 [info] [BaseAgent:craft] on stream step finish, reason: tool-calls, tool calls: 
+read_lints-call_00_33rCX1yLy6EwiHcTlSe44506
+
+2026-06-02 15:56:08.875 [info] [ToolManager] [waitForAllToolsExecuted] activeInstances.size: 1
+2026-06-02 15:56:08.875 [info] [ToolManager] [waitForAllToolsExecuted] Stats: {"registeredTools":25,"activeInstances":1,"instancesByState":{"idle":0,"parsing":0,"pending":0,"stream_executing":0,"full_executing":1,"executed":0,"failed":0,"cancelled":0,"destroyed":0,"skipped":0},"instancesByTool":{"read_lints":1},"memoryUsage":{"heapUsed":219159428,"heapTotal":237338624,"external":5676592},"performance":{"averageParseTime":0,"averageExecutionTime":0,"successRate":0}}
+2026-06-02 15:56:08.875 [info] [ToolManager] [waitForAllToolsExecuted] promises.number: 1
+2026-06-02 15:56:09.003 [info] [DiagnosticManager] getCurrentFileDiagnosticsAsync: no diagnostics found on attempt 1, retrying in 500ms, file: file:///Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:09.047 [info] [HTTP STATUS] end POST https://staging.codebuddy.cn/v2/report | Status: 200 | Trace: 90693d11-0aaf-4a0e-93ea-e02ae27145c8 | Request: 0a99ad4cf12a4cf7bb567e22549068a4
+2026-06-02 15:56:09.508 [info] [DiagnosticManager] getCurrentFileDiagnosticsAsync: no diagnostics found on attempt 2, retrying in 500ms, file: file:///Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:09.533 [info] [TracingService] Exported 8 spans, traceIds: 5dca776159eb6b5145023282226c3c7d
+2026-06-02 15:56:10.014 [info] [DiagnosticManager] getCurrentFileDiagnosticsAsync: finished with 0 diagnostics after 3 attempts, file: file:///Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:10.015 [info] [ToolManager] 执行结果变更: call_00_33rCX1yLy6EwiHcTlSe44506 - read_lints
+2026-06-02 15:56:10.015 [info] [DispatchContextManager] toolId: call_00_33rCX1yLy6EwiHcTlSe44506, status: full_executing
+2026-06-02 15:56:10.015 [info] [Tool:read_lints] [call_00_33rCX1yLy6EwiHcTlSe44506] [read-lints] [fullExecute] success, paths: ["/Users/vinyaliu/Documents/programs/codebuddytest/register.html"], totalCount: 0
+2026-06-02 15:56:10.016 [info] [Tool:read_lints] [call_00_33rCX1yLy6EwiHcTlSe44506] 全量执行完成
+2026-06-02 15:56:10.016 [info] [Tool:read_lints] 状态变更: full_executing -> executed, event: execution_completed, instance: call_00_33rCX1yLy6EwiHcTlSe44506
+2026-06-02 15:56:10.016 [info] [Tool:read_lints] [call_00_33rCX1yLy6EwiHcTlSe44506] handleStateChange: full_executing -> executed
+2026-06-02 15:56:10.016 [info] [ToolHookExecutor] Executing PostToolUse hook for tool: read_lints
+2026-06-02 15:56:10.016 [info] [plugin-manager] Loaded 0 hooks for 0 events from 8 plugin(s)
+2026-06-02 15:56:10.016 [info] [SettingConfigManager] UserConfigs: 0; pluginConfigs: 0
+2026-06-02 15:56:10.016 [info] [HookExecutor] Got 0 hook config(s) for event PostToolUse
+2026-06-02 15:56:10.017 [info] [Tool:read_lints] emit event: execution_completed
+2026-06-02 15:56:10.018 [info] [ToolManager] 执行结束: call_00_33rCX1yLy6EwiHcTlSe44506 - read_lints
+2026-06-02 15:56:10.018 [info] [DispatchContextManager] toolId: call_00_33rCX1yLy6EwiHcTlSe44506, status: executed
+2026-06-02 15:56:10.018 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] [ToolCallReporter] onEndExecution: call_00_33rCX1yLy6EwiHcTlSe44506, read_lints
+2026-06-02 15:56:10.018 [info] [ToolCallReporter] [5dca776159eb6b5145023282226c3c7d] Tool call successful: toolCallId=call_00_33rCX1yLy6EwiHcTlSe44506, toolName=read_lints, stepCount=4
+2026-06-02 15:56:10.018 [info] [ToolCallReporter] [ToolCallReporter] Emitting tool action to monitor: toolName=read_lints, toolCallId=call_00_33rCX1yLy6EwiHcTlSe44506, conversationId=6d83ca0bbc464ada9f6bcf077360301d, requestId=2b71d854d6c84c4e9fb89da4665ff73f
+2026-06-02 15:56:10.018 [info] [ToolCallReporter] [ToolCallReporter] Successfully emitted tool action to monitor
+2026-06-02 15:56:10.018 [info] [ToolManager] [waitForAllToolsExecuted] All tools execution completed
+2026-06-02 15:56:10.019 [info] [AgentMessageReporter] Message ended (messageId: af467bee21a947b08ae5f9526199df01), role: assistant
+2026-06-02 15:56:10.020 [info] [AgentMessageReporter] Message started (messageId: 1c73aa053919446d83e33878ed07a996), role: tool
+2026-06-02 15:56:10.020 [info] [AgentMessageReporter] Message ended (messageId: 1c73aa053919446d83e33878ed07a996), role: tool
+2026-06-02 15:56:10.020 [info] [ToolManager] [cleanupCompletedInstances] Cleaning 1 completed instances
+2026-06-02 15:56:10.020 [info] [Tool:read_lints] [cleanup] read_lints cleanup completed, id: call_00_33rCX1yLy6EwiHcTlSe44506
+2026-06-02 15:56:10.020 [info] [BaseAgent:craft] [_handleStepFinish] Cleaned 1 completed tool instances: call_00_33rCX1yLy6EwiHcTlSe44506
+2026-06-02 15:56:10.020 [info] [BaseAgent:craft] on stream step finish, tool executed complete
+2026-06-02 15:56:10.020 [info] [BaseAgent:craft] streamText onStepFinish, finishReason: tool-calls, msgId: af467bee21a947b08ae5f9526199df01
+2026-06-02 15:56:10.022 [info] [BaseAgent:craft] [_executeSingleStep] token limit check: lastTokens=56392, toolResultTokens=90, total=56482, threshold=900000
+2026-06-02 15:56:10.022 [info] [BaseAgent:craft] [2b71d854d6c84c4e9fb89da4665ff73f] notifyStepEnd, step: 4, requestId: 2b71d854d6c84c4e9fb89da4665ff73f, messageId: af467bee21a947b08ae5f9526199df01, usage: {"inputTokens":56281,"outputTokens":111,"totalTokens":56392,"cacheTokens":56192,"cachedWriteTokens":0,"cachedMissTokens":89,"lastTokens":56392,"credit":1.62}, isMaxTokenLimit: false, isMaxStepLimit: false, hasReactiveTool:false, isContentFilter: false
+2026-06-02 15:56:10.022 [info] [AgentReporter] [CHUNK_PERF] [SUMMARY] requestId=2b71d854d6c84c4e9fb89da4665ff73f, conversationId=6d83ca0bbc464ada9f6bcf077360301d, toolCallId=call_00_33rCX1yLy6EwiHcTlSe44506, toolName=read_lints, chunks=28, bytes=75, duration=122ms, avgRate=614.8B/s, maxGap=33ms, gapsOver1s=0
+2026-06-02 15:56:10.022 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] [AgentReporter] Step 4 ended (messageId: af467bee21a947b08ae5f9526199df01, isMaxTokenLimit: false, isMaxStepLimit: false, hasReactiveTool: false)
+2026-06-02 15:56:10.022 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] Step execution metrics: step=4, duration=3247ms, usage={"inputTokens":56281,"outputTokens":111,"totalTokens":56392,"cacheTokens":56192,"cachedWriteTokens":0,"cachedMissTokens":89,"lastTokens":56392,"credit":1.62}
+2026-06-02 15:56:10.022 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] Step execution metrics: step=4, duration=3247ms
+2026-06-02 15:56:10.022 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] onStepEnd: agent=craft, stepCount=4
+2026-06-02 15:56:10.022 [info] [BaseAgent:craft] _executeSingleStep: set currentActiveMessageId to f71d3958290b4ad1a9bd200add9212aa
+2026-06-02 15:56:10.048 [info] [BaseAgent:craft] [2b71d854d6c84c4e9fb89da4665ff73f] notifyStepStart, step: 5, requestId: 2b71d854d6c84c4e9fb89da4665ff73f, messageId: f71d3958290b4ad1a9bd200add9212aa
+2026-06-02 15:56:10.048 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] [AgentReporter] Step 5 started (messageId: f71d3958290b4ad1a9bd200add9212aa)
+2026-06-02 15:56:10.048 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] onStepStart: agent=craft, stepCount=5
+2026-06-02 15:56:10.048 [warning] [MessageManager:2b71d854d6c84c4e9fb89da4665ff73f] [MessageManager] V2 修复消息: 91 -> 原始消息, tool-calls: 30, tool-results: 30, 重复跳过: 0
+2026-06-02 15:56:10.048 [warning] [MessageManager:2b71d854d6c84c4e9fb89da4665ff73f] [MessageManager] V2 修复完成: 消息数量 91 -> 91, 跳过空消息: 0
+2026-06-02 15:56:10.048 [info] [BaseAgent:craft] start flatten messages
+2026-06-02 15:56:10.048 [info] [BaseAgent:craft] end flatten messages
+2026-06-02 15:56:10.048 [info] [BaseAgent:craft] [CustomFetch] Using proxy: http://127.0.0.1:8899
+2026-06-02 15:56:10.048 [info] [BaseAgent:craft] DeepSeek ModelProvider initialized, modelId: deepseek-v4-flash, modelName: Deepseek-V4-Flash
+2026-06-02 15:56:10.053 [info] [BaseAgent:craft] [CustomFetch] url: https://staging.codebuddy.cn/v2/chat/completions
+2026-06-02 15:56:10.053 [info] [BaseAgent:craft] [CustomFetch] proxy: http://127.0.0.1:8899
+2026-06-02 15:56:10.053 [info] [BaseAgent:craft] [CustomFetch] enableRequestBodyGzip: true
+2026-06-02 15:56:10.053 [info] [BaseAgent:craft] [CustomFetch] Request body gzipped: original 233723 bytes, compressed 54301 bytes, saved 76.77%
+2026-06-02 15:56:10.054 [info] [AgentReporter] [AgentReporter][DNS] step=5, messageId=f71d3958290b4ad1a9bd200add9212aa, hostname=staging.codebuddy.cn, resolved=62.234.206.89(IPv4)
+2026-06-02 15:56:10.058 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:10.060 [info] [ConversationManager] addMessages: message af467bee21a947b08ae5f9526199df01 is new, will add
+2026-06-02 15:56:10.065 [info] [ConversationManager] addMessages: message af467bee21a947b08ae5f9526199df01 exists, will update
+2026-06-02 15:56:10.065 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:10.066 [info] [ConversationManager] addMessages update: messageId=af467bee21a947b08ae5f9526199df01, hasExtra=true, extra={"requestId":"2b71d854d6c84c4e9fb89da4665ff73f","modelId":"deepseek-v4-flash","modelName":"Deepseek-V4-Flash","isHelperMessage":false,"traceId":"5dca776159eb6b5145023282226c3c7d","responseId":"8064cae
+2026-06-02 15:56:10.068 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:10.069 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:10.071 [info] [ConversationManager] addMessages: message 1c73aa053919446d83e33878ed07a996 is new, will add
+2026-06-02 15:56:10.075 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:11.674 [info] [AgentMessageReporter] Message started (messageId: f71d3958290b4ad1a9bd200add9212aa), role: assistant
+2026-06-02 15:56:12.059 [info] IDE headers set: Type=CodeBuddyIDE, Name=CodeBuddyIDE, Version=4.9.12
+2026-06-02 15:56:12.059 [info] [HTTP STATUS] start POST https://staging.codebuddy.cn/v2/report | Trace: 2f243ac9-9310-455c-8d34-8490aae14d9f
+2026-06-02 15:56:12.588 [info] [HTTP STATUS] end POST https://staging.codebuddy.cn/v2/report | Status: 200 | Trace: 2f243ac9-9310-455c-8d34-8490aae14d9f | Request: 5ab3a6855a8b47d4981cc7c3c8ca9873
+2026-06-02 15:56:13.196 [info] [BaseAgent:craft] on stream step finish, reason: stop, tool calls: 
+
+2026-06-02 15:56:13.196 [info] [ToolManager] [waitForAllToolsExecuted] activeInstances.size: 0
+2026-06-02 15:56:13.196 [info] [ToolManager] [waitForAllToolsExecuted] Stats: {"registeredTools":25,"activeInstances":0,"instancesByState":{"idle":0,"parsing":0,"pending":0,"stream_executing":0,"full_executing":0,"executed":0,"failed":0,"cancelled":0,"destroyed":0,"skipped":0},"instancesByTool":{},"memoryUsage":{"heapUsed":202000820,"heapTotal":236863488,"external":5884558},"performance":{"averageParseTime":0,"averageExecutionTime":0,"successRate":0}}
+2026-06-02 15:56:13.196 [info] [ToolManager] [waitForAllToolsExecuted] promises.number: 0
+2026-06-02 15:56:13.197 [info] [ToolManager] [waitForAllToolsExecuted] All tools execution completed
+2026-06-02 15:56:13.197 [info] [AgentMessageReporter] Message ended (messageId: f71d3958290b4ad1a9bd200add9212aa), role: assistant
+2026-06-02 15:56:13.198 [info] [BaseAgent:craft] on stream step finish, tool executed complete
+2026-06-02 15:56:13.198 [info] [BaseAgent:craft] streamText onStepFinish, finishReason: stop, msgId: f71d3958290b4ad1a9bd200add9212aa
+2026-06-02 15:56:13.199 [info] [BaseAgent:craft] [2b71d854d6c84c4e9fb89da4665ff73f] notifyStepEnd, step: 5, requestId: 2b71d854d6c84c4e9fb89da4665ff73f, messageId: f71d3958290b4ad1a9bd200add9212aa, usage: {"inputTokens":56473,"outputTokens":203,"totalTokens":56676,"cacheTokens":56320,"cachedWriteTokens":0,"cachedMissTokens":153,"lastTokens":56676,"credit":1.62}, isMaxTokenLimit: false, isMaxStepLimit: false, hasReactiveTool:false, isContentFilter: false
+2026-06-02 15:56:13.199 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] [AgentReporter] Step 5 ended (messageId: f71d3958290b4ad1a9bd200add9212aa, isMaxTokenLimit: false, isMaxStepLimit: false, hasReactiveTool: false)
+2026-06-02 15:56:13.199 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] Step execution metrics: step=5, duration=3176ms, usage={"inputTokens":56473,"outputTokens":203,"totalTokens":56676,"cacheTokens":56320,"cachedWriteTokens":0,"cachedMissTokens":153,"lastTokens":56676,"credit":1.62}
+2026-06-02 15:56:13.199 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] Step execution metrics: step=5, duration=3176ms
+2026-06-02 15:56:13.199 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] onStepEnd: agent=craft, stepCount=5
+2026-06-02 15:56:13.200 [info] [plugin-manager] Loaded 0 hooks for 0 events from 8 plugin(s)
+2026-06-02 15:56:13.200 [info] [SettingConfigManager] UserConfigs: 0; pluginConfigs: 0
+2026-06-02 15:56:13.200 [info] [HookExecutor] Got 0 hook config(s) for event Stop
+2026-06-02 15:56:13.201 [info] [BaseAgent:craft] [2b71d854d6c84c4e9fb89da4665ff73f] notifyAllStepsEnd, totalSteps: 5, requestId: 2b71d854d6c84c4e9fb89da4665ff73f, isMaxTokenLimit: false, isMaxStepLimit: false, hasReactiveTool: false, isContentFilter: false
+2026-06-02 15:56:13.201 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] Agent execution metrics: total_duration=21325ms step_count=5
+2026-06-02 15:56:13.201 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] onAllStepsEnd: agent=craft, stepCount=5, isMaxTokenLimit=false, isMaxStepLimit=false, hasReactiveTool=false
+2026-06-02 15:56:13.201 [info] [BaseAgent:craft] [BaseAgent] run end
+2026-06-02 15:56:13.201 [info] [HistoryService] getConversation: conversationId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.202 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.203 [info] [ConversationManager] addMessages: message f71d3958290b4ad1a9bd200add9212aa is new, will add
+2026-06-02 15:56:13.207 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.208 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.210 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.211 [info] [[HistoryMiddleware]] [HistoryMiddleware] Successfully finalized request 2b71d854d6c84c4e9fb89da4665ff73f
+2026-06-02 15:56:13.211 [info] [VersionService] Marked obsolete versions, starting cleanup, conversationId: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.211 [info] [mergeFilePaths] 开始合并文件路径，新文件路径数量: 2, id: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.211 [info] [mergeFilePaths] 创建文件路径映射，id: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.211 [info] [mergeFilePaths] 开始添加新文件路径，数量: 2, id: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.211 [info] [mergeFilePaths] 文件路径合并完成，结果数量: 5, id: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.211 [info] [VersionService] Stack updated, conversationId: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.211 [info] [VersionService] Stack updated, conversationId: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.211 [info] [saveVersion] 检查版本目录是否存在，id: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.212 [info] [saveVersion] 开始构建元数据，id: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.212 [info] [VersionService] Version created successfully, versionId: 9bc28faf-a6c4-4415-b1ca-ec85a0ee7dc0, conversationId: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.212 [info] [[CheckpointMiddleware]] [CheckpointMiddleware] Checkpoint created: 9bc28faf-a6c4-4415-b1ca-ec85a0ee7dc0, requestId: 2b71d854d6c84c4e9fb89da4665ff73f, files: 2
+2026-06-02 15:56:13.213 [info] [BaseAgent:craft] [2b71d854d6c84c4e9fb89da4665ff73f] notifyAgentEnd
+2026-06-02 15:56:13.213 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] [AgentReporter] Agent ended
+2026-06-02 15:56:13.213 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] onAgentEnd: agent=craft mode=craft conversationId=6d83ca0bbc464ada9f6bcf077360301d requestId=2b71d854d6c84c4e9fb89da4665ff73f error=false
+2026-06-02 15:56:13.213 [info] [AgentReporter] [5dca776159eb6b5145023282226c3c7d] Agent execution successful with usage: {"inputTokens":274151,"outputTokens":1924,"totalTokens":276075,"cacheTokens":269440,"cachedWriteTokens":0,"cachedMissTokens":4711,"lastTokens":56676,"credit":7.91}
+2026-06-02 15:56:13.214 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.214 [info] [ConversationManager] addMessages: message f71d3958290b4ad1a9bd200add9212aa exists, will update
+2026-06-02 15:56:13.215 [info] [ConversationManager] addMessages update: messageId=f71d3958290b4ad1a9bd200add9212aa, hasExtra=true, extra={"requestId":"2b71d854d6c84c4e9fb89da4665ff73f","modelId":"deepseek-v4-flash","modelName":"Deepseek-V4-Flash","isHelperMessage":false,"traceId":"5dca776159eb6b5145023282226c3c7d","responseId":"6086c8e
+2026-06-02 15:56:13.216 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.217 [info] [CraftInvokableAgentExecutor] [5dca776159eb6b5145023282226c3c7d] craftAgent.run.result: {
+  "usage": {
+    "inputTokens": 274151,
+    "outputTokens": 1924,
+    "totalTokens": 276075,
+    "cacheTokens": 269440,
+    "cachedWriteTokens": 0,
+    "cachedMissTokens": 4711,
+    "lastTokens": 56676,
+    "credit": 7.91
+  }
+}
+2026-06-02 15:56:13.217 [info] [disposeServices] Starting services disposal, conversationId: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.217 [info] [MessageService] Instance disposed
+2026-06-02 15:56:13.217 [info] [disposeServices] Services disposal completed, total active: 0
+2026-06-02 15:56:13.217 [info] [ResultHandler] handleResult SUCCESS, conversationId: 6d83ca0bbc464ada9f6bcf077360301d, context exists: true
+2026-06-02 15:56:13.217 [info] [ResultHandler] context found, preparing to emit CHAT_REQUEST_RESPONSE
+2026-06-02 15:56:13.217 [info] [ResultHandler] About to call monitorEventBridgeService.emit
+2026-06-02 15:56:13.217 [info] [ResultHandler] CHAT_REQUEST_RESPONSE emitted successfully
+2026-06-02 15:56:13.218 [info] [MediaWatcherService] Agent state changed: running -> completed, active sessions: 0
+2026-06-02 15:56:13.218 [info] [MediaWatcherService] Watching stopped
+2026-06-02 15:56:13.218 [info] [ChatStateSyncListener] Session 6d83ca0bbc464ada9f6bcf077360301d: AgentState.completed → ChatStateEvent.stop
+2026-06-02 15:56:13.218 [info] [AgentSessionManager] Session 6d83ca0bbc464ada9f6bcf077360301d state: running → completed
+2026-06-02 15:56:13.218 [info] [AgentSessionManager] executeAsync SUCCESS: conversationId=6d83ca0bbc464ada9f6bcf077360301d, requestId=871d804e-b825-4891-ab30-89f6063127cb
+2026-06-02 15:56:13.218 [info] [ChatStateSyncListener] Using conversation.name: "帮我优化该文件代码..."
+2026-06-02 15:56:13.218 [info] [MessageQueueStateListener] Session settled: conversationId=6d83ca0bbc464ada9f6bcf077360301d, state=completed, inflight=none
+2026-06-02 15:56:13.218 [info] [MessageQueueOrchestrator] evaluate: conversationId=6d83ca0bbc464ada9f6bcf077360301d, activated=true, paused=false, inflight=none, immediate=none, items=0
+2026-06-02 15:56:13.223 [info] [ChatStateSyncListener] Session 6d83ca0bbc464ada9f6bcf077360301d synced to main process with title: "帮我优化该文件代码..."
+2026-06-02 15:56:13.236 [info] [ConversationService] getConversationsWithState: returning 4 conversations, activeSessions=0
+2026-06-02 15:56:13.256 [info] [HistoryService] getMessagesPaginated START: conversationId=6d83ca0bbc464ada9f6bcf077360301d, pageSize=5, lastRequestId=undefined
+2026-06-02 15:56:13.256 [info] [startup-perf] scope=exthost phase=history:paginated event=begin durationMs=- conv=6d83ca0b pageSize=5 hasLastReq=false
+2026-06-02 15:56:13.256 [info] [HistoryService] Using cached MessageService for conversation 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.256 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.257 [info] [startup-perf] scope=exthost phase=history:get-range-requests event=begin durationMs=-
+2026-06-02 15:56:13.257 [info] [startup-perf] scope=exthost phase=history:get-range-requests event=end durationMs=0 reqs=5
+2026-06-02 15:56:13.257 [info] [startup-perf] scope=exthost phase=history:get-messages event=begin durationMs=- reqs=5
+2026-06-02 15:56:13.257 [info] [startup-perf] scope=exthost phase=history:get-messages-inner event=begin durationMs=- reqs=5
+2026-06-02 15:56:13.257 [info] [startup-perf] scope=exthost phase=history:get-messages-inner event=end durationMs=0 msgs=34
+2026-06-02 15:56:13.258 [info] [startup-perf] scope=exthost phase=history:parse event=begin durationMs=- msgs=34
+2026-06-02 15:56:13.258 [info] [startup-perf] scope=exthost phase=history:parse event=end durationMs=0 msgs=34 chunks=1 totalChars=66095 maxLen=15133 maxLenMsgId=05457a612a3248f29308ee2263543339 bigMessageCount=0
+2026-06-02 15:56:13.258 [info] [startup-perf] scope=exthost phase=history:get-messages event=end durationMs=1 msgs=34
+2026-06-02 15:56:13.258 [info] [HistoryService] getMessagesPaginated SUCCESS: messageCount=34, hasMore=true
+2026-06-02 15:56:13.258 [info] [startup-perf] scope=exthost phase=history:paginated event=end durationMs=2 conv=6d83ca0b msgs=34 hasMore=true
+2026-06-02 15:56:13.258 [info] [HistoryService] getConversation: conversationId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.258 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:56:13.263 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:13.388 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:13.464 [info] 开始监控 5 个文件的变更
+2026-06-02 15:56:13.766 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:13.893 [warning] [FileTreeService] getFlattenFileNodesByConversation: conversation current-session not found
+2026-06-02 15:56:15.216 [info] IDE headers set: Type=CodeBuddyIDE, Name=CodeBuddyIDE, Version=4.9.12
+2026-06-02 15:56:15.216 [info] [HTTP STATUS] start POST https://staging.codebuddy.cn/v2/report | Trace: 0f7b9bc9-ae3a-41b9-a8c3-5c059b6595aa
+2026-06-02 15:56:15.251 [info] [TracingService] Exported 8 spans, traceIds: 5dca776159eb6b5145023282226c3c7d
+2026-06-02 15:56:15.472 [info] [HTTP STATUS] end POST https://staging.codebuddy.cn/v2/report | Status: 200 | Trace: 0f7b9bc9-ae3a-41b9-a8c3-5c059b6595aa | Request: 8922d55bc116436fbfb992bfbc7e247c
+2026-06-02 15:56:21.237 [info] Status updated: info | Source: editor_change | Tooltip: 自动补全已开启
+2026-06-02 15:56:22.511 [info] Status updated: info | Source: editor_change | Tooltip: 自动补全已开启
+2026-06-02 15:56:23.217 [info] [AgentReporter] [AgentReporter] Memory usage (MB): {"rss":253.67,"heapTotal":227.72,"heapUsed":194.92,"external":6.15,"arrayBuffers":0}
+2026-06-02 15:56:36.306 [info] [CommandBar] ChatUserActionTelemetry reported (accept_file): conversationId=6d83ca0bbc464ada9f6bcf077360301d, filePath=/Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:36.310 [info] [InlineChatIDEProvider] Detected diff zone changes: /Users/vinyaliu/Documents/programs/codebuddytest/register.html
+2026-06-02 15:56:36.310 [info] [startup-perf] scope=exthost phase=filetree:refresh-workspace-search event=begin durationMs=-
+2026-06-02 15:56:36.310 [info] [startup-perf] scope=exthost phase=filetree:refresh-workspace-search event=end durationMs=0 nodes=0
+2026-06-02 15:56:36.310 [info] [FileTreeService] [fileTree] File tree changed, adapterConvId: current-session, workspace search refreshed: 0 files
+2026-06-02 15:56:36.310 [info] [startup-perf] scope=exthost phase=filetree:rpc-view-refresh event=begin durationMs=-
+2026-06-02 15:56:36.310 [info] [startup-perf] scope=exthost phase=filetree:rpc-view-refresh event=end durationMs=0
+2026-06-02 15:56:36.310 [info] [FileTreeService] [fileTree] No router found for conversation: current-session, skipping notification (router may not be created yet)
+2026-06-02 15:56:37.315 [info] [Workspace-Search] start getWorkspaceFiles
+2026-06-02 15:56:37.315 [info] Memory usage (MB): {"rss":251.97,"heapTotal":211.41,"heapUsed":189.22,"external":5.3,"arrayBuffers":0}
+2026-06-02 15:56:37.316 [info] [Workspace-Search] cached 17 files, 4 directories
+2026-06-02 15:56:37.316 [info] [Workspace-Search] end getWorkspaceFiles
+2026-06-02 15:56:37.316 [info] Workspace refresh completed - Files: 17, Directories: 4
+2026-06-02 15:56:38.312 [info] IDE headers set: Type=CodeBuddyIDE, Name=CodeBuddyIDE, Version=4.9.12
+2026-06-02 15:56:38.312 [info] [HTTP STATUS] start POST https://staging.codebuddy.cn/v2/report | Trace: c71c397d-536a-4ba6-829b-4e1cc654ff7c
+2026-06-02 15:56:38.536 [info] [HTTP STATUS] end POST https://staging.codebuddy.cn/v2/report | Status: 200 | Trace: c71c397d-536a-4ba6-829b-4e1cc654ff7c | Request: df2f56545b174472b8cf90a0b5b68cd6
+2026-06-02 15:56:47.522 [info] [RENDERER-MEMORY] Renderer进程:5个 插件进程:RSS=251MB,Heap=190MB CPU负载:[5.27,4.17,4.05] 平台:darwin
+2026-06-02 15:56:47.522 [info] [RENDERER-MEMORY] 进程详情 PID:88637 名称:renderer-webview 内存:442MB CPU:7.9%
+2026-06-02 15:56:47.522 [info] [RENDERER-MEMORY] 进程详情 PID:88823 名称:renderer-webview 内存:49MB CPU:0.0%
+2026-06-02 15:56:47.522 [info] [RENDERER-MEMORY] 进程详情 PID:88988 名称:renderer-webview 内存:344MB CPU:0.1%
+2026-06-02 15:56:47.522 [info] [RENDERER-MEMORY] 进程详情 PID:99621 名称:renderer-webview 内存:246MB CPU:0.0%
+2026-06-02 15:56:47.522 [info] [RENDERER-MEMORY] 进程详情 PID:99628 名称:renderer-webview 内存:49MB CPU:0.0%
+2026-06-02 15:56:48.026 [warning] [BuiltInSkillMarketplaceProvider] [BuiltInSkillMarketplace] Cannot parse version from URL: https://download.codebuddy.cn/skill-marketplace/skill-marketplace.zip
+2026-06-02 15:56:48.026 [info] [BuiltInSkillMarketplaceProvider] [BuiltInSkillMarketplace] Parsed version from URL:  (URL: https://download.codebuddy.cn/skill-marketplace/skill-marketplace.zip)
+2026-06-02 15:56:48.026 [info] [BuiltInSkillMarketplaceProvider] [BuiltInSkillMarketplace] Cannot fetch remote version but local version exists, skipping update
+2026-06-02 15:56:48.026 [info] [BuiltInSkillMarketplaceProvider] [BuiltInSkillMarketplace] Local version matches remote, skipping
+2026-06-02 15:56:49.569 [info] [plugin-manager] Loaded total 0 MCP server(s) from 8 plugin(s)
+2026-06-02 15:56:49.569 [info] [McpAgentDispatcherImpl] Loaded 0 MCP server(s) from plugins
+2026-06-02 15:56:49.569 [info] [MCP:HealthPatrol] Patrol completed in 1ms - Checked: 0, Healthy: 0, Unhealthy: 0, Changes: false
+2026-06-02 15:56:49.569 [info] [MCP:TokenRefresh] Check cycle started, 0 OAuth server(s) to check: []
+2026-06-02 15:56:49.569 [info] [MCP:TokenRefresh] Check cycle completed
+2026-06-02 15:57:12.294 [info] IDE headers set: Type=CodeBuddyIDE, Name=CodeBuddyIDE, Version=4.9.12
+2026-06-02 15:57:12.294 [info] [HTTP STATUS] start POST /v2/billing/meter/get-dosage-notify | Trace: 15d69ad7-0057-4275-8e7f-ec6fba207d57
+2026-06-02 15:57:12.297 [info] [HistoryService] getMessagesPaginated START: conversationId=6d83ca0bbc464ada9f6bcf077360301d, pageSize=5, lastRequestId=undefined
+2026-06-02 15:57:12.298 [info] [startup-perf] scope=exthost phase=history:paginated event=begin durationMs=- conv=6d83ca0b pageSize=5 hasLastReq=false
+2026-06-02 15:57:12.298 [info] [HistoryService] Using cached MessageService for conversation 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:57:12.300 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:57:12.300 [info] [startup-perf] scope=exthost phase=history:get-range-requests event=begin durationMs=-
+2026-06-02 15:57:12.301 [info] [startup-perf] scope=exthost phase=history:get-range-requests event=end durationMs=0 reqs=5
+2026-06-02 15:57:12.301 [info] [startup-perf] scope=exthost phase=history:get-messages event=begin durationMs=- reqs=5
+2026-06-02 15:57:12.301 [info] [startup-perf] scope=exthost phase=history:get-messages-inner event=begin durationMs=- reqs=5
+2026-06-02 15:57:12.301 [info] [startup-perf] scope=exthost phase=history:get-messages-inner event=end durationMs=1 msgs=34
+2026-06-02 15:57:12.302 [info] [startup-perf] scope=exthost phase=history:parse event=begin durationMs=- msgs=34
+2026-06-02 15:57:12.302 [info] [startup-perf] scope=exthost phase=history:parse event=end durationMs=0 msgs=34 chunks=1 totalChars=66095 maxLen=15133 maxLenMsgId=05457a612a3248f29308ee2263543339 bigMessageCount=0
+2026-06-02 15:57:12.302 [info] [startup-perf] scope=exthost phase=history:get-messages event=end durationMs=1 msgs=34
+2026-06-02 15:57:12.302 [info] [HistoryService] getMessagesPaginated SUCCESS: messageCount=34, hasMore=true
+2026-06-02 15:57:12.302 [info] [startup-perf] scope=exthost phase=history:paginated event=end durationMs=4 conv=6d83ca0b msgs=34 hasMore=true
+2026-06-02 15:57:12.302 [info] [HistoryService] getConversation: conversationId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:57:12.302 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:57:12.303 [info] [subagent-manager] [SubagentManager] 从文件系统加载数据
+2026-06-02 15:57:12.305 [info] [subagent-manager] [SubagentManager] 解析文件 builtin: enabled 原始值='true'
+2026-06-02 15:57:12.305 [info] [subagent-manager] [SubagentManager] builtin: enabled 解析结果=true, enabledAutoRun 解析结果=true
+2026-06-02 15:57:12.305 [info] [subagent-manager] [SubagentManager] builtin: 最终 config.enabled=true, config.enabledAutoRun=true
+2026-06-02 15:57:12.305 [info] [subagent-manager] builtin config counts: 1
+2026-06-02 15:57:12.305 [info] [subagent-manager] [SubagentManager] Subagents 缓存已更新，共 1 个 subagents
+2026-06-02 15:57:12.305 [info] [subagent-manager] [SubagentManager] 从系统加载模型列表
+2026-06-02 15:57:12.305 [info] [subagent-manager] [found] [SubagentManager] getMainAgentModels - agent:
+2026-06-02 15:57:12.305 [info] [subagent-manager] [SubagentManager] getMainAgentModels - returning 15 models
+2026-06-02 15:57:12.305 [info] [subagent-manager] [SubagentManager] 模型缓存已更新，共 15 个模型
+2026-06-02 15:57:12.305 [info] [SubagentsService] [SubagentsService] 从系统获取模型列表，共 15 个模型
+2026-06-02 15:57:12.305 [info] [subagent-manager] [SubagentManager] 从系统加载 MCP 服务器列表
+2026-06-02 15:57:12.305 [info] [subagent-manager] [SubagentManager] 初始化工具列表...
+2026-06-02 15:57:12.305 [info] [SubagentsService] [SubagentsService] 从文件系统加载数据
+2026-06-02 15:57:12.306 [info] [SubagentsService] [[{"name":"Deepseek-V4-Pro","modelID":"deepseek-v4-pro"},{"name":"Deepseek-V4-Flash","modelID":"deepseek-v4-flash"},{"name":"Claude-4.0-test","modelID":"claude-4.0-us-evaluation"},{"name":"Claude-3.7-Sonnet","modelID":"default-1.1"},{"name":"Claude-4.0-Sonnet","modelID":"default-1.2"},{"name":"GPT-4o-mini","modelID":"o4-mini"},{"name":"GPT-5","modelID":"gpt-5"},{"name":"GPT-5-codex","modelID":"gpt-5-codex"},{"name":"GPT-5-mini","modelID":"gpt-5-mini"},{"name":"GPT-5-nano","modelID":"gpt-5-nano"},{"name":"deepseek-v3-0324","modelID":"deepseek-v3-0324-gf"},{"name":"deepseek-r1-0528","modelID":"deepseek-r1-0528-gf"},{"name":"Kimi-k2","modelID":"kimi-k2-instruct-taiji"},{"name":"deepseek-v3-0324","modelID":"deepseek-v3-0324-lkeap"},{"name":"deepseek-r1-0528","modelID":"deepseek-r1-0528-lkeap"}]] [SubagentsService] validModels count: 15, models:
+2026-06-02 15:57:12.306 [info] [subagent-manager] initValidTool codebaseStatus: false
+2026-06-02 15:57:12.306 [info] [Connector-Debug] getServersSync called, initial serverMap.size=0
+2026-06-02 15:57:12.306 [info] [Connector-Debug] getServersSync: loading from file...
+2026-06-02 15:57:12.306 [info] [ConnectorMcpService] loadServersFromFileSync: reading from /Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/connectors/connector-servers.json
+2026-06-02 15:57:12.306 [warning] [ConnectorMcpService] loadServersFromFileSync: failed to load - ENOENT: no such file or directory, open '/Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/connectors/connector-servers.json'
+2026-06-02 15:57:12.306 [info] [Connector-Debug] getServersSync: after loadServersFromFileSync, serverMap.size=0
+2026-06-02 15:57:12.306 [info] [Connector-Debug] getServersSync result: total=0, connected=0, servers=none
+2026-06-02 15:57:12.306 [info] [subagent-manager] [SubagentManager] 从文件系统加载数据
+2026-06-02 15:57:12.308 [info] [subagent-manager] total server count: 2. project server count: 0, user server count: 2
+2026-06-02 15:57:12.308 [info] [subagent-manager] [SubagentManager] MCP 服务器缓存已更新，共 2 个服务器
+2026-06-02 15:57:12.308 [info] [subagent-manager] [SubagentManager] 解析文件 builtin: enabled 原始值='true'
+2026-06-02 15:57:12.308 [info] [subagent-manager] [SubagentManager] builtin: enabled 解析结果=true, enabledAutoRun 解析结果=true
+2026-06-02 15:57:12.308 [info] [subagent-manager] [SubagentManager] builtin: 最终 config.enabled=true, config.enabledAutoRun=true
+2026-06-02 15:57:12.308 [info] [subagent-manager] builtin config counts: 1
+2026-06-02 15:57:12.308 [info] [subagent-manager] [SubagentManager] Subagents 缓存已更新，共 1 个 subagents
+2026-06-02 15:57:12.308 [info] [subagent-manager] [SubagentManager] 工具列表初始化完成
+2026-06-02 15:57:12.524 [info] [HTTP STATUS] end POST /v2/billing/meter/get-dosage-notify | Status: 200 | Trace: 15d69ad7-0057-4275-8e7f-ec6fba207d57 | Request: 8ecd390b8f4546f28fc68988e4108ccb
+2026-06-02 15:57:14.311 [info] IDE headers set: Type=CodeBuddyIDE, Name=CodeBuddyIDE, Version=4.9.12
+2026-06-02 15:57:14.311 [info] [HTTP STATUS] start POST https://staging.codebuddy.cn/v2/report | Trace: d0b24861-3eec-4a2f-9b42-671a77f54740
+2026-06-02 15:57:14.528 [info] [HTTP STATUS] end POST https://staging.codebuddy.cn/v2/report | Status: 200 | Trace: d0b24861-3eec-4a2f-9b42-671a77f54740 | Request: 74dcdabf164349c49ea5dfd3ced60830
+2026-06-02 15:57:14.994 [info] Status updated: info | Source: editor_change | Tooltip: 自动补全已开启
+2026-06-02 15:57:21.471 [info] Status updated: info | Source: editor_change | Tooltip: 自动补全已开启
+2026-06-02 15:57:39.038 [info] IDE headers set: Type=CodeBuddyIDE, Name=CodeBuddyIDE, Version=4.9.12
+2026-06-02 15:57:39.038 [info] [HTTP STATUS] start POST /v2/billing/meter/get-dosage-notify | Trace: dfca2880-5601-41de-9327-d87dbb17b51c
+2026-06-02 15:57:39.043 [info] [HistoryService] getMessagesPaginated START: conversationId=6d83ca0bbc464ada9f6bcf077360301d, pageSize=5, lastRequestId=undefined
+2026-06-02 15:57:39.043 [info] [startup-perf] scope=exthost phase=history:paginated event=begin durationMs=- conv=6d83ca0b pageSize=5 hasLastReq=false
+2026-06-02 15:57:39.043 [info] [HistoryService] Using cached MessageService for conversation 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:57:39.044 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:57:39.044 [info] [startup-perf] scope=exthost phase=history:get-range-requests event=begin durationMs=-
+2026-06-02 15:57:39.044 [info] [startup-perf] scope=exthost phase=history:get-range-requests event=end durationMs=1 reqs=5
+2026-06-02 15:57:39.044 [info] [startup-perf] scope=exthost phase=history:get-messages event=begin durationMs=- reqs=5
+2026-06-02 15:57:39.044 [info] [startup-perf] scope=exthost phase=history:get-messages-inner event=begin durationMs=- reqs=5
+2026-06-02 15:57:39.045 [info] [startup-perf] scope=exthost phase=history:get-messages-inner event=end durationMs=0 msgs=34
+2026-06-02 15:57:39.045 [info] [startup-perf] scope=exthost phase=history:parse event=begin durationMs=- msgs=34
+2026-06-02 15:57:39.045 [info] [startup-perf] scope=exthost phase=history:parse event=end durationMs=0 msgs=34 chunks=1 totalChars=66095 maxLen=15133 maxLenMsgId=05457a612a3248f29308ee2263543339 bigMessageCount=0
+2026-06-02 15:57:39.045 [info] [startup-perf] scope=exthost phase=history:get-messages event=end durationMs=1 msgs=34
+2026-06-02 15:57:39.045 [info] [HistoryService] getMessagesPaginated SUCCESS: messageCount=34, hasMore=true
+2026-06-02 15:57:39.045 [info] [startup-perf] scope=exthost phase=history:paginated event=end durationMs=2 conv=6d83ca0b msgs=34 hasMore=true
+2026-06-02 15:57:39.045 [info] [HistoryService] getConversation: conversationId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:57:39.045 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:57:39.046 [info] [subagent-manager] [SubagentManager] 从文件系统加载数据
+2026-06-02 15:57:39.048 [info] [subagent-manager] [SubagentManager] 解析文件 builtin: enabled 原始值='true'
+2026-06-02 15:57:39.048 [info] [subagent-manager] [SubagentManager] builtin: enabled 解析结果=true, enabledAutoRun 解析结果=true
+2026-06-02 15:57:39.048 [info] [subagent-manager] [SubagentManager] builtin: 最终 config.enabled=true, config.enabledAutoRun=true
+2026-06-02 15:57:39.048 [info] [subagent-manager] builtin config counts: 1
+2026-06-02 15:57:39.048 [info] [subagent-manager] [SubagentManager] Subagents 缓存已更新，共 1 个 subagents
+2026-06-02 15:57:39.048 [info] [subagent-manager] [SubagentManager] 从系统加载模型列表
+2026-06-02 15:57:39.048 [info] [subagent-manager] [found] [SubagentManager] getMainAgentModels - agent:
+2026-06-02 15:57:39.048 [info] [subagent-manager] [SubagentManager] getMainAgentModels - returning 15 models
+2026-06-02 15:57:39.048 [info] [subagent-manager] [SubagentManager] 模型缓存已更新，共 15 个模型
+2026-06-02 15:57:39.049 [info] [SubagentsService] [SubagentsService] 从系统获取模型列表，共 15 个模型
+2026-06-02 15:57:39.049 [info] [subagent-manager] [SubagentManager] 从系统加载 MCP 服务器列表
+2026-06-02 15:57:39.049 [info] [subagent-manager] [SubagentManager] 初始化工具列表...
+2026-06-02 15:57:39.049 [info] [SubagentsService] [SubagentsService] 从文件系统加载数据
+2026-06-02 15:57:39.049 [info] [SubagentsService] [[{"name":"Deepseek-V4-Pro","modelID":"deepseek-v4-pro"},{"name":"Deepseek-V4-Flash","modelID":"deepseek-v4-flash"},{"name":"Claude-4.0-test","modelID":"claude-4.0-us-evaluation"},{"name":"Claude-3.7-Sonnet","modelID":"default-1.1"},{"name":"Claude-4.0-Sonnet","modelID":"default-1.2"},{"name":"GPT-4o-mini","modelID":"o4-mini"},{"name":"GPT-5","modelID":"gpt-5"},{"name":"GPT-5-codex","modelID":"gpt-5-codex"},{"name":"GPT-5-mini","modelID":"gpt-5-mini"},{"name":"GPT-5-nano","modelID":"gpt-5-nano"},{"name":"deepseek-v3-0324","modelID":"deepseek-v3-0324-gf"},{"name":"deepseek-r1-0528","modelID":"deepseek-r1-0528-gf"},{"name":"Kimi-k2","modelID":"kimi-k2-instruct-taiji"},{"name":"deepseek-v3-0324","modelID":"deepseek-v3-0324-lkeap"},{"name":"deepseek-r1-0528","modelID":"deepseek-r1-0528-lkeap"}]] [SubagentsService] validModels count: 15, models:
+2026-06-02 15:57:39.049 [info] [subagent-manager] initValidTool codebaseStatus: false
+2026-06-02 15:57:39.049 [info] [Connector-Debug] getServersSync called, initial serverMap.size=0
+2026-06-02 15:57:39.049 [info] [Connector-Debug] getServersSync: loading from file...
+2026-06-02 15:57:39.049 [info] [ConnectorMcpService] loadServersFromFileSync: reading from /Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/connectors/connector-servers.json
+2026-06-02 15:57:39.049 [warning] [ConnectorMcpService] loadServersFromFileSync: failed to load - ENOENT: no such file or directory, open '/Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/connectors/connector-servers.json'
+2026-06-02 15:57:39.049 [info] [Connector-Debug] getServersSync: after loadServersFromFileSync, serverMap.size=0
+2026-06-02 15:57:39.049 [info] [Connector-Debug] getServersSync result: total=0, connected=0, servers=none
+2026-06-02 15:57:39.049 [info] [subagent-manager] [SubagentManager] 从文件系统加载数据
+2026-06-02 15:57:39.050 [info] [subagent-manager] total server count: 2. project server count: 0, user server count: 2
+2026-06-02 15:57:39.050 [info] [subagent-manager] [SubagentManager] MCP 服务器缓存已更新，共 2 个服务器
+2026-06-02 15:57:39.050 [info] [subagent-manager] [SubagentManager] 解析文件 builtin: enabled 原始值='true'
+2026-06-02 15:57:39.050 [info] [subagent-manager] [SubagentManager] builtin: enabled 解析结果=true, enabledAutoRun 解析结果=true
+2026-06-02 15:57:39.050 [info] [subagent-manager] [SubagentManager] builtin: 最终 config.enabled=true, config.enabledAutoRun=true
+2026-06-02 15:57:39.050 [info] [subagent-manager] builtin config counts: 1
+2026-06-02 15:57:39.050 [info] [subagent-manager] [SubagentManager] Subagents 缓存已更新，共 1 个 subagents
+2026-06-02 15:57:39.051 [info] [subagent-manager] [SubagentManager] 工具列表初始化完成
+2026-06-02 15:57:39.261 [info] [HTTP STATUS] end POST /v2/billing/meter/get-dosage-notify | Status: 200 | Trace: dfca2880-5601-41de-9327-d87dbb17b51c | Request: fa8d321d912d466f847f8d9f606c9c6e
+2026-06-02 15:57:41.052 [info] IDE headers set: Type=CodeBuddyIDE, Name=CodeBuddyIDE, Version=4.9.12
+2026-06-02 15:57:41.052 [info] [HTTP STATUS] start POST https://staging.codebuddy.cn/v2/report | Trace: 3c494357-4a0e-474e-b5b3-bc601afd4cda
+2026-06-02 15:57:41.290 [info] [HTTP STATUS] end POST https://staging.codebuddy.cn/v2/report | Status: 200 | Trace: 3c494357-4a0e-474e-b5b3-bc601afd4cda | Request: 5899e9c29e12453c9090d8feede2089f
+2026-06-02 15:57:43.893 [info] IDE headers set: Type=CodeBuddyIDE, Name=CodeBuddyIDE, Version=4.9.12
+2026-06-02 15:57:43.893 [info] [HTTP STATUS] start POST /v2/billing/meter/get-dosage-notify | Trace: 55668bad-02e7-4cc3-a74a-d666c06eeee8
+2026-06-02 15:57:43.897 [info] [HistoryService] getMessagesPaginated START: conversationId=6d83ca0bbc464ada9f6bcf077360301d, pageSize=5, lastRequestId=undefined
+2026-06-02 15:57:43.897 [info] [startup-perf] scope=exthost phase=history:paginated event=begin durationMs=- conv=6d83ca0b pageSize=5 hasLastReq=false
+2026-06-02 15:57:43.897 [info] [HistoryService] Using cached MessageService for conversation 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:57:43.897 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:57:43.898 [info] [startup-perf] scope=exthost phase=history:get-range-requests event=begin durationMs=-
+2026-06-02 15:57:43.898 [info] [startup-perf] scope=exthost phase=history:get-range-requests event=end durationMs=1 reqs=5
+2026-06-02 15:57:43.898 [info] [startup-perf] scope=exthost phase=history:get-messages event=begin durationMs=- reqs=5
+2026-06-02 15:57:43.898 [info] [startup-perf] scope=exthost phase=history:get-messages-inner event=begin durationMs=- reqs=5
+2026-06-02 15:57:43.899 [info] [startup-perf] scope=exthost phase=history:get-messages-inner event=end durationMs=1 msgs=34
+2026-06-02 15:57:43.899 [info] [startup-perf] scope=exthost phase=history:parse event=begin durationMs=- msgs=34
+2026-06-02 15:57:43.899 [info] [startup-perf] scope=exthost phase=history:parse event=end durationMs=0 msgs=34 chunks=1 totalChars=66095 maxLen=15133 maxLenMsgId=05457a612a3248f29308ee2263543339 bigMessageCount=0
+2026-06-02 15:57:43.899 [info] [startup-perf] scope=exthost phase=history:get-messages event=end durationMs=1 msgs=34
+2026-06-02 15:57:43.899 [info] [HistoryService] getMessagesPaginated SUCCESS: messageCount=34, hasMore=true
+2026-06-02 15:57:43.899 [info] [startup-perf] scope=exthost phase=history:paginated event=end durationMs=2 conv=6d83ca0b msgs=34 hasMore=true
+2026-06-02 15:57:43.899 [info] [HistoryService] getConversation: conversationId=6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:57:43.899 [info] [HistoryStorage] Released resources for conversation: 6d83ca0bbc464ada9f6bcf077360301d
+2026-06-02 15:57:43.900 [info] [subagent-manager] [SubagentManager] 从文件系统加载数据
+2026-06-02 15:57:43.902 [info] [subagent-manager] [SubagentManager] 解析文件 builtin: enabled 原始值='true'
+2026-06-02 15:57:43.902 [info] [subagent-manager] [SubagentManager] builtin: enabled 解析结果=true, enabledAutoRun 解析结果=true
+2026-06-02 15:57:43.902 [info] [subagent-manager] [SubagentManager] builtin: 最终 config.enabled=true, config.enabledAutoRun=true
+2026-06-02 15:57:43.902 [info] [subagent-manager] builtin config counts: 1
+2026-06-02 15:57:43.902 [info] [subagent-manager] [SubagentManager] Subagents 缓存已更新，共 1 个 subagents
+2026-06-02 15:57:43.902 [info] [subagent-manager] [SubagentManager] 从系统加载模型列表
+2026-06-02 15:57:43.902 [info] [subagent-manager] [found] [SubagentManager] getMainAgentModels - agent:
+2026-06-02 15:57:43.902 [info] [subagent-manager] [SubagentManager] getMainAgentModels - returning 15 models
+2026-06-02 15:57:43.902 [info] [subagent-manager] [SubagentManager] 模型缓存已更新，共 15 个模型
+2026-06-02 15:57:43.902 [info] [SubagentsService] [SubagentsService] 从系统获取模型列表，共 15 个模型
+2026-06-02 15:57:43.903 [info] [subagent-manager] [SubagentManager] 从系统加载 MCP 服务器列表
+2026-06-02 15:57:43.903 [info] [subagent-manager] [SubagentManager] 初始化工具列表...
+2026-06-02 15:57:43.903 [info] [SubagentsService] [SubagentsService] 从文件系统加载数据
+2026-06-02 15:57:43.903 [info] [SubagentsService] [[{"name":"Deepseek-V4-Pro","modelID":"deepseek-v4-pro"},{"name":"Deepseek-V4-Flash","modelID":"deepseek-v4-flash"},{"name":"Claude-4.0-test","modelID":"claude-4.0-us-evaluation"},{"name":"Claude-3.7-Sonnet","modelID":"default-1.1"},{"name":"Claude-4.0-Sonnet","modelID":"default-1.2"},{"name":"GPT-4o-mini","modelID":"o4-mini"},{"name":"GPT-5","modelID":"gpt-5"},{"name":"GPT-5-codex","modelID":"gpt-5-codex"},{"name":"GPT-5-mini","modelID":"gpt-5-mini"},{"name":"GPT-5-nano","modelID":"gpt-5-nano"},{"name":"deepseek-v3-0324","modelID":"deepseek-v3-0324-gf"},{"name":"deepseek-r1-0528","modelID":"deepseek-r1-0528-gf"},{"name":"Kimi-k2","modelID":"kimi-k2-instruct-taiji"},{"name":"deepseek-v3-0324","modelID":"deepseek-v3-0324-lkeap"},{"name":"deepseek-r1-0528","modelID":"deepseek-r1-0528-lkeap"}]] [SubagentsService] validModels count: 15, models:
+2026-06-02 15:57:43.903 [info] [subagent-manager] initValidTool codebaseStatus: false
+2026-06-02 15:57:43.903 [info] [Connector-Debug] getServersSync called, initial serverMap.size=0
+2026-06-02 15:57:43.903 [info] [Connector-Debug] getServersSync: loading from file...
+2026-06-02 15:57:43.903 [info] [ConnectorMcpService] loadServersFromFileSync: reading from /Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/connectors/connector-servers.json
+2026-06-02 15:57:43.903 [warning] [ConnectorMcpService] loadServersFromFileSync: failed to load - ENOENT: no such file or directory, open '/Users/vinyaliu/Library/Application Support/CodeBuddyExtension/Data/949dfa74-7aad-4838-96a4-64f8e2b1d768/CodeBuddyIDE/connectors/connector-servers.json'
+2026-06-02 15:57:43.903 [info] [Connector-Debug] getServersSync: after loadServersFromFileSync, serverMap.size=0
+2026-06-02 15:57:43.903 [info] [Connector-Debug] getServersSync result: total=0, connected=0, servers=none
+2026-06-02 15:57:43.903 [info] [subagent-manager] [SubagentManager] 从文件系统加载数据
+2026-06-02 15:57:43.904 [info] [subagent-manager] total server count: 2. project server count: 0, user server count: 2
+2026-06-02 15:57:43.904 [info] [subagent-manager] [SubagentManager] MCP 服务器缓存已更新，共 2 个服务器
+2026-06-02 15:57:43.904 [info] [subagent-manager] [SubagentManager] 解析文件 builtin: enabled 原始值='true'
+2026-06-02 15:57:43.904 [info] [subagent-manager] [SubagentManager] builtin: enabled 解析结果=true, enabledAutoRun 解析结果=true
+2026-06-02 15:57:43.904 [info] [subagent-manager] [SubagentManager] builtin: 最终 config.enabled=true, config.enabledAutoRun=true
+2026-06-02 15:57:43.904 [info] [subagent-manager] builtin config counts: 1
+2026-06-02 15:57:43.904 [info] [subagent-manager] [SubagentManager] Subagents 缓存已更新，共 1 个 subagents
+2026-06-02 15:57:43.904 [info] [subagent-manager] [SubagentManager] 工具列表初始化完成
+2026-06-02 15:57:44.109 [info] [HTTP STATUS] end POST /v2/billing/meter/get-dosage-notify | Status: 200 | Trace: 55668bad-02e7-4cc3-a74a-d666c06eeee8 | Request: fd769db08f37428f9aa964ecd4f690e6
+2026-06-02 15:57:45.386 [info] Status updated: info | Source: editor_change | Tooltip: 自动补全已开启
+2026-06-02 15:57:45.908 [info] IDE headers set: Type=CodeBuddyIDE, Name=CodeBuddyIDE, Version=4.9.12
+2026-06-02 15:57:45.908 [info] [HTTP STATUS] start POST https://staging.codebuddy.cn/v2/report | Trace: 745f4611-80e9-4b64-a319-17134cfda51f
+2026-06-02 15:57:46.123 [info] [HTTP STATUS] end POST https://staging.codebuddy.cn/v2/report | Status: 200 | Trace: 745f4611-80e9-4b64-a319-17134cfda51f | Request: 089da57a71dd41e7afd787255af3f891
+2026-06-02 15:57:47.512 [info] [RENDERER-MEMORY] Renderer进程:5个 插件进程:RSS=253MB,Heap=193MB CPU负载:[3.66,3.91,3.96] 平台:darwin
+2026-06-02 15:57:47.512 [info] [RENDERER-MEMORY] 进程详情 PID:88637 名称:renderer-webview 内存:393MB CPU:20.2%
+2026-06-02 15:57:47.512 [info] [RENDERER-MEMORY] 进程详情 PID:88823 名称:renderer-webview 内存:49MB CPU:0.0%
+2026-06-02 15:57:47.512 [info] [RENDERER-MEMORY] 进程详情 PID:88988 名称:renderer-webview 内存:344MB CPU:4.4%
+2026-06-02 15:57:47.512 [info] [RENDERER-MEMORY] 进程详情 PID:99621 名称:renderer-webview 内存:246MB CPU:0.5%
+2026-06-02 15:57:47.512 [info] [RENDERER-MEMORY] 进程详情 PID:99628 名称:renderer-webview 内存:49MB CPU:0.0%
+2026-06-02 15:57:48.024 [warning] [BuiltInSkillMarketplaceProvider] [BuiltInSkillMarketplace] Cannot parse version from URL: https://download.codebuddy.cn/skill-marketplace/skill-marketplace.zip
+2026-06-02 15:57:48.024 [info] [BuiltInSkillMarketplaceProvider] [BuiltInSkillMarketplace] Parsed version from URL:  (URL: https://download.codebuddy.cn/skill-marketplace/skill-marketplace.zip)
+2026-06-02 15:57:48.025 [info] [BuiltInSkillMarketplaceProvider] [BuiltInSkillMarketplace] Cannot fetch remote version but local version exists, skipping update
+2026-06-02 15:57:48.025 [info] [BuiltInSkillMarketplaceProvider] [BuiltInSkillMarketplace] Local version matches remote, skipping
