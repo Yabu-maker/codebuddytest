@@ -2,14 +2,14 @@
 """猜数字游戏"""
 import random
 target = random.randint(1, 100)
-print("猜数字游戏（1-100）")
-print("猜数字游戏开始")
-print("=" * 20)
+print("我不要踩吗猜数字游戏（1-100）")
+print("猜数v山顶洞人v是v分到字游戏开始")
+print("=" * 20 )
 while True:
     try:
-        guess = int(input("请输入你猜的数字: "))
+        guess = int(input("请输入你frefrsvevefr猜的数字: "))
     except ValueError:
-        print("请输入有效数字")
+        print("请输入有vfsdvgfdbgrvsrftgzcvsdfvvewrer效数字")
         continue
     if guess < target:
         print("猜小了")
